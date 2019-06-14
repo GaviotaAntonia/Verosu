@@ -21,6 +21,43 @@
   <?php include 'nav.html'; ?>
 <!--FINAL NAV-->
 <body>
+  <br>
+
+ <div class="card-deck">
+    <div class="card bg-light">
+      <div class="card-body text-center">
+       <img class="card-img-top" src="prueba2.jpg" alt="Card image" style="width:100%">
+    <div class="card-body">
+      <h4 class="card-title">Gratuito</h4>
+      <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+      <a href="#" class="btn btn-primary stretched-link">See Profile</a>
+    </div>
+      </div>
+    </div>
+
+    <div class="card bg-light">
+      <div class="card-body text-center">
+         <img class="card-img-top" src="prueba1.jpg" alt="Card image" style="width:100%">
+    <div class="card-body">
+      <h4 class="card-title">Media</h4>
+      <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+      <a href="#" class="btn btn-primary stretched-link">See Profile</a>
+    </div>
+      </div>
+    </div>
+
+    <div class="card bg-light">
+      <div class="card-body text-center">
+        <img class="card-img-top" src="PRUEBA3.png" alt="Card image" style="width:100%">
+    <div class="card-body">
+      <h4 class="card-title">Plan 3</h4>
+      <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+      <a href="#" class="btn btn-primary stretched-link">See Profile</a>
+    </div>
+      </div>
+    </div>
+   
+  </div>
 
  
 </body>
