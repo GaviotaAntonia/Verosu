@@ -49,7 +49,9 @@
                         <a class="dropdown-item" href="#">Another action</a>
                     </div>
                 </li>
-
+                <li class="nav-item">
+                  <a class="nav-link" href="materiales.php">Materiales</a>
+                </li>
                 
 
                 <li class="nav-item">
