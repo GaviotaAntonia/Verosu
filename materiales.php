@@ -51,7 +51,9 @@
         <img class="card-img-top" src="PRUEBA3.png" alt="Card image" style="width:100%">
     <div class="card-body">
       <h4 class="card-title">Plan 3</h4>
-      <p class="card-text">PRUEBA 2 PARA SABER SI SE PUEDEs</p>
+
+      <p class="card-text">PRUEBA 3 PARA SABER SI SE PUEDE</p>
+
       <a href="#" class="btn btn-primary stretched-link">See Profile</a>
     </div>
       </div>
