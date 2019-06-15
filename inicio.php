@@ -95,7 +95,7 @@
     <div class="card">
       <div class="card-header">
         <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-         NOTICIA 3:<br><p style="color: #636363">No solo de tecnologia</p>
+         NOTICIA 2<br><p style="color: #636363">No solo de tecnologia</p>
       </a>
       </div>
       <div id="collapseTwo" class="collapse" data-parent="#accordion">
@@ -107,7 +107,7 @@
     <div class="card">
       <div class="card-header">
         <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-          Collapsible Group Item #3
+          NOTICIA 3<br><p style="color: #636363">noticia 15062019</p>
         </a>
       </div>
       <div id="collapseThree" class="collapse" data-parent="#accordion">
