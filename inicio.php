@@ -83,11 +83,11 @@
     <div class="card">
       <div class="card-header">
         <a class="card-link" data-toggle="collapse" href="#collapseOne">
-          Perspectiva de Vida
+          La ciberseguridad:<br><p style="color: #636363">No solo de tecnologia</p>
         </a>
       </div>
       <div id="collapseOne" class="collapse show" data-parent="#accordion">
-        <div class="card-body">
+        <div class="card-body" style="color: black">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </div>
       </div>
@@ -95,7 +95,7 @@
     <div class="card">
       <div class="card-header">
         <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-        Collapsible Group Item #2
+         NOTICIA 3:<br><p style="color: #636363">No solo de tecnologia</p>
       </a>
       </div>
       <div id="collapseTwo" class="collapse" data-parent="#accordion">
