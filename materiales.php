@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,34 +25,34 @@
  <div class="card-deck">
     <div class="card bg-light">
       <div class="card-body text-center">
-       <img class="card-img-top" src="prueba2.jpg" alt="Card image" style="width:100%">
-    <div class="card-body">
-      <h4 class="card-title">Gratuito</h4>
-      <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
-      <a href="#" class="btn btn-primary stretched-link">See Profile</a>
-    </div>
+       <img class="card-img-top" src="imgenes/PRUEBA3.png" alt="Card image" style="width:100%">
+          <div class="card-body">
+          <h4 class="card-title">Gratuito</h4>
+          <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+          <a href="#" class="btn btn-primary stretched-link">See Profile</a>
+          </div>
       </div>
     </div>
 
     <div class="card bg-light">
       <div class="card-body text-center">
-         <img class="card-img-top" src="prueba1.jpg" alt="Card image" style="width:100%">
-    <div class="card-body">
-      <h4 class="card-title">Media</h4>
-      <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
-      <a href="#" class="btn btn-primary stretched-link">See Profile</a>
-    </div>
+         <img class="card-img-top" src="imgenes/prueba2.jpg" alt="Card image" style="width:100%">
+          <div class="card-body">
+            <h4 class="card-title">Media</h4>
+             <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+             <a href="#" class="btn btn-primary stretched-link">See Profile</a>
+          </div>
       </div>
     </div>
 
     <div class="card bg-light">
       <div class="card-body text-center">
-        <img class="card-img-top" src="PRUEBA3.png" alt="Card image" style="width:100%">
-    <div class="card-body">
-      <h4 class="card-title">Plan 3</h4>
-      <p class="card-text">PRUEBA 3 PARA SABER SI SE PUEDE</p>
-      <a href="#" class="btn btn-primary stretched-link">See Profile</a>
-    </div>
+        <img class="card-img-top" src="imgenes/prueba1.jpg" alt="Card image" style="width:100%">
+          <div class="card-body">
+           <h4 class="card-title">Plan 3</h4>
+           <p class="card-text">PRUEBA 3 PARA SABER SI SE PUEDE</p>
+           <a href="#" class="btn btn-primary stretched-link">See Profile</a>
+          </div>
       </div>
     </div>
    
@@ -65,7 +64,7 @@
 <!--inicio footer-->
 <?php include 'footer.html'; ?>
 <!--fin del footer-->
-<br>
+
 
 </html>
 
