@@ -68,6 +68,7 @@
   			</div>
 		</div><br><br>
 	<!---fin tarjetas-->
+
 		<!--APARTADO DONDE VA DIRECCION-->
     	<div class="row">
     	 	<div class="col-sm-4">
@@ -84,10 +85,32 @@
 				</div>	
       		</div>
       		<!--fin de apartado de donde va la direccion-->
-
-      <div class="col-sm-8">
-       
-      </div>
+      		<div class="col-sm-8">  					
+  				<div class="media-body">
+    				<br><h4>Escribenos</h4><br><br>
+    				<p>El masivo corte de luz que afectó al país y a ciudades de Brasil y Uruguay fue registrado con extensas notas en los principales diarios y canales de noticias del mundo. La imposibilidad para brindar explicaciones sobre lo sucedido fue lo que más les llamó la atención. "El gobierno no sabe qué lo causó", destacó la CNN.</p><br><p>El apagón que cortó el suministro de energía a todo el país (salvo Tierra del Fuego) y parte de Uruguay y Brasil estuvo registrado con amplias coberturas en los principales diarios y canales de noticias del mundo. <a href="">Las respuestas del Gobierno ante la falla masiva </a>y su imposibilidad para dar certezas sobre lo sucedido, llamaron la atención de esos medios. “Hasta ahora no se ha identificado ninguna explicación para la falla generalizada del suministro eléctrico”, escribió esta mañana la cadena estadounidense CNN en una nota titulada “El blackout dejó a millones en Sudamérica sin energía. El gobierno todavía no sabe qué lo causó”.</p>
+    				<div class="container">
+    						<div class="form-group col-sm-4">
+      						<label for="email" style="color: black">Email:</label>
+      						<input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+      						
+      							<label for="pwd">Password:</label>
+      							<input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
+    						</div>
+    							<div class="form-group col-sm-4">
+      							<label for="pwd">Password:</label>
+      							<input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
+    							</div>
+    								<div class="form-group form-check">
+      								<label class="form-check-label">
+        							<input class="form-check-input" type="checkbox" name="remember"> Remember me
+      								</label>
+    								</div>
+    									<button type="submit" class="btn btn-primary">Submit</button>
+  						</form>
+					</div>    				
+  				</div>
+      		</div>
     
     </div>
   </div>
