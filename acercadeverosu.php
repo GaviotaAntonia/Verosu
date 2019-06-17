@@ -15,6 +15,19 @@
   <!--LETRA QUE SE UTLIZA-->
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+  <style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  #barra{
+    color: black;
+  }
+ .btn-group-vertical>.btn, .btn-group-vertical>.btn-group {
+    width: 188px;
+}
+  </style>
 
 </head>
 
@@ -23,97 +36,70 @@
   <?php include 'nav.html'; ?>
 <!--FINAL NAV-->
 <body>
-	<!--TARJETAS-->
-	 <div class="container" style="margin-top:30px">
-		<div class="col">
-  			<div class="card-deck">
-    			<div class="card text-white bg-dark">
-      				<div class="card-body">          
-      					<div class="card-body">
-      						<div align=center>
-      							<i class='fas fa-briefcase' style='font-size:48px;color:white'></i>
-      						</div>
-          					<h4 class="card-title" style="color: white"><br>Trabaja con Verosu</h4>
-          					<p class="card-text" style="color: white">Si buscas empleo o una pasantía en Deloitte México, te invitamos a visitar nuestro sitio de Careers.</p>
-          					<u><a href="#" style="color: white">See Profile</a></u>
-        				</div>
-      				</div>	
-    			</div>
 
-    			<div class="card bg-dark">
-      				<div class="card-body">
-          				<div class="card-body">
-          					<div align=center>
-          						<i class='fas fa-map-marked-alt' style='font-size:48px;color:white'></i>
-      						</div>
-            				<h4 class="card-title" style="color: white"><br>Nuestras Oficinas</h4>
-             				<p class="card-text" style="color: white">Encuentra la oficina más cercana a tu localidad.</p>
-             				<u><a href="#" style="color: white">Oficinas de Verosu</a></u>
-          				</div>
-      				</div>
-    			</div>
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
 
-    			<div class="card bg-dark">
-      				<div class="card-body">
-          				<div class="card-body">
-          					<div align=center>
-      						<i class='far fa-paper-plane' style="font-size: 48px;color: white"></i>
-      						</div><br>
-           					<h4 class="card-title" style="color: white">Solicitud de cotización</h4>
-           					<p class="card-text" style="color: white">¿Necesitas alguno de nuestros servicios?</p>
-           					<u><a href="#" style="color: white">Envianos tú solicitud</a></u>
-          				</div>
-      				</div>
-    			</div>
-  			</div>
-		</div><br><br>
-	<!---fin tarjetas-->
-
-		<!--APARTADO DONDE VA DIRECCION-->
-    	<div class="row">
-    	 	<div class="col-sm-4">
-       			<div class="media border p-3">
-  					<img src="iconosparapagina/ubicacion.png" alt="John Doe" class="mr-3 mt-3 rounded-circle" style="width:50px;">
-  						<div class="media-body">
-    						<br><h4>Verosu México<small><br><i></i></small></h4><br><br>
-    						<p>Visita la oficina más cercana a tu localidad<br>Ciudad de México<br>Paseo de la Reforma 505<br>Piso 28<br>Colonia Cuauhtémoc<br>Ciudad de México México, 06500<br><a href=""><i class='fas fa-map-marker-alt' style='font-size:24px'></i> Ver mapa </a><br>
-							<a href=""><i class='fas fa-mobile-alt' style='font-size:24px'></i> +52 (55) 5080 6000</a><br>Total of 19 locations</p>
-    						<button type="button" class="btn btn-lg btn-outline-info" >
-    							<i class='fas fa-location-arrow'> Ver mas oficinas</i>
-    						</button>
-  						</div>
-				</div>	
-      		</div>
-      		<!--fin de apartado de donde va la direccion-->
-      		<div class="col-sm-8">  					
-  				<div class="media-body">
-    				<br><h4>Escribenos</h4><br><br>
-    				<p>El masivo corte de luz que afectó al país y a ciudades de Brasil y Uruguay fue registrado con extensas notas en los principales diarios y canales de noticias del mundo. La imposibilidad para brindar explicaciones sobre lo sucedido fue lo que más les llamó la atención. "El gobierno no sabe qué lo causó", destacó la CNN.</p><br><p>El apagón que cortó el suministro de energía a todo el país (salvo Tierra del Fuego) y parte de Uruguay y Brasil estuvo registrado con amplias coberturas en los principales diarios y canales de noticias del mundo. <a href="">Las respuestas del Gobierno ante la falla masiva </a>y su imposibilidad para dar certezas sobre lo sucedido, llamaron la atención de esos medios. “Hasta ahora no se ha identificado ninguna explicación para la falla generalizada del suministro eléctrico”, escribió esta mañana la cadena estadounidense CNN en una nota titulada “El blackout dejó a millones en Sudamérica sin energía. El gobierno todavía no sabe qué lo causó”.</p>
-    				<div class="container">
-    						<div class="form-group col-sm-4">
-      						<label for="email" style="color: black">Email:</label>
-      						<input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
-      						
-      							<label for="pwd">Password:</label>
-      							<input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
-    						</div>
-    							<div class="form-group col-sm-4">
-      							<label for="pwd">Password:</label>
-      							<input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
-    							</div>
-    								<div class="form-group form-check">
-      								<label class="form-check-label">
-        							<input class="form-check-input" type="checkbox" name="remember"> Remember me
-      								</label>
-    								</div>
-    									<button type="submit" class="btn btn-primary">Submit</button>
-  						</form>
-					</div>    				
-  				</div>
-      		</div>
-    
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ul>
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="conphoto/94.jpg" alt="Los Angeles" width="1100" height="200">
+    </div>
+    <div class="carousel-item">
+      <img src="conphoto/95.jpg" alt="Chicago" width="1100" height="200">
+    </div>
+    <div class="carousel-item">
+      <img src="conphoto/96.jpg" alt="New York" width="1100" height="200">
     </div>
   </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+  <!---AQUI VA LA INFROMACION ACERCA DE VEROSU-->
+<hr size=200 style="background-color: black" >
+
+<div class="container" style="margin-top:30px">
+  <div class="row">
+    <div class="col-sm-8">
+         <div class="container mt-3">
+          <h2>Verosu S. de R.L M.I.<small style="color: #76746E"><BR>Servicios Integrales comunicaciones y tecnologia.</small></h2><br><br>
+          <i class='fab fa-facebook-square' style='font-size:48px;color:black'></i>
+          <i class='fab fa-twitter-square' style='font-size:48px;color:black'></i>
+          <i class="fa fa-youtube-square" style="font-size:48px;color:black"></i>
+
+
+          <p><br>Una historia que importa<br><b>Creemos que somos tan buenos como el bien que hacemos</b><br><br>Todo lo que pueda hablar sobre nuestro tamaño, diversidad y años de historia, por notables e importantes que puedan ser, son secundarios ante la verdadera forma de medir a Deloitte: el impacto que hacemos en el mundo.<br>Así que, cuando la gente se pregunta “¿qué hace diferente a Deloitte?” la respuesta está en los ejemplos específicos de cómo Deloitte ayuda a los clientes de sus firmas miembro, su gente y a la sociedad a alcanzar metas notables, resolver problemas complejos o a tener un progreso significativo. Aún más profundo, se encuentra en las creencias, comportamientos y sentido fundamental de propósito, lo que apuntala todo lo que hacemos.<br>Con cerca de 150 años de trabajo duro y compromiso por hacer una diferencia real, nuestra organización ha crecido en escala y diversidad — aproximadamente 245,000 personas en 150 de países y territorios, proveen asesoría en auditoría, impuestos, temas legales y financieros, asesoría de riesgo y servicios de consultoría—y aún así, nuestra cultura compartida se mantiene igual.<br> <br>
+        </div>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="btn-group-vertical"><br>
+          <button type="button" class="btn btn-default"><a href="https://formden.com/blog/addon-icon" style="color: black"><i class='far fa-envelope' style='font-size:32px;color:black'></i> Correo</a></button><br>
+            <button type="button" class="btn btn-default"><a href="https://formden.com/blog/addon-icon" style="color: black"><i class='fas fa-phone' style='font-size:32px;color:black'></i> Telefono</a></button>
+
+        </div>
+      </div>
+  </div>
+</div>
+<div class="jumbotron jumbotron-fluid">
+ <div align="center">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/k1yAN19a79M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+ 
+
 
 </body>
 
