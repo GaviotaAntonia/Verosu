@@ -17,6 +17,6 @@ h1,h2,h3,h4,p,h5{
 	color: white;
 	font-family: serif;
 }
-#tarjetasnegras{
+.card{
 	color:white;
 }
