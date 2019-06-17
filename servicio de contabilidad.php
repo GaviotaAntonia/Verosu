@@ -33,7 +33,7 @@
   		<li class="nav-item dropdown">
     		<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Auditoría y Assurance</a>
     		<div class="dropdown-menu">
-    			<a href="#" class="dropdown-item">IFRS en México</a>
+    			<a href="ifrsmexico.php" class="dropdown-item">IFRS en México</a>
     		</div>
   		</li>
   		<li class="nav-item dropdown">
