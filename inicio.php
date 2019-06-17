@@ -1,4 +1,14 @@
+<?php  
+  
+  ob_start();
+  session_start();
+  if (!isset($_SESSION['logueado']) && $_SESSION['logueado'] == FALSE) {
+    header("location: inicio.php");
+  }
 
+  include "class/function.php";
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,11 +26,11 @@
 
 </head>
 
+<body>
 
 <!--NAV -->
   <?php include 'nav.html'; ?>
 <!--FINAL NAV-->
-<body>
 
 <img src="conphoto/90.jpg" class="img-fluid" alt="Responsive image" width="100%">
 
@@ -122,17 +132,13 @@
   </div>
 </div>
 
-
-
-
-
-
-</body>
-
 <!--inicio footer-->
 <?php include 'footer.html'; ?>
 <!--fin del footer-->
-<br>
 
+</body>
 </html>
 
+<?php
+  ob_end_flush();
+?>
