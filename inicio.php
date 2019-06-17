@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>VEROSU S. de R.L M.I</title>
+  <title>Verosu México | Servicios de Auditoría, Impuestos Consultoría, Riesgos y Asesoría Finaciera</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -27,24 +27,24 @@
  <div class="container" style="margin-top:30px">
   <div class="row">
     <div class="col-sm-8">
-         <div class="card-deck">
-          <div class="card bg-light">
-            <img src="conphoto/89.jpg" class="img-fluid" alt="Responsive image" width="100%">
-            <div class="card-body text-center">
+        <div class="card-deck">
+            <div class="card bg-light">
+              <img src="conphoto/89.jpg" class="img-fluid" alt="Responsive image" width="100%">
+              <div class="card-body text-center">
                 <p class="card-text" style="text-align: left;">Some text inside the first card</p>
                 <p class="card-text">Some more text to increase the height</p>
+              </div>
             </div>
-          </div>
        
-          <div class="card bg-light">
-            <img src="conphoto/88.jpg" class="img-fluid" alt="Responsive image" width="100%">
-            <div class="card-body text-center">
-                <p class="card-text" style="text-align: left;">Some text inside the first card</p>
-                <p class="card-text">Some more text to increase the height</p>
+            <div class="card bg-light">
+              <img src="conphoto/88.jpg" class="img-fluid" alt="Responsive image" width="100%">
+                <div class="card-body text-center">
+                 <p class="card-text" style="text-align: left;">Some text inside the first card</p>
+                 <p class="card-text">Some more text to increase the height</p>
+                </div>
             </div>
-          </div>
         
-      </div>
+        </div>
 
         <br>
         <div class="card bg-light">
@@ -53,7 +53,7 @@
                 <p class="card-text" style="text-align: left;">Some text inside the first card</p>
                 <p class="card-text">Some more text to increase the height</p>
             </div>
-          </div>
+        </div>
         
         <br>
         <div class="card-deck">
@@ -64,7 +64,7 @@
                 <p class="card-text">Some more text to increase the height</p>
             </div>
           </div>
-       <br>
+            <br>
           <div class="card bg-light">
             <img src="conphoto/92.jpg" class="img-fluid" alt="Responsive image" width="100%">
             <div class="card-body text-center">
@@ -73,7 +73,7 @@
             </div>
           </div>
         
-      </div>
+        </div>
     </div>
 
     <div class="col-sm-4">
@@ -122,12 +122,9 @@
   </div>
 </div>
 
-
-
-
-
-
 </body>
+
+
 
 <!--inicio footer-->
 <?php include 'footer.html'; ?>
