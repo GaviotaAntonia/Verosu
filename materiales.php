@@ -9,10 +9,11 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
   <link rel="shortcut icon" type="image/png" href="conphoto/ab.png"> 
+  
+  <link rel="stylesheet" href="css/masestilos.css">
+  <link rel="stylesheet" href="css/estilos.css">
   <!--LETRA QUE SE UTLIZA-->
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-
-
 </head>
 
 
@@ -23,7 +24,7 @@
   <br>
 
 <div class="col">
-   <div class="card-deck">
+  <div class="card-deck">
     <div class="card bg-light">
       <div class="card-body text-center">
        <img class="card-img-top" src="imgenes/PRUEBA3.png" alt="Card image" style="width:80%">
@@ -56,7 +57,6 @@
           </div>
       </div>
     </div>
-   
   </div>
 </div>
 
