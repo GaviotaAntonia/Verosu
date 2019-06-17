@@ -1,14 +1,4 @@
-<?php  
-  
-  ob_start();
-  session_start();
-  if (!isset($_SESSION['logueado']) && $_SESSION['logueado'] == FALSE) {
-    header("location: inicio.php");
-  }
 
-  include "class/function.php";
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,11 +16,11 @@
 
 </head>
 
-<body>
 
 <!--NAV -->
   <?php include 'nav.html'; ?>
 <!--FINAL NAV-->
+<body>
 
 <img src="conphoto/90.jpg" class="img-fluid" alt="Responsive image" width="100%">
 
@@ -93,11 +83,11 @@
     <div class="card">
       <div class="card-header">
         <a class="card-link" data-toggle="collapse" href="#collapseOne">
-          La ciberseguridad:<br><p style="color: #636363">No solo de tecnologia</p>
+          Perspectiva de Vida
         </a>
       </div>
       <div id="collapseOne" class="collapse show" data-parent="#accordion">
-        <div class="card-body" style="color: black">
+        <div class="card-body">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </div>
       </div>
@@ -105,7 +95,7 @@
     <div class="card">
       <div class="card-header">
         <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
-         NOTICIA 3:<br><p style="color: #636363">No solo de tecnologia</p>
+        Collapsible Group Item #2
       </a>
       </div>
       <div id="collapseTwo" class="collapse" data-parent="#accordion">
@@ -132,13 +122,17 @@
   </div>
 </div>
 
+
+
+
+
+
+</body>
+
 <!--inicio footer-->
 <?php include 'footer.html'; ?>
 <!--fin del footer-->
+<br>
 
-</body>
 </html>
 
-<?php
-  ob_end_flush();
-?>

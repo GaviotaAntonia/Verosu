@@ -17,28 +17,28 @@
 
 
 	<body>
-
-<!--header-->
+  <!--header-->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Navbar</a>
+        <a class="navbar-brand" href="#">VEROSU</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div id="navbarNavDropdown" class="navbar-collapse collapse">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
+                <li class="nav-item">
                     <a class="nav-link" href="inicio.php">Inicio<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Acerca de VEROSU</a>
+                    <a class="nav-link" href="acercadeverosu.php">Acerca de VEROSU</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contactanos</a>
+                    <a class="nav-link" href="contacto.php">Contactanos</a>
                 </li>
             </ul>
             
-            <ul class="navbar-nav">
+             <ul class="navbar-nav">
                 <li class="nav-item dropdown">
+<<<<<<< HEAD
                     <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       Dropdown
                     </a>
@@ -49,6 +49,16 @@
                         <a class="dropdown-item" href="#">Another action</a>
                     </div>
                 </li>
+=======
+                    <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servicios</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="#">Servicios de Contabilidad</a>
+                           <a class="dropdown-item" href="#">Servicios de Informática</a>
+                    </div>
+                </li>          
+
+              
+>>>>>>> 0b2f1d49f9aaf018bb524d0f3d645f7874bde69c
                <li class="nav-item">
                     <a class="nav-link" href="materiales.php">Materiales</a>
                 </li>
@@ -57,7 +67,7 @@
                     <a class="nav-link" href="login.php">Login</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="register.php">Registrar</a>
+                    <a class="nav-link" href="{{ url('/register') }}">Registrar</a>
                 </li>
             </ul>
 
@@ -65,6 +75,28 @@
     </nav>
 
 <!-- Fin de header -->
+<<<<<<< HEAD
+=======
+<script>
+$(function(){
+    $(".dropdown-menu > li > a.trigger").on("click",function(e){
+        var current=$(this).next();
+        var grandparent=$(this).parent().parent();
+        if($(this).hasClass('left-caret')||$(this).hasClass('right-caret'))
+            $(this).toggleClass('right-caret left-caret');
+        grandparent.find('.left-caret').not(this).toggleClass('right-caret left-caret');
+        grandparent.find(".sub-menu:visible").not(current).hide();
+        current.toggle();
+        e.stopPropagation();
+    });
+    $(".dropdown-menu > li > a:not(.trigger)").on("click",function(){
+        var root=$(this).closest('.dropdown');
+        root.find('.left-caret').toggleClass('right-caret left-caret');
+        root.find('.sub-menu:visible').hide();
+    });
+});
+</script>
+>>>>>>> 0b2f1d49f9aaf018bb524d0f3d645f7874bde69c
 	</body>
 
 </html>
