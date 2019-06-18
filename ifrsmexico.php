@@ -89,6 +89,24 @@
                     </div>
                 </div>
           </div>
+          <br><br>
+          <div class="card-deck">
+            <div class="card text-white bg-dark">
+              <img src="conphoto/97.jpg" height="50" alt="">
+              <div class="card-body text-center">
+                <p class="card-text">Some text inside the first card</p>
+              </div>
+            </div>
+        
+                <div class="card text-white bg-dark">
+                  <img src="imgenes/financiero.jpg" alt="" height="50">
+                    <div class="card-body">
+                      <p style="color: white"><b>Servicios</b></p>
+                      <h3 style="color: White">Cursos y Diplomados en IFRS</h3>
+                      <p class="card-text">Some text inside the second card</p>
+                    </div>
+                </div>
+          </div>
       </div>
 
 
@@ -96,6 +114,31 @@
       <div class="col-sm-4">
                 <div class="sub-cuerpo2">
                     <br><br><a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+                <br><br>
+                <div class="container">
+                  <div class="list-group">
+                    <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #3E473F; color: gray;"><b>Contacto</b><br>
+                      <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button></a> 
+                    <br>
+                    <a href="#" class="list-group-item list-group-item-action" style="background-color: #3E473F; color: gray;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a> 
+                   
+                    <br>
+                    <a href="#" class="list-group-item list-group-item-action" style="background-color: #3E473F; color: gray;"><b>Servicios y Soluciones</b></a>
+                    <br>
+                        <div class="card">
+                          <div class="card-header" style="background-color: #3E473F;"><b>Temas Similares</b></div>
+                          <div class="card-body">
+                            <a href="">En Breve IFRS</a><br>
+                            <a href="">Asesoria Contable</a>
+                            <br><a href="">Auditoria de Estados Financieros</a>
+                            <br><a href="">Finanzas Corporativas</a>
+                            <br><a href="">Auditoria interna</a>
+                          </div> 
+                        </div>
+                    </div>
+
+                  </div>
                 </div>
         </div>
       </div>
