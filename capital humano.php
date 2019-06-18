@@ -54,8 +54,14 @@
 </head>
 
 <body>
-	
+	<!--NAV1-->
 	<?php include "nav.html"; ?>
+  <!--nav 2-->
+  <?php include 'nav2.html'; ?>
+<!---FIN DE NAV BAR-->
+
+
+
 
 	<div class="contenedor" align="center">
         <img class="img-fluid" src="conphoto/105.jpg" width="1800px" style="opacity: 0.4">
