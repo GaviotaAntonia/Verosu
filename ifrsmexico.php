@@ -135,19 +135,17 @@
                         <div class="card">
                           <div class="card-header" style="background-color: #3E473F; color: white"><b>Temas Similares</b></div>
                           <div class="card-body">
-                            <a href="">En Breve IFRS</a><br>
-                            <a href="">Asesoria Contable</a>
-                            <br><a href="">Auditoria de Estados Financieros</a>
-                            <br><a href="">Finanzas Corporativas</a>
-                            <br><a href="">Auditoria interna</a>
+                            <a href="enbreveifrs.php">En Breve IFRS</a><br>
+                            <a href="asesoriacontable.php">Asesoria Contable</a>
+                            <br><a href="auditoriadeestadosfinancieros.php">Auditoria de Estados Financieros</a>
+                            <br><a href="finanzascorporativas.php">Finanzas Corporativas</a>
+                            <br><a href="auditoriainterna.php">Auditoria interna</a>
                           </div> 
                         </div>
                     </div>
 
                   </div>
-                </div>
-        </div>
-      </div>
+      </div>      </div>
   </div>
    
 

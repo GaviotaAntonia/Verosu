@@ -31,16 +31,16 @@
           <div class="card bg-light">
             <img src="conphoto/89.jpg" class="img-fluid" alt="Responsive image" width="100%">
             <div class="card-body text-center">
-                <p class="card-text" style="text-align: left;">Some text inside the first card</p>
-                <p class="card-text">Some more text to increase the height</p>
+                <p class="card-text" style="text-align: left; color: black">Some text inside the first card</p>
+                <p class="card-text" style="color: black">Some more text to increase the height</p>
             </div>
           </div>
        
           <div class="card bg-light">
             <img src="conphoto/88.jpg" class="img-fluid" alt="Responsive image" width="100%">
             <div class="card-body text-center">
-                <p class="card-text1" style="text-align: left;">Some text inside the first card</p>
-                <p class="card-text1">Some more text to increase the height</p>
+                <p class="card-text1" style="text-align: left; color: black">Some text inside the first card</p>
+                <p class="card-text1" style="color: black">Some more text to increase the height</p>
             </div>
           </div>
         
@@ -50,8 +50,8 @@
         <div class="card bg-light">
             <img src="conphoto/88.jpg" class="img-fluid" alt="Responsive image" width="100%">
             <div class="card-body text-center">
-                <p class="card-text" style="text-align: left;">Some text inside the first card</p>
-                <p class="card-text">Some more text to increase the height</p>
+                <p class="card-text" style="text-align: left; color: black">Some text inside the first card</p>
+                <p class="card-text" style="color: black">Some more text to increase the height</p>
             </div>
           </div>
         
@@ -60,16 +60,16 @@
           <div class="card bg-light">
             <img src="conphoto/91.jpg" class="img-fluid" alt="Responsive image" width="100%">
             <div class="card-body text-center">
-                <p class="card-text" style="text-align: left;">Some text inside the first card</p>
-                <p class="card-text">Some more text to increase the height</p>
+                <p class="card-text" style="text-align: left; color: black">Some text inside the first card</p>
+                <p class="card-text" style="color: black">Some more text to increase the height</p>
             </div>
           </div>
        <br>
           <div class="card bg-light">
             <img src="conphoto/92.jpg" class="img-fluid" alt="Responsive image" width="100%">
             <div class="card-body text-center">
-                <p class="card-text" style="text-align: left;">Some text inside the first card</p>
-                <p class="card-text">Some more text to increase the height</p>
+                <p class="card-text" style="text-align: left;color: black">Some text inside the first card</p>
+                <p class="card-text" style="color: black">Some more text to increase the height</p>
             </div>
           </div>
         
