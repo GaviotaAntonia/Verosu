@@ -81,7 +81,7 @@
 
 	<img src="conphoto/95.jpg" class="img-fluid" alt="Responsive image" width="100%">
 
-	<div class="container" style="margin-top: 35px">
+	<div class="container" style="margin-top: 35px;">
 		<div class="row">
 			<div class="col-sm-8">
 				<div class="card-deck">
