@@ -19,9 +19,15 @@
 </head>
 
 
-<!--NAV -->
+<!--NAV 1-->
   <?php include 'nav.html'; ?>
 <!--FINAL NAV-->
+
+
+<!--NAV 2-->
+ 
+  <?php include 'nav2.html'; ?>
+
 <body>
 
 
@@ -127,21 +133,19 @@
                     <a href="#" class="list-group-item list-group-item-action" style="background-color: #3E473F; color: gray;"><b>Servicios y Soluciones</b></a>
                     <br>
                         <div class="card">
-                          <div class="card-header" style="background-color: #3E473F;"><b>Temas Similares</b></div>
+                          <div class="card-header" style="background-color: #3E473F; color: white"><b>Temas Similares</b></div>
                           <div class="card-body">
-                            <a href="">En Breve IFRS</a><br>
-                            <a href="">Asesoria Contable</a>
-                            <br><a href="">Auditoria de Estados Financieros</a>
-                            <br><a href="">Finanzas Corporativas</a>
-                            <br><a href="">Auditoria interna</a>
+                            <a href="enbreveifrs.php">En Breve IFRS</a><br>
+                            <a href="asesoriacontable.php">Asesoria Contable</a>
+                            <br><a href="auditoriadeestadosfinancieros.php">Auditoria de Estados Financieros</a>
+                            <br><a href="finanzascorporativas.php">Finanzas Corporativas</a>
+                            <br><a href="auditoriainterna.php">Auditoria interna</a>
                           </div> 
                         </div>
                     </div>
 
                   </div>
-                </div>
-        </div>
-      </div>
+      </div>      </div>
   </div>
    
 
