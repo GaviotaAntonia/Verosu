@@ -25,60 +25,7 @@
 <body>
 
 	<?php include "nav.html"; ?>
-
-	<ul class="nav nav-tabs">
-  		<li class="nav-item">
-    		<a class="nav-link active" href="#">contabilidad</a>
-  		</li>
-  		<li class="nav-item dropdown">
-    		<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Auditoría y Assurance</a>
-    		<div class="dropdown-menu">
-    			<a href="ifrsmexico.php" class="dropdown-item">IFRS en México</a>
-    		</div>
-  		</li>
-  		<li class="nav-item dropdown">
-    		<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Consultoría</a>
-    		<div class="dropdown-menu">
-    			<a href="capital humano.php" class="dropdown-item">Capital Humano</a>
-    			<a href="estrategia y operaciones.php" class="dropdown-item">Estrategia y Operaciones</a>
-    			<a href="tecnologia.php" class="dropdown-item">Tecnología</a>
-    		</div>
-  		</li>
-  		<li class="nav-item dropdown">
-    		<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Asesoría en Riesgo</a>
-    		<div class="dropdown-menu">
-    			<a href="riesgo cibernetico.php" class="dropdown-item">Riesgo Cibernético</a>
-    			<a href="riesgo regulatorio.php" class="dropdown-item">Riesgo Regulatorio</a>
-    			<a href="riesgo financiero.php" class="dropdown-item">Riesgo Financiero</a>
-				<a href="riesgo operativo.php" class="dropdown-item">Riesgo Operativo</a>
-    			<a href="riesgo estrategico y de reputacion.php" class="dropdown-item">Riesgo Estratégico y de Reputación</a>
-    		</div>
-  		</li>
-  		<li class="nav-item dropdown">
-    		<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Asesoría Financiera</a>
-    		<div class="dropdown-menu">
-    			<a href="#" class="dropdown-item">Investigación Forense</a>
-    			<a href="#" class="dropdown-item">Fusiones y Adquisiciones</a>
-    			<a href="#" class="dropdown-item">Value Creation & Restructuring</a>
-				<a href="#" class="dropdown-item">D.Econosignal</a>
-    		</div>
-  		</li>
-  		<li class="nav-item dropdown">
-    		<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Impuestos</a>
-    		<div class="dropdown-menu">
-    			<a href="#" class="dropdown-item">Impuestos globales</a>
-    			<a href="#" class="dropdown-item">Flashes Fiscales</a>
-    			<a href="#" class="dropdown-item">Tax Technology</a>
-    		</div>
-  		</li>
-  		<li class="nav-item">
-    		<a class="nav-link" href="#">Legal</a>
-  		</li>
-  		<li class="nav-item">
-    		<a class="nav-link" href="#">Infraestructura y Proyectos de Capital</a>
-  		</li>
-	</ul>
-
+  <?php include "nav2.html" ?>
 	<img src="conphoto/95.jpg" class="img-fluid" alt="Responsive image" width="100%">
 
 	<div class="container" style="margin-top: 35px">
