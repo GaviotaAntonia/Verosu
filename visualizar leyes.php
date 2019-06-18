@@ -14,11 +14,55 @@
 </head>
 <body>
 	
-	<?php include 'nav.html'; ?>
+	<?php include 'nav1.html'; ?>
+    
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link active" href="#">Leyes</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Leyes 2019</a>
+          <div class="dropdown-menu">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Leyes</a>
+            <div class="dropdown-menu2">
+              <a class="dropdown-item" href="#"></a>
+              <a class="dropdown-item" href="#">Ley del Infonavit</a>
+              <a class="dropdown-item" href="#">Ley de Ingresos de la Federación para el Ejercicio Fiscal</a>
+            </div>
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Codigos</a>
+                  <div class="dropdown-menu2">
+                  </div>
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Constitucion/Presupuesto</a>
+                  <div class="dropdown-menu2">
+                    <a class="dropdown-item" href="#">La Constitución Politica de los Estados Unidos Mexicanos</a>
+                    <a class="dropdown-item" href="#">Presupuesto de Egresos de Federación para el Ejercicio Fiscal</a>
+                  </div>
+            </div>
+        </li>
+        </li>
+                <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Leyes 2018</a>
+            <div class="dropdown-menu">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Leyes</a>
+                <div class="dropdown-menu2">
+                  <a class="dropdown-item" href="#"></a>
+                  <a class="dropdown-item" href="#">Ley del Infonavit</a>
+                  <a class="dropdown-item" href="#">Ley de Ingresos de la Federación para el Ejercicio Fiscal</a>
+                </div>
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Codigos</a>
+                  <div class="dropdown-menu2">
+                  </div>
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Constitucion/Presupuesto</a>
+                  <div class="dropdown-menu2">
+                    <a class="dropdown-item" href="#">La Constitución Politica de los Estados Unidos Mexicanos</a>
+                    <a class="dropdown-item" href="#">Presupuesto de Egresos de Federación para el Ejercicio Fiscal</a>
+                  </div>
+            </div>
+        </li>
 
-	
-		
-	<?php include 'footer.html'; ?>
+    </ul>
+
+	<?php include 'footer2.html'; ?>
 
 </body>
 </html>
