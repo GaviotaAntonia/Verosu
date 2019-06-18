@@ -39,19 +39,19 @@
   		<li class="nav-item dropdown">
     		<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Consultoría</a>
     		<div class="dropdown-menu">
-    			<a href="#" class="dropdown-item">Capital Humano</a>
-    			<a href="#" class="dropdown-item">Estrategia y Operaciones</a>
-    			<a href="#" class="dropdown-item">Tecnología</a>
+    			<a href="capital humano.php" class="dropdown-item">Capital Humano</a>
+    			<a href="estrategia y operaciones.php" class="dropdown-item">Estrategia y Operaciones</a>
+    			<a href="tecnologia.php" class="dropdown-item">Tecnología</a>
     		</div>
   		</li>
   		<li class="nav-item dropdown">
     		<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Asesoría en Riesgo</a>
     		<div class="dropdown-menu">
-    			<a href="#" class="dropdown-item">Riesgo Cibernético</a>
-    			<a href="#" class="dropdown-item">Riesgo Regulatorio</a>
-    			<a href="#" class="dropdown-item">Riesgo Financiero</a>
-				<a href="#" class="dropdown-item">Riesgo Operativo</a>
-    			<a href="#" class="dropdown-item">Riesgo Estratégico y de Reputación</a>
+    			<a href="riesgo cibernetico.php" class="dropdown-item">Riesgo Cibernético</a>
+    			<a href="riesgo regulatorio.php" class="dropdown-item">Riesgo Regulatorio</a>
+    			<a href="riesgo financiero.php" class="dropdown-item">Riesgo Financiero</a>
+				<a href="riesgo operativo.php" class="dropdown-item">Riesgo Operativo</a>
+    			<a href="riesgo estrategico y de reputacion.php" class="dropdown-item">Riesgo Estratégico y de Reputación</a>
     		</div>
   		</li>
   		<li class="nav-item dropdown">
