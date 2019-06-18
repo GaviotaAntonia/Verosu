@@ -15,40 +15,6 @@
   <!--LETRA QUE SE UTLIZA-->
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-  <style>
-  /* Make the image fully responsive */
-  .carousel-inner img {
-    width: 100%;
-    height: 100%;
-  }
-  #barra{
-    color: black;
-  }
- .btn-group-vertical>.btn, .btn-group-vertical>.btn-group {
-    width: 188px;
-}
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-    width: 100%
-}
- 
-.texto-encima{
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    color: white;
-}
-.centrado{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-
-    color: White;
-}
-  </style>
 
 </head>
 
@@ -75,18 +41,66 @@
           <i class='fab fa-facebook-square' style='font-size:48px;color:black'></i>
           <i class='fab fa-twitter-square' style='font-size:48px;color:black'></i>
           <i class="fa fa-youtube-square" style="font-size:48px;color:black"></i>
+        </div><br><br>
+
+
+        <!--- -->
+        <div class="bs-example">
+          <div class="card" style="max-width: 730px;">
+            <div class="row no-gutters">
+              <div class="col-md-4" style="background: #868e96;">
+                <img src="conphoto/1.jpeg" class="card-img-top h-100" alt="...">
+              </div>
+              <div class="col-md-7">
+                  <div class="card-body">
+                    <b><p style="color: gray">Noticias </p></b>
+                      <h5 class="card-title">IFRS 9</h5>
+                      <p class="card-text" style="color: black">Retos y oportunidades en su implementación.</p>
+                      <a href="#" class="btn btn-light">Conozca más</a>
+                  </div>
+              </div>
+            </div>
         </div>
+        </div>
+        <!---Fin Articulos 1-->
+        <br><br>
+          <div class="card-deck">
+            <div class="card text-white bg-dark">
+              <img src="conphoto/97.jpg" height="50" alt="">
+              <div class="card-body text-center">
+                <p class="card-text">Some text inside the first card</p>
+              </div>
+            </div>
+              <div class="card text-white bg-dark" id="2">
+                <hr style="color: #0056b2;">
+                <div class="card-body">
+                  <p style="color: white"><b>Servicios</b></p>
+                  <h3 style="color: White">Cursos y Diplomados en IFRS</h3>
+                  <p class="card-text">Some text inside the second card</p>
+                </div>
+
+              </div>
+                <div class="card text-white bg-dark">
+                  <img src="imgenes/financiero.jpg" alt="" height="50">
+                    <div class="card-body">
+                      <p style="color: white"><b>Servicios</b></p>
+                      <h3 style="color: White">Cursos y Diplomados en IFRS</h3>
+                      <p class="card-text">Some text inside the second card</p>
+                    </div>
+                </div>
+          </div>
       </div>
 
+
+
       <div class="col-sm-4">
-          
                 <div class="sub-cuerpo2">
                     <br><br><a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
         </div>
       </div>
   </div>
-<hr color="blue" size=10 style="border: 5px">
+   
 
 </body>
 
