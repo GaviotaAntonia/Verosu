@@ -22,7 +22,6 @@
 <!--FINAL NAV-->
 <body>
   <br>
-
 <div class="col">
   <div class="card-deck">
     <div class="card bg-light">
@@ -30,8 +29,8 @@
        <img class="card-img-top" src="imgenes/PRUEBA3.png" alt="Card image" style="width:80%">
           <div class="card-body">
           <h4 class="card-title">Gratuito</h4>
-          <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
-          <a href="#" class="btn btn-primary stretched-link">See Profile</a>
+          <p style="color: black">Este material solo se podra visualizar no se podra guardar o en su defecto descargar</p>
+          <a href="visualizar leyes.php" class="btn btn-primary stretched-link">Ingresar</a>
           </div>
       </div>
     </div>
