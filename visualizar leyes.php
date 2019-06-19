@@ -35,7 +35,9 @@
       <h3>HOME</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
     </div>
+
     <div id="menu1" class="tab-pane fade"><br>
+    <div class="row" style="width: 1918px;">
       <div class="col-sm-2">
         <h2 style="text-align: center">Leyes 2019</h2>
    
@@ -46,9 +48,9 @@
               </div>
               <div id="collapseOne" class="collapse show" data-parent="#accordion">
                 <div class="card-body">
-                  <button type="button" class="btn btn-outline-success btn-block">Ley del Infonavit</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley de Ingresos de la Federación para el Ejercicio Fiscal</button>
-
+                  <a class="nav-link" data-toggle="tab" href="#menu3">Ley del Infonavit</a>
+                  <a class="nav-link" data-toggle="tab" href="#menu4">Ley del mercado de valores</a>
+                  <a class="nav-link" data-toggle="tab" href="#menu5">Ley de Ingresos de la Federación para el Ejercicio Fiscal</a>
                 </div>
               </div>
             </div>
@@ -76,12 +78,30 @@
             </div>
           </div>
       </div>
-        <div class="col-sm-10">
-          
-        </div>
+      <div class="col-sm-10">
+        <div class="tab-content">
+          <div id="menu3" class="tab-pane active">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2019/LEY DEL INFONAVIT.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="menu4" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2019/LEY DEL MERCADO DE VALORES.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="menu5" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2019/LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE  2019.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+        </div> 
+      </div>
     </div>
-    <div id="menu2" class="tab-pane fade"><br>
+    </div>
 
+    <div id="menu2" class="tab-pane  fade"><br>
+    <div class="row" style="width: 1918px;">
       <div class="col-sm-2" style="position: left;">
         <h2 style="text-align: center">Leyes 2018</h2>
    
@@ -140,9 +160,10 @@
             </div>
           </div>
       </div>
-        <div class="col-sm-10">
-          <iframe src="localhost">Enrique</iframe>
-        </div>
+      <div class="col-sm-10">
+        <iframe src = 'leyes/leyes 2019/LEY DEL MERCADO DE VALORES.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+      </div>
+    </div>
     </div>
   </div>
 
