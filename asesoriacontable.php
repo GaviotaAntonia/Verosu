@@ -109,15 +109,11 @@
 								<p style="color: black">on Z sintiendose inquietos por el futuro</p><br>
     						</div>
   						</div>
-  						<br>
-  						
-  								
-  												
-  													
-				</div>
+  						<br>													
+					</div>
     		</div>
 
-    		   <div class="col-sm-2">
+    		<div class="col-sm-2">
                 <div class="sub-cuerpo2">
                     <br><br><a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
@@ -144,8 +140,18 @@
                         </div>
                     </div>
 
-                  </div>
-      </div> 
+                </div>
+      		</div> 
+
+    		<div class="col-sm-12" style="background-color:white;">
+    			<div class="card text-white" style="border-top: solid 4px #4AA4B9;">
+    						<div class="card-body"><small style="color: black"><b>Perspectiva</b></small>
+								<h5 style="color: black"><br>México, una gran oportunidad para el turismo médico<br></h5>
+								<p style="color: #A6ACAF">La disminucion de la confianza alcanza niveles preocupantes</p>
+								<p style="color: black">on Z sintiendose inquietos por el futuro</p><br>
+    						</div>
+  						</div>
+    		</div>
   		</div>
 
 	</div>
