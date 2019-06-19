@@ -36,7 +36,7 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
     </div>
 
-    <div id="menu1" class="tab-pane fade"><br>
+  <div id="menu1" class="tab-pane fade"><br>
     <div class="row" style="width: 1918px;">
       <div class="col-sm-2">
         <h2 style="text-align: center">Leyes 2019</h2>
@@ -48,9 +48,9 @@
               </div>
               <div id="collapseOne" class="collapse show" data-parent="#accordion">
                 <div class="card-body">
-                  <a class="nav-link" data-toggle="tab" href="#menu3">Ley del Infonavit</a>
-                  <a class="nav-link" data-toggle="tab" href="#menu4">Ley del mercado de valores</a>
-                  <a class="nav-link" data-toggle="tab" href="#menu5">Ley de Ingresos de la Federación para el Ejercicio Fiscal</a>
+                  <a class="nav-link" data-toggle="tab" href="#ley_del_infonavit">Ley del Infonavit</a>
+                  <a class="nav-link" data-toggle="tab" href="#ley_del_mercado_de_valores">Ley del mercado de valores</a>
+                  <a class="nav-link" data-toggle="tab" href="#ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal">Ley de Ingresos de la Federación para el Ejercicio Fiscal</a>
                 </div>
               </div>
             </div>
@@ -71,8 +71,8 @@
               </div>
               <div id="collapseThree" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <button type="button" class="btn btn-outline-success btn-block">La Constitución Politica de los Estados Unidos Mexicanos</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Presupuesto de Egresos de Federación para el Ejercicio Fiscal</button>
+                  <a class="nav-link" data-toggle="tab" href="#la_constitucion_politica_de_los_estados_unidos_mexicanos">La Constitución Politica de los Estados Unidos Mexicanos</a>
+                  <a class="nav-link" data-toggle="tab" href="#presupuesto_de_egresos_de_federacion_para_el_ejercicio_fiscal">Presupuesto de Egresos de la Federación para el Ejercicio Fiscal</a>
                 </div>
               </div>
             </div>
@@ -80,90 +80,126 @@
       </div>
       <div class="col-sm-10">
         <div class="tab-content">
-          <div id="menu3" class="tab-pane active">
+          <div id="ley_del_infonavit" class="tab-pane active">
             <div class="row" style="width: 1585px;">
               <iframe src = 'leyes/leyes 2019/LEY DEL INFONAVIT.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
-          <div id="menu4" class="tab-pane fade">
+          <div id="ley_del_mercado_de_valores" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
               <iframe src = 'leyes/leyes 2019/LEY DEL MERCADO DE VALORES.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
-          <div id="menu5" class="tab-pane fade">
+          <div id="ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
               <iframe src = 'leyes/leyes 2019/LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE  2019.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="la_constitucion_politica_de_los_estados_unidos_mexicanos" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2019/LA CONSTITUCION  POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="presupuesto_de_egresos_de_federacion_para_el_ejercicio_fiscal" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2019/PRESUPUESTO DE EGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE  2019.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
         </div> 
       </div>
     </div>
-    </div>
+  </div>
 
     <div id="menu2" class="tab-pane  fade"><br>
-    <div class="row" style="width: 1918px;">
-      <div class="col-sm-2" style="position: left;">
-        <h2 style="text-align: center">Leyes 2018</h2>
+      <div class="row" style="width: 1918px;">
+        <div class="col-sm-2" style="position: left;">
+          <h2 style="text-align: center">Leyes 2018</h2>
    
-        <div id="accordion">
-          <div class="card">
-              <div class="card-header">
-                <a class="card-link" data-toggle="collapse" href="#collapseOne">Leyes</a>
+          <div id="accordion">
+            <div class="card">
+                <div class="card-header">
+                  <a class="card-link" data-toggle="collapse" href="#collapseOne">Leyes</a>
+                </div>
+                <div id="collapseOne" class="collapse show" data-parent="#accordion">
+                  <div class="card-body">
+                    <a class="nav-link" data-toggle="tab" href="#">Ley Aduanera</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley del Infonavit</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley Federal del Trabajo</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley de Instituciones de Credito</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley del Impuesto sobre la Renta</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley de Administración Tributaria</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley de Ingresos sibre Hidraulicos</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley del Impuesto al Valor Agregado</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley General de las Sociedades Mercantiles</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley del Instituto Mexicano del Seguro Social</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley del Servicio de Administración Tribunaria</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley General de Organismos Auxiliares de Credito</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley de la Comisición Nacional Bancaria de Valores</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley de Impuestos Especial sobre Producción y Servicios</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley de Ingresos de la Federación para el Ejercicio Fiscal</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Ley de Prevención e Identificación de Operaciones con Recursos de Procedencia Ilicita</a>
+                  </div>
+                </div>
               </div>
-              <div id="collapseOne" class="collapse show" data-parent="#accordion">
-                <div class="card-body">
-                  <button type="button" class="btn btn-outline-success btn-block">Ley Aduanera</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley del Infonavit</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley Federal del Trabajo</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley de Instituciones de Credito</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley del Impuesto sobre la Renta</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley de Administración Tributaria</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley de Ingresos sibre Hidraulicos</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley del Impuesto al Valor Agregado</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley General de las Sociedades Mercantiles</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley del Instituto Mexicano del Seguro Social</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley del Servicio de Administración Tribunaria</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley General de Organismos Auxiliares de Credito</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley de la Comisición Nacional Bancaria de Valores</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley de Impuestos Especial sobre Producción y Servicios</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley de Ingresos de la Federación para el Ejercicio Fiscal</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Ley de Prevención e Identificación de Operaciones con Recursos de Procedencia Ilicita</button>
+              <div class="card">
+                <div class="card-header">
+                  <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">Codigo</a>
+                </div>
+                <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                  <div class="card-body">
+                    <a class="nav-link" data-toggle="tab" href="#">Código Financiero</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Código Financiero</a>
+                    <a class="nav-link" data-toggle="tab" href="#codigo_civil_federa_2018">Código Civil Federal</a>
+                    <a class="nav-link" data-toggle="tab" href="#codigo_de_comercio">Código de Comercio</a>
+                    <a class="nav-link" data-toggle="tab" href="#codigo_fiscal_de_la_federacion_2018">Código Fiscal de la Federación</a>
+                  </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header">
+                  <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
+                    Constitucion/Presupuesto de Egreso
+                  </a>
+                </div>
+                <div id="collapseThree" class="collapse" data-parent="#accordion">
+                  <div class="card-body">
+                    <a class="nav-link" data-toggle="tab" href="#">La Constitución Politica de los Estados Unidos Mexicanos</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Presupuesto de Egresos de Federación para el Ejercicio Fiscal</a>
+                  </div>
                 </div>
               </div>
             </div>
-            <div class="card">
-              <div class="card-header">
-                <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">Codigo</a>
-              </div>
-              <div id="collapseTwo" class="collapse" data-parent="#accordion">
-                <div class="card-body">
-                  <button type="button" class="btn btn-outline-success btn-block">Código Financiero</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Código Financiero</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Código Civil Federal</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Código de Comercio</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Código Fiscal de la Federación</button>
-                </div>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-header">
-                <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                  Constitucion/Presupuesto de Egreso
-                </a>
-              </div>
-              <div id="collapseThree" class="collapse" data-parent="#accordion">
-                <div class="card-body">
-                  <button type="button" class="btn btn-outline-success btn-block">La Constitución Politica de los Estados Unidos Mexicanos</button>
-                  <button type="button" class="btn btn-outline-success btn-block">Presupuesto de Egresos de Federación para el Ejercicio Fiscal</button>
-                </div>
-              </div>
+        </div>
+        <div class="col-sm-10">
+        <div class="tab-content">
+          <div id="codigo_fiscal_de_la_federacion_2018" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/CODIGO CIVIL DEL D.F.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
+          <div id="codigo_civil_federa_2018" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/CODIGO CIVIL FEDERAL.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="codigo_de_comercio" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/CODIGO DE COMERCIO.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="la_constitucion_politica_de_los_estados_unidos_mexicanos" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LA CONSTITUCION  POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="presupuesto_de_egresos_de_federacion_para_el_ejercicio_fiscal" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/PRESUPUESTO DE EGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE  2019.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+        </div> 
       </div>
-      <div class="col-sm-10">
-        <iframe src = 'leyes/leyes 2019/LEY DEL MERCADO DE VALORES.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
       </div>
-    </div>
     </div>
   </div>
 
