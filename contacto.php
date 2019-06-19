@@ -76,7 +76,7 @@
             <img src="iconosparapagina/ubicacion.png" alt="John Doe" class="mr-3 mt-3 rounded-circle" style="width:50px;">
               <div class="media-body">
                 <br><h4>Verosu México<small><br><i></i></small></h4><br><br>
-                <p>Visita la oficina más cercana a tu localidad<br>Ciudad de México<br>Paseo de la Reforma 505<br>Piso 28<br>Colonia Cuauhtémoc<br>Ciudad de México México, 06500<br><a href=""><i class='fas fa-map-marker-alt' style='font-size:24px'></i> Ver mapa </a><br>
+                <p style="color: black">Visita la oficina más cercana a tu localidad<br>Ciudad de México<br>Paseo de la Reforma 505<br>Piso 28<br>Colonia Cuauhtémoc<br>Ciudad de México México, 06500<br><a href=""><i class='fas fa-map-marker-alt' style='font-size:24px'></i> Ver mapa </a><br>
               <a href=""><i class='fas fa-mobile-alt' style='font-size:24px'></i> +52 (55) 5080 6000</a><br>Total of 19 locations</p>
                 <button type="button" class="btn btn-lg btn-outline-info" >
                   <i class='fas fa-location-arrow'> Ver mas oficinas</i>
@@ -91,7 +91,7 @@
           <div class="col-sm-8">            
             <div class="media-body">
               <br><h4>Escribenos</h4><br><br>
-              <p>El masivo corte de luz que afectó al país y a ciudades de Brasil y Uruguay fue registrado con extensas notas en los principales diarios y canales de noticias del mundo. La imposibilidad para brindar explicaciones sobre lo sucedido fue lo que más les llamó la atención. "El gobierno no sabe qué lo causó", destacó la CNN.</p><br><p>El apagón que cortó el suministro de energía a todo el país (salvo Tierra del Fuego) y parte de Uruguay y Brasil estuvo registrado con amplias coberturas en los principales diarios y canales de noticias del mundo. <a href="">Las respuestas del Gobierno ante la falla masiva </a>y su imposibilidad para dar certezas sobre lo sucedido, llamaron la atención de esos medios. “Hasta ahora no se ha identificado ninguna explicación para la falla generalizada del suministro eléctrico”, escribió esta mañana la cadena estadounidense CNN en una nota titulada “El blackout dejó a millones en Sudamérica sin energía. El gobierno todavía no sabe qué lo causó”.</p>
+              <p style="color: black">El masivo corte de luz que afectó al país y a ciudades de Brasil y Uruguay fue registrado con extensas notas en los principales diarios y canales de noticias del mundo. La imposibilidad para brindar explicaciones sobre lo sucedido fue lo que más les llamó la atención. "El gobierno no sabe qué lo causó", destacó la CNN.<br>El apagón que cortó el suministro de energía a todo el país (salvo Tierra del Fuego) y parte de Uruguay y Brasil estuvo registrado con amplias coberturas en los principales diarios y canales de noticias del mundo. <a href="">Las respuestas del Gobierno ante la falla masiva </a>y su imposibilidad para dar certezas sobre lo sucedido, llamaron la atención de esos medios. “Hasta ahora no se ha identificado ninguna explicación para la falla generalizada del suministro eléctrico”, escribió esta mañana la cadena estadounidense CNN en una nota titulada “El blackout dejó a millones en Sudamérica sin energía. El gobierno todavía no sabe qué lo causó”.</p>
                 <form class="form-inline" action="">
                 <label for="email" style="color: black">Nombre(s):</label>
                 <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
