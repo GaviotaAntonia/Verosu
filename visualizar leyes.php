@@ -48,9 +48,9 @@
               </div>
               <div id="collapseOne" class="collapse show" data-parent="#accordion">
                 <div class="card-body">
-                  <a class="nav-link" data-toggle="tab" href="#ley_del_infonavit">Ley del Infonavit</a>
-                  <a class="nav-link" data-toggle="tab" href="#ley_del_mercado_de_valores">Ley del mercado de valores</a>
-                  <a class="nav-link" data-toggle="tab" href="#ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal">Ley de Ingresos de la Federación para el Ejercicio Fiscal</a>
+                  <a class="nav-link" data-toggle="tab" href="#ley_del_infonavit_2019">Ley del Infonavit</a>
+                  <a class="nav-link" data-toggle="tab" href="#ley_del_mercado_de_valores_2019">Ley del mercado de valores</a>
+                  <a class="nav-link" data-toggle="tab" href="#ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_2019">Ley de Ingresos de la Federación para el Ejercicio Fiscal</a>
                 </div>
               </div>
             </div>
@@ -71,8 +71,8 @@
               </div>
               <div id="collapseThree" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <a class="nav-link" data-toggle="tab" href="#la_constitucion_politica_de_los_estados_unidos_mexicanos">La Constitución Politica de los Estados Unidos Mexicanos</a>
-                  <a class="nav-link" data-toggle="tab" href="#presupuesto_de_egresos_de_federacion_para_el_ejercicio_fiscal">Presupuesto de Egresos de la Federación para el Ejercicio Fiscal</a>
+                  <a class="nav-link" data-toggle="tab" href="#la_constitucion_politica_de_los_estados_unidos_mexicanos_2019">La Constitución Politica de los Estados Unidos Mexicanos</a>
+                  <a class="nav-link" data-toggle="tab" href="#presupuesto_de_egresos_de_federacion_para_el_ejercicio_fiscal_2019">Presupuesto de Egresos de la Federación para el Ejercicio Fiscal</a>
                 </div>
               </div>
             </div>
@@ -80,27 +80,27 @@
       </div>
       <div class="col-sm-10">
         <div class="tab-content">
-          <div id="ley_del_infonavit" class="tab-pane active">
+          <div id="ley_del_infonavit_2019" class="tab-pane active">
             <div class="row" style="width: 1585px;">
               <iframe src = 'leyes/leyes 2019/LEY DEL INFONAVIT.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
-          <div id="ley_del_mercado_de_valores" class="tab-pane fade">
+          <div id="ley_del_mercado_de_valores_2019" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
               <iframe src = 'leyes/leyes 2019/LEY DEL MERCADO DE VALORES.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
-          <div id="ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal" class="tab-pane fade">
+          <div id="ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_2019" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
               <iframe src = 'leyes/leyes 2019/LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE  2019.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
-          <div id="la_constitucion_politica_de_los_estados_unidos_mexicanos" class="tab-pane fade">
+          <div id="la_constitucion_politica_de_los_estados_unidos_mexicanos_2019" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
               <iframe src = 'leyes/leyes 2019/LA CONSTITUCION  POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
-          <div id="presupuesto_de_egresos_de_federacion_para_el_ejercicio_fiscal" class="tab-pane fade">
+          <div id="presupuesto_de_egresos_de_federacion_para_el_ejercicio_fiscal_2019" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
               <iframe src = 'leyes/leyes 2019/PRESUPUESTO DE EGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE  2019.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
@@ -122,22 +122,22 @@
                 </div>
                 <div id="collapseOne" class="collapse show" data-parent="#accordion">
                   <div class="card-body">
-                    <a class="nav-link" data-toggle="tab" href="#">Ley Aduanera</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley del Infonavit</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley Federal del Trabajo</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley de Instituciones de Credito</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley del Impuesto sobre la Renta</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley de Administración Tributaria</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley de Ingresos sibre Hidraulicos</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley del Impuesto al Valor Agregado</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley General de las Sociedades Mercantiles</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley del Instituto Mexicano del Seguro Social</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley del Servicio de Administración Tribunaria</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley General de Organismos Auxiliares de Credito</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley de la Comisición Nacional Bancaria de Valores</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley de Impuestos Especial sobre Producción y Servicios</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley de Ingresos de la Federación para el Ejercicio Fiscal</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Ley de Prevención e Identificación de Operaciones con Recursos de Procedencia Ilicita</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_aduanera">Ley Aduanera</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_del_infonavit">Ley del Infonavit</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_federal_del_trabajo">Ley Federal del Trabajo</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_de_instituciones_de_credito">Ley de Instituciones de Credito</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_del_impuestos_sobre_la_renta">Ley del Impuesto sobre la Renta</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_de_administracion_tributaria">Ley de Administración Tributaria</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_de_ingresos_sobre_hidraulicos">Ley de Ingresos sobre Hidraulicos</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_del_impuestos_al_valor_agregado">Ley del Impuesto al Valor Agregado</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_general_de_las_sociedades_mercantiles">Ley General de las Sociedades Mercantiles</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_del_instituto_mexicano_del_seguro_social">Ley del Instituto Mexicano del Seguro Social</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_del_servicio_de_administracion_tribunaria">Ley del Servicio de Administración Tribunaria</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_general_de_organismos_auxiliares_de_credito">Ley General de Organismos Auxiliares de Credito</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_de_la_comision_nacional_bancaria_de_valores">Ley de la Comisición Nacional Bancaria de Valores</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_de_impuestos_especial_sobre_produccion_y_servicios">Ley de Impuestos Especial sobre Producción y Servicios</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_de_ingresos_de_la_federeacion_para_el_ejercicio_fiscal">Ley de Ingresos de la Federación para el Ejercicio Fiscal</a>
+                    <a class="nav-link" data-toggle="tab" href="#ley_federal_para_prevencion_e_identificacion_de_operaciones_con_recursos_de_procedencia_ilicita">Ley Federal para Prevención e Identificación de Operaciones con Recursos de Procedencia Ilicita</a>
                   </div>
                 </div>
               </div>
@@ -147,10 +147,10 @@
                 </div>
                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
                   <div class="card-body">
-                    <a class="nav-link" data-toggle="tab" href="#">Código Financiero</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Código Civil el D.F.</a>
+                    <a class="nav-link" data-toggle="tab" href="#codigo_financiero_2018">Código Financiero</a>
+                    <a class="nav-link" data-toggle="tab" href="#codigo_civil_el_d_f_2018">Código Civil el D.F.</a>
                     <a class="nav-link" data-toggle="tab" href="#codigo_civil_federa_2018">Código Civil Federal</a>
-                    <a class="nav-link" data-toggle="tab" href="#codigo_de_comercio">Código de Comercio</a>
+                    <a class="nav-link" data-toggle="tab" href="#codigo_de_comercio_2018">Código de Comercio</a>
                     <a class="nav-link" data-toggle="tab" href="#codigo_fiscal_de_la_federacion_2018">Código Fiscal de la Federación</a>
                   </div>
                 </div>
@@ -163,8 +163,8 @@
                 </div>
                 <div id="collapseThree" class="collapse" data-parent="#accordion">
                   <div class="card-body">
-                    <a class="nav-link" data-toggle="tab" href="#">La Constitución Politica de los Estados Unidos Mexicanos</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Presupuesto de Egresos de Federación para el Ejercicio Fiscal</a>
+                    <a class="nav-link" data-toggle="tab" href="#la_constitucion_politica_de_los_estados_unidos_mexicanos_2018">La Constitución Politica de los Estados Unidos Mexicanos</a>
+                    <a class="nav-link" data-toggle="tab" href="#presupuesto_de_egresos_de_federacion_para_el_ejercicio_fiscal">Presupuesto de Egresos de la Federación para el Ejercicio Fiscal</a>
                   </div>
                 </div>
               </div>
@@ -172,7 +172,92 @@
         </div>
         <div class="col-sm-10">
         <div class="tab-content">
-          <div id="codigo_fiscal_de_la_federacion_2018" class="tab-pane fade">
+          <div id="ley_aduanera" class="tab-pane active">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY ADUANERA.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_del_infonavit" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DEL INFONAVIT.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_federal_del_trabajo" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY FEDERAL DE TRABAJO.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_de_instituciones_de_credito" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DE INSTITUCIONES DE CREDITO.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_del_impuestos_sobre_la_renta" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DE IMPUESTOS SOBRE LA RENTA.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_de_administracion_tributaria" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DE ADMINISTRACION TRIBUTARIA.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_de_ingresos_sobre_hidraulicos" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DE INGRESOS SOBRE HIDROCARBUROS.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_del_impuestos_al_valor_agregado" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DEL IVA.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_general_de_las_sociedades_mercantiles" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY GENERAL DE SOCIEDADES  MERCANTILES.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_del_instituto_mexicano_del_seguro_social" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DEL IMSS.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_del_servicio_de_administracion_tribunaria" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DEL SAT.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_general_de_organismos_auxiliares_de_credito" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY GENERAL DE ORGANISMOS AUXILIARES DE CREDITO.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_de_la_comision_nacional_bancaria_de_valores" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_de_impuestos_especial_sobre_produccion_y_servicios" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_de_ingresos_de_la_federeacion_para_el_ejercicio_fiscal" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 2018.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="ley_federal_para_prevencion_e_identificacion_de_operaciones_con_recursos_de_procedencia_ilicita" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LEY DE PREVENCION DEL LAVADO DE DINERO.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="codigo_financiero_2018" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/CODIGO FINANCIERO.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="codigo_civil_el_d_f_2018" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
               <iframe src = 'leyes/leyes 2018/CODIGO CIVIL DEL D.F.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
@@ -182,19 +267,24 @@
               <iframe src = 'leyes/leyes 2018/CODIGO CIVIL FEDERAL.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
-          <div id="codigo_de_comercio" class="tab-pane fade">
+          <div id="codigo_de_comercio_2018" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
               <iframe src = 'leyes/leyes 2018/CODIGO DE COMERCIO.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
-          <div id="la_constitucion_politica_de_los_estados_unidos_mexicanos" class="tab-pane fade">
+          <div id="codigo_fiscal_de_la_federacion_2018" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
-              <iframe src = 'leyes/leyes 2018/CODIGO FINANCIERO.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+              <iframe src = 'leyes/leyes 2018/CODIGO FISCAL DE LA FEDERACION.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+            </div>
+          </div>
+          <div id="la_constitucion_politica_de_los_estados_unidos_mexicanos_2018" class="tab-pane fade">
+            <div class="row" style="width: 1585px;">
+              <iframe src = 'leyes/leyes 2018/LA CONSTITUCION  POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
           <div id="presupuesto_de_egresos_de_federacion_para_el_ejercicio_fiscal" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
-              <iframe src = 'leyes/leyes 2018/PRESUPUESTO DE EGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE  2019.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+              <iframe src = 'leyes/leyes 2018/CODIGO FISCAL DE LA FEDERACION.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
         </div> 
