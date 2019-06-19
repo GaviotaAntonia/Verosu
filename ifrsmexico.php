@@ -38,10 +38,9 @@
         </div>
     </div>
 
-    
-<div class="container" style="margin-top:30px">
-  <div class="row">
-    <div class="col-sm-8">
+    <div class="container" style="margin-top:30px">
+      <div class="row">
+        <div class="col-sm-8">
         <div class="container mt-3">
           <h2>Verosu S. de R.L M.I.<small style="color: #76746E"><BR>Servicios Integrales comunicaciones y tecnologia.</small></h2><br><br>
           <i class='fab fa-facebook-square' style='font-size:48px;color:black'></i>
