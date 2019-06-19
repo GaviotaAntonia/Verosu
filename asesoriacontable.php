@@ -34,100 +34,86 @@
 		<div class="row">
 
     		<div class="col-sm-1" style="background-color:white;"></div>
-    		<div class="col-sm-3" style="background-color:white;">
+    		<div class="col-sm-2" style="background-color:white;">
 				<div class="container"><br><br>
-  					<div class="card" style="border-top: solid 4px #4AA4B9;">
-    					<div class="card-body"><small>Análisis</small><br>Alerta para consejeros 2019
+  					<div class="card" style="border-top: solid 4px #51A35A;">
+    					<div class="card-body"><small>Analisis<br></small><br><p style="font-size:5"><b>Alerta para consejeros 2019</b></p>
 						<p>Los Consejos de Administración se encuentran en una posición única para supervisar la visión de largo plazo de una organización. Sin embargo, muchos Consejos y equipos ejecutivos a menudo se ven tentados a enfocarse en el corto plazo.</p>
     					</div>
-  					</div><br>
-  						<div class="card bg-primary text-white">
-    					<div class="card-body">Primary card</div>
-  						</div><br>
-  							<div class="card bg-success text-white">
-    							<div class="card-body">Success card</div>
-  							</div><br>
-  								<div class="card bg-info text-white">
-    								<div class="card-body">Info card</div>
-  								</div><br>
-  									<div class="card bg-warning text-white">
-    									<div class="card-body">Warning card</div>
-  									</div><br>
-  										<div class="card bg-danger text-white">
-    										<div class="card-body">Danger card</div>
-  										</div><br>
-  											<div class="card bg-secondary text-white">
-    											<div class="card-body">Secondary card</div>
-  											</div><br>
-  												<div class="card bg-dark text-white">
-    												<div class="card-body">Dark card</div>
-  												</div><br>
-  													<div class="card bg-light text-dark">
-    													<div class="card-body">Light card</div>
-  													</div>
+  					</div>
+
+
+  					<br>
+  						<div class="card" style="border-top: solid 4px #51A35A;">
+    					<div class="card-body"><small>Analisis<br></small><br><p style="font-size:5"><b>Alerta para consejeros 2019</b></p>
+						<p>Los Consejos de Administración se encuentran en una posición única para supervisar la visión de largo plazo de una organización. Sin embargo, muchos Consejos y equipos ejecutivos a menudo se ven tentados a enfocarse en el corto plazo.</p>
+    					</div>
+  					</div>
+
+  						<br>
+  							
+  							
+  										
 				</div>
     		</div>
 
     		<div class="col-sm-4" style="background-color:white;">
-    				<div class="container" align="center"><br><br>
-  						<div class="card bg-dark text-white" style="border-top: solid 4px #4AA4B9;">
-  							<img src="conphoto/93.jpg" alt="">
-    					<div class="card-body">Dark card</div>
-  						</div><br>
-  						<div class="card bg-primary text-white">
-    					<div class="card-body">Primary card</div>
-  						</div><br>
-  							<div class="card bg-success text-white">
-    							<div class="card-body">Success card</div>
-  							</div><br>
-  								<div class="card bg-info text-white">
-    								<div class="card-body">Info card</div>
-  								</div><br>
-  									<div class="card bg-warning text-white">
-    									<div class="card-body">Warning card</div>
-  									</div><br>
-  										<div class="card bg-danger text-white">
-    										<div class="card-body">Danger card</div>
-  										</div><br>
-  											<div class="card bg-secondary text-white">
-    											<div class="card-body">Secondary card</div>
-  											</div><br>
-  												<div class="card bg-dark text-white">
-    												<div class="card-body">Dark card</div>
-  												</div><br>
-  													<div class="card bg-light text-dark">
-    													<div class="card-body">Light card</div>
-  													</div>
+    				<div class="container"><br><br>
+  						<div class="card bg-dark">
+    						<div class="card-body"><small style="color: white">Analisis</small>
+								<h5 style="color: white"><br>Encuesta Millenial 2019<br></h5>
+								<p style="color: #A6ACAF">La disminucion de la confianza alcanza niveles preocupantes</p>
+								<p style="color: white">La Encuesta Millenial 2019 revela una generacion interrumpida. Crecer en un mundo de transformación acelerada deja a los millenials y a la genreacion Z sintiendose inquietos por el futuro</p><br><a href="" style="color: white">Descargue el reporte completo  ></a>
+    						</div>
+  						</div>
+
+  						<br>
+  						<div class="card text-white" style="border-top: solid 4px #4AA4B9;">
+    						<div class="card-body"><small style="color: black"><b>Perspectiva</b></small>
+								<h5 style="color: black"><br>México, una gran oportunidad para el turismo médico<br></h5>
+								<p style="color: #A6ACAF">La disminucion de la confianza alcanza niveles preocupantes</p>
+								<p style="color: black">on Z sintiendose inquietos por el futuro</p><br>
+    						</div>
+  						</div>
+  						<br>
+
+  						<div class="card bg-dark">
+    						<div class="card-body"><small style="color: white">Analisis</small>
+								<h5 style="color: white"><br>Encuesta Millenial 2019<br></h5>
+								<p style="color: #A6ACAF">La disminucion de la confianza alcanza niveles preocupantes</p>
+								<p style="color: white">La Encuesta Millenial 2019 revela una generacion interrumpida. Crecer en un mundo de transformación acelerada deja a los millenials y a la genreacion Z sintiendose inquietos por el futuro</p><br><a href="" style="color: white">Descargue el reporte completo  ></a>
+    						</div>
+  						</div>
+
+  						<br>
+  							
+  														
 					</div>
     		</div>
 
     		<div class="col-sm-2" style="background-color:white;">
     				<div class="container"><br><br>
   					
-  						<div class="card bg-primary text-white" style="border-top: solid 4px #4AA4B9;">
-    					<div class="card-body">Primary card</div>
-  						</div><br>
-  							<div class="card bg-success text-white">
-    							<div class="card-body">Success card</div>
-  							</div><br>
-  								<div class="card bg-info text-white">
-    								<div class="card-body">Info card</div>
-  								</div><br>
-  									<div class="card bg-warning text-white">
-    									<div class="card-body">Warning card</div>
-  									</div><br>
-  										<div class="card bg-danger text-white">
-    										<div class="card-body">Danger card</div>
-  										</div><br>
-  											<div class="card bg-secondary text-white">
-    											<div class="card-body">Secondary card</div>
-  											</div><br>
-  												<div class="card bg-dark text-white">
-    												<div class="card-body">Dark card</div>
-  												</div><br>
-  													<div class="card bg-light text-dark">
-    													<div class="card-body">Light card</div>
-  													</div>
+  						<div class="card text-white" style="border-top: solid 4px #4AA4B9;">
+    						<div class="card-body"><small style="color: black"><b>Perspectiva</b></small>
+								<h5 style="color: black"><br>México, una gran oportunidad para el turismo médico<br></h5>
+								<p style="color: #A6ACAF">La disminucion de la confianza alcanza niveles preocupantes</p>
+								<p style="color: black">on Z sintiendose inquietos por el futuro</p><br>
+    						</div>
+  						</div>
+  						<br>
+  							<div class="card text-white" style="border-top: solid 4px #4AA4B9;">
+    						<div class="card-body"><small style="color: black"><b>Perspectiva</b></small>
+								<h5 style="color: black"><br>México, una gran oportunidad para el turismo médico<br></h5>
+								<p style="color: #A6ACAF">La disminucion de la confianza alcanza niveles preocupantes</p>
+								<p style="color: black">on Z sintiendose inquietos por el futuro</p><br>
+    						</div>
+  						</div>
+  						<br>
+  						
+  								
+  												
+  													
 				</div>
     		</div>
 
