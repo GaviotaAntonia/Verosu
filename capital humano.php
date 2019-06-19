@@ -71,7 +71,7 @@
         </div><br><br>
 
 
-        <!--- -->
+        <!--- 
         <div class="bs-example">
           <div class="card" style="max-width: 730px;">
             <div class="row no-gutters">
@@ -139,12 +139,20 @@
 
 
       <div class="col-sm-4">
-                <div class="sub-cuerpo2">
-                    <br><br><a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                </div>
-                <br><br>
+                            
                 <div class="container">
                   <div class="list-group">
+
+                    <div class="container">
+                      <br>
+                      <div class="list-group">
+                        <div class="card-header" style="background: black"><p style="color: white; ">Servicios y Soluciones</p></div>
+                        <a href="#" class="list-group-item list-group-item-action">First item</a>
+                          <a href="#" class="list-group-item list-group-item-action">Second item</a>
+                            <a href="#" class="list-group-item list-group-item-action">Third item</a>
+                            <a href="#" class="list-group-item list-group-item-action">cuatro itme</a>
+                      </div>
+                    </div> <br>
                     <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #3E473F; color: gray;"><b>Contacto</b><br>
                       <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button></a> 
                     <br>
@@ -164,6 +172,9 @@
                           </div> 
                         </div>
                     </div>
+                     <div class="sub-cuerpo2">
+                    <br><br><a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
 
                   </div>
       </div>      </div>
