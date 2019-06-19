@@ -148,7 +148,7 @@
                 <div id="collapseTwo" class="collapse" data-parent="#accordion">
                   <div class="card-body">
                     <a class="nav-link" data-toggle="tab" href="#">Código Financiero</a>
-                    <a class="nav-link" data-toggle="tab" href="#">Código Financiero</a>
+                    <a class="nav-link" data-toggle="tab" href="#">Código Civil el D.F.</a>
                     <a class="nav-link" data-toggle="tab" href="#codigo_civil_federa_2018">Código Civil Federal</a>
                     <a class="nav-link" data-toggle="tab" href="#codigo_de_comercio">Código de Comercio</a>
                     <a class="nav-link" data-toggle="tab" href="#codigo_fiscal_de_la_federacion_2018">Código Fiscal de la Federación</a>
@@ -189,7 +189,7 @@
           </div>
           <div id="la_constitucion_politica_de_los_estados_unidos_mexicanos" class="tab-pane fade">
             <div class="row" style="width: 1585px;">
-              <iframe src = 'leyes/leyes 2018/LA CONSTITUCION  POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
+              <iframe src = 'leyes/leyes 2018/CODIGO FINANCIERO.htm' width = '100%' height = '1000px' frameborder = '0' scrolling = 'none'></iframe>
             </div>
           </div>
           <div id="presupuesto_de_egresos_de_federacion_para_el_ejercicio_fiscal" class="tab-pane fade">
