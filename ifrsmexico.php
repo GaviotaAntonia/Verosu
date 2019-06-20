@@ -69,28 +69,41 @@
           </div>
           <br><br>
           <div class="card-deck">
-            <div class="card -text-white bg-dark">
+            <div class="card text-white ">
               <img src="conphoto/97.jpg" height="50">
-              <div class="card-body text-center">
-                <p class="card-text">Some text inside the first card</p>
+              <div class="card-body">
+                <p style="color: #97999b">
+                  <b>Análisis</b>
+                </p>
+                <p style="color: black">Estudio "Madurez en los procesos financieros"</p>
+                <p style="color: #97999b">Conozca los resultados de nuestro estudio Madurez...</p>
+                <p style="color: black">
+                  <b>Leer más</b>
+                </p>
               </div>
             </div>
-            <div class="card text-white bg-dark">
+            <div class="card text-white" style="background: #000; border-top: solid 5px #ff9786">
               <div class="card-body">
-                <p style=" color: white">
-                  <b>Servicios</b>
+                <p style="color: #97999b">
+                  <b>Artículo</b>
                 </p>
-                <h3 style="color: white">Cursos y Diplomados en IFRS</h3>
-                <P class="card-text">Some text inside the second card</P>
+                <p style="color: white">Diplomados IFRS</p>
+                <p style="color: #97999b">En este curso podrá adquirir el conocimiento de...</p>
+                <p style="color: white">
+                  <b>Insríbase aquí</b>
+                </p>
               </div>
             </div>
-            <div class="card text-white bg-dark">
+            <div class="card text-white ">
               <div class="card-body">
-                <p style=" color: white">
-                  <b>Servicios</b>
+                <p style="color: #97999b">
+                  <b>Artículo</b>
                 </p>
-                <h3 style="color: white">Cursos y Diplomados en IFRS</h3>
-                <P class="card-text">Some text inside the second card</P>
+                <p style="color: black">Cursos y Diplomados en IFRS</p>
+                <p style="color: #97999b">Alianzas con Instituciones Universitarias</p>
+                <p style="color: black">
+                  <b>Descubra más</b>
+                </p>
               </div>
             </div>
           </div>
@@ -102,13 +115,13 @@
                 <p class="card-text">Some text inside the first card</p>
               </div>
             </div>
-            <div class="card text-white bg-dark">
+            <div class="card text-white" style="background: #000; border-top: solid 5px #00a3e0">
               <div class="card-body">
-                <p style="color: white">
+                <p style="color: #97999b">
                   <b>Servicios</b>
                 </p>
                 <p style="color: white">Cursos y Diplomados en IFRS</p>
-                <p class="card-text">Some text inside the first card</p>
+                <p style="color: #97999b">Verosu ofrece cursos y diplomados en IFRS en conjunto con Instituciones Universitarias para apoyar a las organizaciones en su proceso de preparación y actualización en las IFRS.</p>
               </div>
             </div>
           </div>
@@ -122,22 +135,22 @@
           <br>
           <div class="container">
             <div class="list-group">
-              <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #3E473F; color: white">
+              <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #59C3CC; color: white">
                 <b>Contactos</b>
                 <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button>
               </a>
               <br>
-              <a href="#" class="list-group-item list-group-item-action" style="background-color: #3E473F; color: white">
+              <a href="#" class="list-group-item list-group-item-action" style="background-color: #59C3CC; color: white">
                 <b>Solicitud de cotización</b>
                 <button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button>
               </a>
               <br>
-              <a href="#" class="list-group-item list-group-item-action" style="background-color: #3E473F; color: white">
+              <a href="#" class="list-group-item list-group-item-action" style="background-color: #59C3CC; color: white">
                 <b>Servicios y Soluciones</b>
               </a>
               <br>
               <div class="card">
-                <div class="card-header" style="background-color: #3E473F; color: white">
+                <div class="card-header" style="background-color: #59C3CC; color: white">
                   <b>Temas Similares</b>
                 </div>
                 <div class="card-body">
