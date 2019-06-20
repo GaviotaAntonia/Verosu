@@ -50,10 +50,10 @@
     color: White;
 }
   </style>
-
 </head>
 <body>
-  <!--NAV1-->
+	
+	  <!--NAV1-->
   <?php include "nav.html"; ?>
   <!--nav 2-->
   <?php include 'nav2.html'; ?>
@@ -63,11 +63,12 @@
 
 
 	<div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/108.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/114.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
-        		<b>Riesgo Financiero</b>
-        	<p style="text-align: right; color: black;">Ayudamos a las organizaiones a administrar sus áreas de riesgo financiero mediante la asistencia en el diseño y la implementación de gobierno, procesos, modelos, datos, tecnología y rendimiento de informes, incluyendo soporte durante todo el ciclo de vid de las operaciones</p>
+        		<b>Impuestos Globales</b>
+          </p>
+        	<p style="text-align: right; color: black;">La realidad es un panorama en rápido cambio, desde el que surgen nuevas ideas, demandas y modelos operativos. Liderear a través de este cambio y su complejidad es nuestra prioridad y apoyándote. Para que obtengas más infromación sobre lo que es nuevo e importante en el impuesto a las empresas</p>
         </div>
     </div>
 
@@ -98,6 +99,6 @@
     </div>
 
 	<?php include "footer.html"; ?>
-	
+
 </body>
 </html>

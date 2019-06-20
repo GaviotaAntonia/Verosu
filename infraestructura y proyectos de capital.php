@@ -50,10 +50,10 @@
     color: White;
 }
   </style>
-
 </head>
 <body>
-  <!--NAV1-->
+	
+	  <!--NAV1-->
   <?php include "nav.html"; ?>
   <!--nav 2-->
   <?php include 'nav2.html'; ?>
@@ -63,11 +63,12 @@
 
 
 	<div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/108.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/117.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
-        		<b>Riesgo Financiero</b>
-        	<p style="text-align: right; color: black;">Ayudamos a las organizaiones a administrar sus áreas de riesgo financiero mediante la asistencia en el diseño y la implementación de gobierno, procesos, modelos, datos, tecnología y rendimiento de informes, incluyendo soporte durante todo el ciclo de vid de las operaciones</p>
+        		<b>Tax Technology</b>
+          </p>
+        	<p style="text-align: right; color: black;">Apoyamos en la definición de estrategias y planeación para el desarrollo de proyectos de infraestructura, y su estrucuración financiera. Ayudamos en la ejecución de proyectos de capital a través de oficinas de gestión, gerenciamiento y supervisión, para obtener el retorno de inversión esperado.</p>
         </div>
     </div>
 
@@ -98,6 +99,6 @@
     </div>
 
 	<?php include "footer.html"; ?>
-	
+
 </body>
 </html>

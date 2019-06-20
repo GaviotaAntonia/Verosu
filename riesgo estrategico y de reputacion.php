@@ -63,9 +63,9 @@
 	<div class="contenedor" align="center">
         <img class="img-fluid" src="conphoto/109.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
-        	<p style="font-size: 60px">
+        	<p style="font-size: 60px; color: black;">
         		<b>Riesgo Estrategocp y de Reputación</b>
-        	<p style="text-align: right;">Ayudamos a las organizaciones a identificar y administar los riegos que afectan más el éxitoa largo plazo del consejo de adminstración y de la gerencia de alto nivel</p>
+        	<p style="text-align: right; color: black;">Ayudamos a las organizaciones a identificar y administar los riegos que afectan más el éxitoa largo plazo del consejo de adminstración y de la gerencia de alto nivel</p>
         </div>
     </div>
 

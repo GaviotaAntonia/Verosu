@@ -65,9 +65,9 @@
 	<div class="contenedor" align="center">
         <img class="img-fluid" src="conphoto/107.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
-        	<p style="font-size: 60px">
+        	<p style="font-size: 60px; color: black;">
         		<b>Riesgo Cibernético</b>
-        	<p style="text-align: right;">Ayudamos a los clientes a elaborar a implementar estrategias y programas empresariales para administar los riesgos tecnológicos y de informaciónM preparse y responde a incidentes; dectectar proactivamente amenazas y; encontarar el balance adecuado entre la administración y la contención de costos</p>
+        	<p style="text-align: right; color: black;">Ayudamos a los clientes a elaborar a implementar estrategias y programas empresariales para administar los riesgos tecnológicos y de informaciónM preparse y responde a incidentes; dectectar proactivamente amenazas y; encontarar el balance adecuado entre la administración y la contención de costos</p>
         </div>
     </div>
 
