@@ -59,7 +59,15 @@
   <!--nav 2-->
   <?php include 'nav2.html'; ?>
 <!---FIN DE NAV BAR-->
-
+  
+      <div class="contenedor" align="center">
+        <img class="img-fluid" src="conphoto/105.jpg" width="1800px" style="opacity: 0.4">
+        <div class="centrado">
+          <p style="font-size: 60px; color: black;">
+            <b>Capital Humano</b>
+          <p style="text-align: right; color: black;">Acompañaremos a nuestros clientes a resolver sus retos organizaciones más complejos, por medio de nuestras soluciones en materia de talento, organización y cambio que ligan la estrategia de negocio con la de Recursos Humanos.</p>
+        </div>
+    </div>
       <div class="container" style="margin-top:30px">
       <div class="row">
         <div class="col-sm-8">

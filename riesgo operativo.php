@@ -63,9 +63,9 @@
 	<div class="contenedor" align="center">
         <img class="img-fluid" src="conphoto/87.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
-        	<p style="font-size: 60px">
+        	<p style="font-size: 60px; color: black;">
         		<b>Riesgo Operativo</b>
-        	<p style="text-align: right;">Ayudamos a las organizaciones a transformar las maneras de potenciar a al gente, las relaciones con terceros, las relaciones con terceros, la tecnología, los datos, los procesos de negocio y los controles a fin de aboradar sus riesgos operativos y elevar el desempeño del negocio</p>
+        	<p style="text-align: right; color: black;">Ayudamos a las organizaciones a transformar las maneras de potenciar a al gente, las relaciones con terceros, las relaciones con terceros, la tecnología, los datos, los procesos de negocio y los controles a fin de aboradar sus riesgos operativos y elevar el desempeño del negocio</p>
         </div>
     </div>
 

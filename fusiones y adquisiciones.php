@@ -50,10 +50,10 @@
     color: White;
 }
   </style>
-
 </head>
 <body>
-  <!--NAV1-->
+	
+	  <!--NAV1-->
   <?php include "nav.html"; ?>
   <!--nav 2-->
   <?php include 'nav2.html'; ?>
@@ -63,11 +63,11 @@
 
 
 	<div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/108.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/112.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
-        		<b>Riesgo Financiero</b>
-        	<p style="text-align: right; color: black;">Ayudamos a las organizaiones a administrar sus áreas de riesgo financiero mediante la asistencia en el diseño y la implementación de gobierno, procesos, modelos, datos, tecnología y rendimiento de informes, incluyendo soporte durante todo el ciclo de vid de las operaciones</p>
+        		<b>Fusiones y Adquisiciones</b>
+        	<p style="text-align: right; color: black;">Ayudamos a nuestros clientes en estructuración de transacciones de asociación estratégica, fusión, adquisición y venta de empresas; brindamos asesorías en todas las etapas del proceso</p>
         </div>
     </div>
 
