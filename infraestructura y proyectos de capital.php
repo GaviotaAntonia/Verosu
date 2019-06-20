@@ -68,7 +68,7 @@
         	<p style="font-size: 60px; color: black;">
         		<b>Tax Technology</b>
           </p>
-        	<p style="text-align: right; color: black;">Apoyamos en la definición de estrategias y planeación para el desarrollo de proyectos de infraestructura, y su estrucuración financiera. Ayudamos en la ejecución de proyectos de capital a través de oficinas de gestión, gerenciamiento y supervisión, para obtener el retorno de inversión esperado.</p>
+        	<p style="text-align: right; color: black;">Apoyamos en la definición de estrategias y planeación para el desarrollo de proyectos de infraestructura, y su estructuración financiera. Ayudamos en la ejecución de proyectos de capital a través de oficinas de gestión, gerenciamiento y supervisión, para obtener el retorno de inversión esperado.</p>
         </div>
     </div>
 

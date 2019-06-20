@@ -68,7 +68,7 @@
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
         		<b>Riesgo Regulatorio</b>
-        	<p style="text-align: right; color: black;">Ayudamos a las organizaciones a administrar el ciclo de vida completo del riesgo regulatorio: elaboración de estrategias; diseño, evaluación y transformación del proceso, los controles y la infraestructura; y repuestas a desajustes específicos en sus porgramas de cumpliento regulatorio</p>
+        	<p style="text-align: right; color: black;">Ayudamos a las organizaciones a administrar el ciclo de vida completo del riesgo regulatorio: elaboración de estrategias; diseño, evaluación y transformación del proceso, los controles y la infraestructura; y repuestas a desajustes específicos en sus programas de cumplimento regulatorio</p>
         </div>
     </div>
 
