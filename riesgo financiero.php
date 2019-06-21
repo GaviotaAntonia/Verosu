@@ -70,7 +70,7 @@
         	<p style="text-align: right; color: black;">Ayudamos a las organizaciones a administrar sus áreas de riesgo financiero mediante la asistencia en el diseño y la implementación de gobierno, procesos, modelos, datos, tecnología y rendimiento de informes, incluyendo soporte durante todo el ciclo de vida de las operaciones</p>
         </div>
     </div>
-
+  <?php include 'navriesgo.html'; ?>
     <div class="container" style="margin-top: 30px">
     	<div class="row">
 			<div class="col-sm-8">

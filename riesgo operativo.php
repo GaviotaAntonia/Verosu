@@ -68,7 +68,7 @@
         	<p style="text-align: right; color: black;">Ayudamos a las organizaciones a transformar las maneras de potenciar a la gente, las relaciones con terceros, las relaciones con terceros, la tecnología, los datos, los procesos de negocio y los controles a fin de abordar sus riesgos operativos y elevar el desempeño del negocio</p>
         </div>
     </div>
-
+  <?php include 'navriesgo.html'; ?>
     <div class="container" style="margin-top: 30px">
     	<div class="row">
 			<div class="col-sm-8">
