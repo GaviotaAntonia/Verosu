@@ -68,7 +68,7 @@
         	<p style="text-align: right; color: black;">Ayudamos a las organizaciones a identificar y administrar los riegos que afectan más el éxitosa largo plazo del consejo de administración y de la gerencia de alto nivel</p>
         </div>
     </div>
-
+  <?php include 'navriesgo.html'; ?>
     <div class="container" style="margin-top: 30px">
     	<div class="row">
 			<div class="col-sm-8">
