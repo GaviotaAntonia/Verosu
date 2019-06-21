@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>VEROSU S. de R.L M.I</title>
+  <head>
+	  <meta charset="utf-8">
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	  <title>VEROSU S. de R.L M.I</title>
   	<meta name="viewport" content="width=device-width, initial-scale=1">
   	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
   	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
@@ -11,69 +11,78 @@
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
   	<link rel="shortcut icon" type="image/png" href="conphoto/ab.png"> 
 
-	<link rel="stylesheet" href="css/masestilos.css">
-	<link rel="stylesheet" href="css/estilos.css">
-  <!--LETRA QUE SE UTLIZA-->
-<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-  <style>
-  /* Make the image fully responsive */
-  .carousel-inner img {
-    width: 100%;
-    height: 100%;
-  }
-  #barra{
-    color: black;
-  }
- .btn-group-vertical>.btn, .btn-group-vertical>.btn-group {
-    width: 188px;
-}
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-    width: 100%
-}
+	  <link rel="stylesheet" href="css/masestilos.css">
+	  <link rel="stylesheet" href="css/estilos.css">
+  
+    <!--LETRA QUE SE UTLIZA-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+  
+    <style>
+      /* Make the image fully responsive */
+      .carousel-inner img 
+      {
+        width: 100%;
+        height: 100%;
+      }
+  
+      #barra
+      {
+        color: black;
+      }
  
-.texto-encima{
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    color: white;
-}
-.centrado{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+      .btn-group-vertical>.btn, .btn-group-vertical>.btn-group
+      {
+        width: 188px;
+      }
 
-    color: White;
-}
-  </style>
-</head>
+      .contenedor
+      {
+        position: relative;
+        display: inline-block;
+        text-align: center;
+        width: 100%
+      }
+ 
+      .texto-encima
+      {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        color: white; 
+      }
+
+      .centrado
+      {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: White;
+      }
+  
+    </style>
+  </head>
 <body>
 	
-	  <!--NAV1-->
-  <?php include "nav.html"; ?>
+	<!--NAV1-->
+    <?php include "nav.html"; ?>
   <!--nav 2-->
-  <?php include 'nav2.html'; ?>
-<!---FIN DE NAV BAR-->
-
-
-
+    <?php include 'nav2.html'; ?>
+  <!---FIN DE NAV BAR-->
 
 	<div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/113.jpg" width="1800px" style="opacity: 0.4">
-        <div class="centrado">
-        	<p style="font-size: 60px; color: black;">
-        		<b>Value Creation & Restructuring</b>
-        	</p>
-        	<p style="text-align: right; color: black;">Los servicios de Value Creation están centrados en identificar, planificar e implementar mejoras en las operaciones de nuestros clientes, con el objetivo de incrementar los márgenes operativos y optimizar las posiciones de caja.</p>
-        </div>
+    <img class="img-fluid" src="conphoto/113.jpg" width="1800px" style="opacity: 0.4">
+    <div class="centrado">
+      <p style="font-size: 60px; color: black;">
+        <b>Value Creation & Restructuring</b>
+      </p>
+      <p style="text-align: right; color: black;">Los servicios de Value Creation están centrados en identificar, planificar e implementar mejoras en las operaciones de nuestros clientes, con el objetivo de incrementar los márgenes operativos y optimizar las posiciones de caja.</p>
     </div>
+  </div>
 
-    <div class="container" style="margin-top: 30px">
-    	<div class="row">
+  <div class="container" style="margin-top: 30px">
+    <div class="row">
 			<div class="col-sm-8">
 				<div class="container mt-3">
 					<h2>
@@ -88,15 +97,75 @@
 					<i class="fab fa-twitter-square" style="font-size: 48px; color: black"></i>
 					<i class="fa fa-youtube-square" style="font-size: 48px; color: black"></i>
 				</div>
+        <div class="container mt-3">
+          <h5>
+            <b>Servicios</b>
+          </h5>
+          <h3>
+            Servicios de Value Creation & Restructuring
+            <small style="color: #76746E">
+              <br>
+              Impulsando las mejoras operativas
+            </small>
+          </h3>
+          <p style="color: black">Los servicios de Value Craetion están centrados en identificar, planificar e implementar mejoras en las operaciones de nuestros clientes, con el objetivo de incrementar los márgenes operativos y optimizar las posición de caja</p>
+          <p style="color: black">
+            Nuestra ampli experiencia liderando proyectos de transformación operativa en diversos sectores y nuestra metodología, está orientada a generar una mejora en los resultados financieros , acelerar el crecimiento de los márgenes e impulsar mejoras en el Working Capital. Trabajamos conjuntamente con la dirección de la compañia o con los stakeholders para aplicar mejoras alineadas con el plan estratégico de nuestros clientes
+          </p>
+          <br>
+          <h3>Los servicios de Value Creation en el ciclo empresarial</h3>
+          <p style="color: black">Los servicios de <b>Value Creation</b> destacan por generar un crecimiento sostenido en los márgenes operativos de nuestros clientes</p>
+        </div>
+        <br><br>
+        <div class="card-deck">
+          <div class="card text-white ">
+            <div class="card-body">
+              <h4 style="color: black">
+                <b>Contexto de los servicios de Value Creation</b>
+              </h4>
+              <p style="color: black">Los servicios de <b>Value Creation</b> de Verosu generan gran impacto en las operaciones de nuestros clientes </p>
+              <ul style="color: black">
+                <li>Comercial y estrategia</li>
+                <li>Logística</li>
+                <li>Compras</li>
+                <li>Ventas</li>
+                <li>Otros gastos operativos</li>
+                <li>Optimización de CAPEX</li>
+                <li>Control de Gestión</li>
+                <li>Operaciones</li>
+                <li>Tesorería y Working Capital</li>
+              </ul>
+            </div>
+          </div>
+          <div class="card text-white ">
+            <div class="card-body">
+              <h4>
+                <b>Técnicas y herramientas de Value Creation</b>
+              </h4>
+              <p style="color: black">Nuestra metodología de <b>servicios de Value Creation</b> está orientada a identificar, cuantificar e implementar medida que aceleren el crecimiento de nuestros clientes </p>
+              <ul style="color: black">
+                <li>Metodología de Private Equity</li>
+                <li>Análisis de potencialidades</li>
+                <li>Elaboración de presupuesto</li>
+                <li>Data Analytics</li>
+                <li>Análisis de Pricing de productos</li>
+                <li>Mejoras de Working Capital</li>
+                <li>Interim Management</li>
+                <li>Análisis de mercado</li>
+              </ul>
+            </div>
+          </div>
+        </div>
 			</div>
 			<div class="col-sm-4">
 				<div class="sub-cuerpo2">
 					<br><br>
-					<a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+					<a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> 
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 				</div>
 			</div>    		
-    	</div>
     </div>
+  </div>
 
 	<?php include "footer.html"; ?>
 		
