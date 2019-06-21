@@ -61,11 +61,10 @@
 <!---FIN DE NAV BAR-->
   <?php include 'nav4.html'; ?>
       <div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/compus.jpg" width="1800px" style="opacity: 0.4; height: 400px" >
+        <img class="img-fluid" src="conphoto/estra.jpg" width="1800px" style="opacity: 0.4; height: 400px" >
         <div class="centrado">
           <p style="font-size: 60px; color: black;">
-            <b>Gestión del cambio</b>
-          <p style="text-align: right; color: black;">Traducimos la estrategia de negocio en retos de talento, para hacer las inversiones correctas y más redituables en liderazgo, engagement, cultura, gestión del desempeño, remuneración total y otros programas..</p>
+            <b>Transformacion Organizacional</b>
         </div>
     </div>
 
@@ -74,22 +73,34 @@
           <div class="col-sm-8">
             <div class="container mt-4">
               <p style="color: black"><b>Servicios</b></p>
-                <h2>Gestión del cambio.<small style="color: #76746E"><BR>Liderando el nuevo mundo del trabajo.</small></h2>
-                  <p style="color: black">Traducimos la estrategia de negocio en retos de talento, para hacer las inversiones correctas y más redituables en liderazgo, engagement, cultura, gestión del desempeño, remuneración total y otros programas.</p>
+                <h2>Transformación organizacional.<small style="color: #76746E"><BR>Liderando el nuevo mundo del trabajo.</small></h2>
+                  <p style="color: black">Apoyamos a las organizaciones a definir e implementar nuevas estructuras y modelos organizacionales para lograr los objetivos estratégicos de la empresa, a través del conocimiento profundo de industria, sector y soluciones precisas basadas en analíticos y mejores prácticas.</p>
                     <img src="logosocial/social_facebook_fb_35 .png" class="rounded-circle" alt="Cinque Terre" style="width: 50px">
                     <img src="logosocial/social_instagram_3.png" class="rounded-circle" alt="Cinque Terre"  style="width: 50px">
                     <img src="logosocial/social_youtube_23.png" class="rounded-circle" alt="Cinque Terre"  style="width: 50px">
                     <br><br>
-                    <h2><b>Nuestro enfoque de solución</b></h2><br><p style="color: black"><br>Contribuimos en el cumplimiento de los objetivos de negocio, gestionando el cambio desde la alta dirección para lograr incrementar el nivel de compromiso y accionar la aceptación del cambio en los colaboradores a través de cuatro tendencias clave</p>
+                    <p style="color: black">En la actualidad, las organizaciones se enfrentan a retos mucho mayores que antes. La velocidad de la innovación tecnológica, la aparición y desaparición de mercados, las presiones regulatorias, la necesidad de excelencia operativa, los requerimientos cambiantes de los clientes y empleados, obligan a las empresas a desarrollar la capacidad de reinventarse o desaparecer. </p>
+                    <br><p style="color: black">Estas tendencias generan en las organizaciones la necesidad de implementar soluciones entorno a:</p>
                     <ul>
-                      <li>Nube: ayudamos a que líderes y colaboradores de una organización comprendan las ventajas e implicaciones de ir a la nube en sus operaciones y servicios cotidianos.</li>
-                      <li>Movilidad: favorecemos el entendimiento y aceptación de esquemas de trabajo no tradicionales (trabajo remoto - basado en dispositivos móviles) desplegando acciones que permiten ir ganando confianza y rompiendo paradigmas. </li>
-                      <li>Digital: ayudamos a las organizaciones a adoptar los cambios digitales realizando estrategias de habilitación que consideran las características personales de los usuarios.</li>
-                      <li>Analíticos: inspiramos nuestras estrategias de gestión del cambio en el uso de analíticos, dejando atrás las estrategias generales sin conocer a las audiencias implicadas.</li>
+                      <li>Adecuar la estructura organizacional a su estrategia, alineando roles y responsabilidades.</li>
+                      <li>Adaptar el proceso de toma de decisiones a los requerimientos del mercado</li>
+                      <li>Fortalecer el entendimiento de la estrategia por parte de los colaboradores y los comportamientos óptimos para su ejecución</li>
+                      <li>Identificar la forma de trabajar y recompensar a los colaboradores </li>
+
+
+ 
                     </ul>
                     
-                    <h2><b>Nuestro impacto</b></h2>
-                      <p style="color: black">Uno de nuestros clientes, líder en la industria de consumo de bebidas, emprendió el viaje de transformar su modelo operativo para convertirse en una empresa de clase mundial, definiendo los mejores procesos de la industria bajo una plataforma tecnológica estandarizada.<br>Apoyamos en la implementación de la adopción de estas nuevas prácticas en la plantilla de 24,000 empleados, logrando la estandarización de las prácticas operativas a nivel nacional.<br>El impacto directo fue su transformación a ser una de las empresas más eficientes de su sector, obteniendo la productividad esperada tras la inversión realizada en sistemas y procesos, aspecto que se vio reflejado en los indicadores financieros. Actualmente continuamos asesorándolos en el rediseño de procesos e innovación.</p>
+                    <h2><b>Nuestro enfoque de solución</b></h2>
+                      <p style="color: black">Apoyamos a las organizaciones a definir la mejor forma de asignar y recompensar a su capital humano para lograr los objetivos estratégicos de la empresa, a través de tres capacidades clave:</p>
+                      <ul>
+                        <li><b>Conocimiento profundo:</b> entendemos ampliamente la estrategia de negocio y su impacto en las personas que forman parte de la organización, aspecto que nos permite evaluar dónde se genera valor y las necesidades de transformación.</li>
+                        <li><b>Soluciones precisas:</b> a partir de nuestro conocimiento de industria y mejores prácticas, tenemos la capacidad de diseñar alcances y marcos de solución específicos para enfrentar los retos de negocio y organizacionales de nuestros clientes. </li>
+                        <li><b>Impacto duradero:</b> acompañamos a nuestros clientes en la fase más crítica: la implementación; de esta forma aseguramos que el personal asimile su nuevo rol y gestión del cambio para conseguir los beneficios esperados de la transformación</li>
+                      </ul>
+
+
+
 
                       <hr>
 
