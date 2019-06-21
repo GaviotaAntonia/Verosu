@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <title>Verosu México | Servicios de Auditoría, Impuestos Consultoría, Riesgos y Asesoría Finaciera</title>
   <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>VEROSU S. de R.L M.I</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
@@ -10,8 +11,8 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
   <link rel="shortcut icon" type="image/png" href="conphoto/ab.png"> 
 
-	<link rel="stylesheet" href="css/masestilos.css">
-	<link rel="stylesheet" href="css/estilos.css">
+  <link rel="stylesheet" href="css/masestilos.css">
+  <link rel="stylesheet" href="css/estilos.css">
   <!--LETRA QUE SE UTLIZA-->
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
@@ -27,88 +28,162 @@
  .btn-group-vertical>.btn, .btn-group-vertical>.btn-group {
     width: 188px;
 }
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 100%
+}
+ 
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    color: White;
+}
   </style>
 
 </head>
 
-
-<!--NAV -->
-  <?php include 'nav.html'; ?>
-<!--FINAL NAV-->
 <body>
-
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-
-  <!-- Indicators -->
-  <ul class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-  </ul>
-  
-  <!-- The slideshow -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="conphoto/94.jpg" alt="Los Angeles" width="1100" height="200">
-    </div>
-    <div class="carousel-item">
-      <img src="conphoto/95.jpg" alt="Chicago" width="1100" height="200">
-    </div>
-    <div class="carousel-item">
-      <img src="conphoto/96.jpg" alt="New York" width="1100" height="200">
-    </div>
-  </div>
-  
-  <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#myCarousel" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
-</div>
-  <!---AQUI VA LA INFROMACION ACERCA DE VEROSU-->
-<hr size=200 style="background-color: black" >
-
-<div class="container" style="margin-top:30px">
-  <div class="row">
-    <div class="col-sm-8">
-         <div class="container mt-3">
-          <h2>Verosu S. de R.L M.I.<small style="color: #76746E"><BR>Servicios Integrales comunicaciones y tecnologia.</small></h2><br><br>
-          <i class='fab fa-facebook-square' style='font-size:48px;color:black'></i>
-          <i class='fab fa-twitter-square' style='font-size:48px;color:black'></i>
-          <i class="fa fa-youtube-square" style="font-size:48px;color:black"></i>
-
-
-          <p style="color: black"><br>Una historia que importa<br><b>Creemos que somos tan buenos como el bien que hacemos</b><br><br>Todo lo que pueda hablar sobre nuestro tamaño, diversidad y años de historia, por notables e importantes que puedan ser, son secundarios ante la verdadera forma de medir a Deloitte: el impacto que hacemos en el mundo.<br>Así que, cuando la gente se pregunta “¿qué hace diferente a Deloitte?” la respuesta está en los ejemplos específicos de cómo Deloitte ayuda a los clientes de sus firmas miembro, su gente y a la sociedad a alcanzar metas notables, resolver problemas complejos o a tener un progreso significativo. Aún más profundo, se encuentra en las creencias, comportamientos y sentido fundamental de propósito, lo que apuntala todo lo que hacemos.<br>Con cerca de 150 años de trabajo duro y compromiso por hacer una diferencia real, nuestra organización ha crecido en escala y diversidad — aproximadamente 245,000 personas en 150 de países y territorios, proveen asesoría en auditoría, impuestos, temas legales y financieros, asesoría de riesgo y servicios de consultoría—y aún así, nuestra cultura compartida se mantiene igual.<br> <br>
+  <!--NAV1-->
+  <?php include "nav.html"; ?>
+  <!--nav 2-->
+  <?php include 'nav2.html'; ?>
+<!---FIN DE NAV BAR-->
+  <?php include 'nav4.html'; ?>
+      <div class="contenedor" align="center">
+        <img class="img-fluid" src="buscatalento.jpg" width="1800px" style="opacity: 0.4">
+        <div class="centrado">
+          <p style="font-size: 60px; color: black;">
+            <b>Gestión de Talento</b>
+          <p style="text-align: right; color: black;">Traducimos la estrategia de negocio en retos de talento, para hacer las inversiones correctas y más redituables en liderazgo, engagement, cultura, gestión del desempeño, remuneración total y otros programas..</p>
         </div>
-      </div>
+    </div>
+      <div class="container" style="margin-top:30px">
+      <div class="row">
+        <div class="col-sm-8">
+        <div class="container mt-4">
+          <p style="color: black"><b>Servicios</b></p>
+          <h2>Gestión de talento.<small style="color: #76746E"><BR>Liderando el nuevo mundo del trabajo.</small></h2>
+               <p style="color: black">Traducimos la estrategia de negocio en retos de talento, para hacer las inversiones correctas y más redituables en liderazgo, engagement, cultura, gestión del desempeño, remuneración total y otros programas.</p>
+                <img src="logosocial/social_facebook_fb_35 .png" class="rounded-circle" alt="Cinque Terre" style="width: 50px">
+                <img src="logosocial/social_instagram_3.png" class="rounded-circle" alt="Cinque Terre"  style="width: 50px">
+                <img src="logosocial/social_youtube_23.png" class="rounded-circle" alt="Cinque Terre"  style="width: 50px">
+                <br><br>
+                <b>Retos</b><br><p style="color: black"><br>Actualmente, existen tendencias a nivel global en todas las industrias que están impulsando cambios en la gestión de talento.Estamos en una época donde la palabra “trabajar” adquiere un nuevo significado. Los empleados se asemejan más a clientes o socios, en lugar de subordinados, y el verdadero talento cuenta con opciones para elegir su trabajo ideal. Las organizaciones están comprendiendo que las inversiones en el talento son una necesidad estratégica para lograr:
+                  <ul>
+                    <li>Crecimiento y competitividad</li>
+                    <li>Rentabilidad y productividad</li>
+                    <li>Retención y adquisición de personal clave</li>
+                    <li>Una fuerza laboral con la capacidad y compromiso para afrontar los retos</li>
+                    <li>Líderes efectivos en el entorno actual y futuro
+                  </ul>
 
-      <div class="col-sm-4">
-        <div class="btn-group-vertical"><br>
-          <button type="button" class="btn btn-default"><a href="https://formden.com/blog/addon-icon" style="color: black"><i class='far fa-envelope' style='font-size:32px;color:black'></i> Correo</a></button><br>
-            <button type="button" class="btn btn-default"><a href="https://formden.com/blog/addon-icon" style="color: black"><i class='fas fa-phone' style='font-size:32px;color:black'></i> Teléfono</a></button>
-                <div class="sub-cuerpo2">
-                    <br><br><a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                  <p style="color: black">Nuestro enfoque de solución<br>Traducimos la estrategia de negocio en retos de talento, para definir en conjunto con nuestros clientes las inversiones correctas y más redituables en programas de talento.<br><br>Nuestro enfoque se basa en tres capacidades clave:<br>
+                    <ul>
+                      <li>Entendimiento de las influencias externas, la problemática por industria y las expectativas de los empleados.</li>
+                      <li>Lecciones aprendidas en nuestra gestión de talento interna, experiencia con clientes y analíticos, para construir soluciones de valor.</li>
+                      <li>Trabajo en conjunto y construcción de capacidades para habilitar a nuestros clientes a conducir los programas, monitorearlos y lograr los beneficios proyectados.</li>
+                    </ul>
+
+        </div><br><br>
+
+
+    
+        <br><br>
+          <div class="card-deck">
+            <div class="card text-white bg-dark">
+              <img src="conphoto/97.jpg" height="50" alt="">
+              <div class="card-body text-center">
+                <p class="card-text">Some text inside the first card</p>
+              </div>
+            </div>
+              <div class="card text-white bg-dark" id="2">
+                <hr style="color: #0056b2;">
+                <div class="card-body">
+                  <p style="color: white"><b>Servicios</b></p>
+                  <h3 style="color: White">Cursos y Diplomados en IFRS</h3>
+                  <p class="card-text">Some text inside the second card</p>
                 </div>
-        </div>
+
+              </div>
+                <div class="card text-white bg-dark">
+                  <img src="imgenes/financiero.jpg" alt="" height="50">
+                    <div class="card-body">
+                      <p style="color: white"><b>Servicios</b></p>
+                      <h3 style="color: White">Cursos y Diplomados en IFRS</h3>
+                      <p class="card-text">Some text inside the second card</p>
+                    </div>
+                </div>
+          </div>
+          <br><br>
+          <div class="card-deck">
+            <div class="card text-white bg-dark">
+              <img src="conphoto/97.jpg" height="50" alt="">
+              <div class="card-body text-center">
+                <p class="card-text">Some text inside the first card</p>
+              </div>
+            </div>
+        
+                <div class="card text-white bg-dark">
+                  <img src="imgenes/financiero.jpg" alt="" height="50">
+                    <div class="card-body">
+                      <p style="color: white"><b>Servicios</b></p>
+                      <h3 style="color: White">Cursos y Diplomados en IFRS</h3>
+                      <p class="card-text">Some text inside the second card</p>
+                    </div>
+                </div>
+          </div>
       </div>
-  </div>
-</div>
-<div class="jumbotron jumbotron-fluid">
- <div align="center">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/k1yAN19a79M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-</div>
+
+
+
+      <div class="col-sm-4">          
+                <div class="container">
+                  <div class="list-group"><br>
+                    <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Contacto</b><br>
+                      <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button></a><br> 
+                    <br>
+                    <a href="#" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a> 
+                    <br>
+                    <div class="container">
+                      <br>
+                      <div class="list-group">
+                        <div class="card-header" style="background: black"><p style="color: white; ">Servicios y Soluciones</p></div>
+                        <a href="gestion.talento.php" class="list-group-item list-group-item-action" style="color: black">Gestion de Talento<p style="color: gray">Traducimos la estrategia de negocio en retos de talento, para hacer las inversiones correctas y mas redituables en liderazgo, engagement, cultura, gestion del desempeño, renumeracion total y otro programas.</p></a>
+                          <a href="#" class="list-group-item list-group-item-action" style="color: black">Transformacion organizacional<p style="color: gray">Apoyamos a las organizacionales para lograr los objetivos estrategicos de la empresa a traves del conocimiento de la empresa, a traves del conocimiento profundo de industria, sector y soluciones precisas basadas en analiticos y mejores practicas.</p></a>
+                            <a href="#" class="list-group-item list-group-item-action" style="color: black">Gestion del cambio<p style="color: gray">Logramos que las organizaciones adopten los cambios derivados de su contante transformacion de mercados en materia de otros, a traves de metodologia agiles y estrategias de capacitacion, alineacion de liderazgo y comunicacion.</p></a>
+                            <a href="#" class="list-group-item list-group-item-action" style="color: black"> Transformacion de Recursos Humanos<p style="color:gray">Ayudamos a las empresas para que sus areas de RH tengan un impacto en la ejecucion del plan de negocios y los lideres de la organizaion cuenten con la infromacion para la toma de decisiones en materia de gente que impulse los obnjetivos de la empresa</p></a>
+                      </div>
+                      <br>
+                    </div> 
+                    
+                    <div class="card"><br>
+                      <div class="card-header" style="background-color: gray; color: white"><b>Temas Similares</b></div>
+                        <div class="card-body">
+                          <a href="enbreveifrs.php">En Breve IFRS</a><br>
+                          <a href="asesoriacontable.php">Asesoria Contable</a>
+                          <br><a href="auditoriadeestadosfinancieros.php">Auditoria de Estados Financieros</a>
+                          <br><a href="finanzascorporativas.php">Finanzas Corporativas</a>
+                          <br><a href="auditoriainterna.php">Auditoria interna</a>
+                        </div> 
+                    </div>
+                  </div>
+                </div>
+      </div>  </div> 
+   </div>
  
 
+  <?php include "footer.html"; ?>
 
 </body>
-
-<!--inicio footer-->
-<?php include 'footer.html'; ?>
-<!--fin del footer-->
-<br>
-
 </html>
-
