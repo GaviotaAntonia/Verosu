@@ -69,6 +69,8 @@
     <?php include "nav.html"; ?>
   <!--nav 2-->
     <?php include 'nav2.html'; ?>
+  <!--nav 2-->
+    <?php include 'navasesoria.html'; ?>
   <!---FIN DE NAV BAR-->
 
 	<div class="contenedor" align="center">
@@ -82,9 +84,6 @@
 
   <div class="container" style="margin-top: 30px">
     <div class="row">
-  <?php include 'navasesoria.html'; ?>
-    <div class="container" style="margin-top: 30px">
-    	<div class="row">
 			<div class="col-sm-8">
 				<div class="container mt-3">
 					<h2>
