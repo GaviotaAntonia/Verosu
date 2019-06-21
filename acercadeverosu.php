@@ -68,7 +68,6 @@
   </a>
 </div>
   <!---AQUI VA LA INFROMACION ACERCA DE VEROSU-->
-<hr size=200 style="background-color: black" >
 
 <div class="container" style="margin-top:30px">
   <div class="row">

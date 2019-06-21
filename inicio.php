@@ -15,12 +15,11 @@
 
 
 </head>
-
+<body>
 
 <!--NAV -->
   <?php include 'nav.html'; ?>
 <!--FINAL NAV-->
-<body>
 
 <img src="conphoto/90.jpg" class="img-fluid" alt="Responsive image" width="100%">
 
