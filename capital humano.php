@@ -72,6 +72,7 @@
       <div class="row">
         <div class="col-sm-8">
         <div class="container mt-4">
+
           <p style="color: black"><b>Servicios</b></p>
           <h2>Gestión de talento.<small style="color: #76746E"><BR>Liderando el nuevo mundo del trabajo.</small></h2>
                <p style="color: black">Traducimos la estrategia de negocio en retos de talento, para hacer las inversiones correctas y más redituables en liderazgo, engagement, cultura, gestión del desempeño, remuneración total y otros programas.</p>
@@ -80,7 +81,7 @@
                 <img src="logosocial/social_youtube_23.png" class="rounded-circle" alt="Cinque Terre"  style="width: 50px">
                 <br><br>
 
-    
+
         </div><br><br>
 
 
@@ -145,7 +146,9 @@
                       <br>
                       <div class="list-group">
                         <div class="card-header" style="background: black"><p style="color: white; ">Servicios y Soluciones</p></div>
+
                         <a href="gestion.talento.php" class="list-group-item list-group-item-action" style="color: black">Gestion de Talento<p style="color: gray">Traducimos la estrategia de negocio en retos de talento, para hacer las inversiones correctas y mas redituables en liderazgo, engagement, cultura, gestion del desempeño, renumeracion total y otro programas.</p></a>
+
                           <a href="#" class="list-group-item list-group-item-action" style="color: black">Transformacion organizacional<p style="color: gray">Apoyamos a las organizacionales para lograr los objetivos estrategicos de la empresa a traves del conocimiento de la empresa, a traves del conocimiento profundo de industria, sector y soluciones precisas basadas en analiticos y mejores practicas.</p></a>
                             <a href="#" class="list-group-item list-group-item-action" style="color: black">Gestion del cambio<p style="color: gray">Logramos que las organizaciones adopten los cambios derivados de su contante transformacion de mercados en materia de otros, a traves de metodologia agiles y estrategias de capacitacion, alineacion de liderazgo y comunicacion.</p></a>
                             <a href="#" class="list-group-item list-group-item-action" style="color: black"> Transformacion de Recursos Humanos<p style="color:gray">Ayudamos a las empresas para que sus areas de RH tengan un impacto en la ejecucion del plan de negocios y los lideres de la organizaion cuenten con la infromacion para la toma de decisiones en materia de gente que impulse los obnjetivos de la empresa</p></a>
