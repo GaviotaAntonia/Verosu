@@ -109,10 +109,10 @@
           </div>
           <br><br>
           <div class="card-deck">
-            <div class="card text-white bg-dark">
+            <div class="card text-white" style="background: #000">
               <img src="conphoto/97.jpg" height="50">
               <div class="card-body text-center">
-                <p class="card-text">Some text inside the first card</p>
+                <p style="color: #fff">Some text inside the first card</p>
               </div>
             </div>
             <div class="card text-white" style="background: #000; border-top: solid 5px #00a3e0">
