@@ -98,9 +98,80 @@
             <div class="col-sm-7">
               <div class="card-body">
                 <p style="color: gray">
-                  <b>Noticias</b>
+                  <b>Post Verosu</b>
                 </p>
+                <h5 class="card-title">De la planeación a la ejecución de megaproyectos</h5>
+                <p class="card-text" style="color: black">Un proyecto de desarollo de capital intensivo implica que el desarrollador está dispuesto a invertir una suma de dinero para...</p>
+                <a href="#" class="btn btn-light">Leer más</a>
               </div>
+            </div>
+          </div>
+        </div>
+        <br><br>
+        <div class="card-deck">
+          <div class="card text-white ">
+            <img src="conphoto/97.jpg" height="50">
+            <div class="card-body">
+              <p style="color: #97999b">
+                <b>Noticias</b>
+              </p>
+              <p style="color: black">Nuevo gobierno, nuevos retos en infraestructura</p>
+              <p style="color: #97999b">La administración entrante deberá alinear su cartera de proyectos de infraestructura con...</p>
+              <p style="color: black">
+                <b>Leer más</b>
+              </p>
+            </div>
+          </div>
+          <div class="card text-white" style="background: #000; border-top: solid 5px #ff9786">
+            <div class="card-body">
+              <p style="color: #97999b">
+                <b>Perspectivas</b>
+              </p>
+              <p style="color: white">Innovaciones en lo Bienes Rapices Comerciales</p>
+              <p style="color: #97999b">Preparándose para la ciudad del futuro</p>
+              <p style="color: white">
+                <b>Descubre más</b>
+              </p>
+            </div>
+          </div>
+          <div class="card text-white ">
+            <div class="card-body">
+              <p style="color: #97999b">
+                <b>Artículo</b>
+              </p>
+              <p style="color: black">Construyendo el éxito</p>
+              <p style="color: #97999b">México se convierte en el principal mercado de Grupo ALDESA</p>
+              <p style="color: black">
+                <b>Conoce los factores de este caso de éxito</b>
+              </p>
+            </div>
+          </div>
+        </div>
+        <br><br>
+        <div class="card-deck">
+          <div class="card text-white" style="background: #000">
+            <img src="conphoto/97.jpg" height="50">
+            <div class="card-body text-center">
+              <p style="color: #97999b">
+                <b>Artículo</b>
+              </p>
+              <p style="color: white">Proyectos de capital en la era digital</p>
+              <p style="color: #97999b">Este documento resalta las tecnologías que tredrán un...</p>
+              <p style="color: white">
+                <b>Ventajas tecnologícas</b>
+              </p>
+            </div>
+          </div>
+          <div class="card text-white" style="background: #000; border-top: solid 5px #00a3e0">
+            <div class="card-body">
+              <p style="color: #97999b">
+                <b>Análisis</b>
+              </p>
+              <p style="color: white">Ciudades inteligentes en México</p>
+              <p style="color: #97999b">¿Qué son las llamadas "ciudades inteligentes?¿Cuál es su propósito?¿Como se están desarrollando en México? Estas y otras interrogantes...</p>
+              <p style="color: white">
+                <b>Leer más</b>
+              </p>
             </div>
           </div>
         </div>
