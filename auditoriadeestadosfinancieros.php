@@ -37,16 +37,16 @@
         <div class="col-sm-2" style="background-color:white;">
         <div class="container"><br><br>
             <div class="card" style="border-top: solid 4px #51A35A;">
-              <div class="card-body"><small>Analisis<br></small><br><p style="font-size:5"><b>Alerta para consejeros 2019</b></p>
-            <p>Los Consejos de Administración se encuentran en una posición única para supervisar la visión de largo plazo de una organización. Sin embargo, muchos Consejos y equipos ejecutivos a menudo se ven tentados a enfocarse en el corto plazo.</p>
+              <div class="card-body"><small>Analisis<br></small><br><p style="font-size:5;color: black "><b>Alerta para consejeros 2019</b></p>
+            <p style="color: black">Los Consejos de Administración se encuentran en una posición única para supervisar la visión de largo plazo de una organización. Sin embargo, muchos Consejos y equipos ejecutivos a menudo se ven tentados a enfocarse en el corto plazo.</p>
               </div>
             </div>
 
 
             <br>
               <div class="card" style="border-top: solid 4px #51A35A;">
-              <div class="card-body"><small>Analisis<br></small><br><p style="font-size:5"><b>Alerta para consejeros 2019</b></p>
-            <p>Los Consejos de Administración se encuentran en una posición única para supervisar la visión de largo plazo de una organización. Sin embargo, muchos Consejos y equipos ejecutivos a menudo se ven tentados a enfocarse en el corto plazo.</p>
+              <div class="card-body"><small>Analisis<br></small><br><p style="font-size:5; color: black"><b>Alerta para consejeros 2019</b></p>
+            <p style="color: black">Los Consejos de Administración se encuentran en una posición única para supervisar la visión de largo plazo de una organización. Sin embargo, muchos Consejos y equipos ejecutivos a menudo se ven tentados a enfocarse en el corto plazo.</p>
               </div>
             </div>
 
