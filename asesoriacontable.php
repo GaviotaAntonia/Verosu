@@ -186,12 +186,6 @@
       </div>
     </div>
   </div>
-
-                
-
-      
-
-
 </body>
 
 <!--inicio footer-->
