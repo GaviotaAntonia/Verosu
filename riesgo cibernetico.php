@@ -67,7 +67,7 @@
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
         		<b>Riesgo Cibernético</b>
-        	<p style="text-align: right; color: black;">Ayudamos a los clientes a elaborar a implementar estrategias y programas empresariales para administar los riesgos tecnológicos y de informaciónM preparse y responde a incidentes; dectectar proactivamente amenazas y; encontarar el balance adecuado entre la administración y la contención de costos</p>
+        	<p style="text-align: right; color: black;">Ayudamos a los clientes a elaborar a implementar estrategias y programas empresariales para administrar los riesgos tecnológicos y de información preparse y responde a incidentes; detectar proactivamente amenazas y; encontrar el balance adecuado entre la administración y la contención de costos</p>
         </div>
     </div>
 

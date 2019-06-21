@@ -34,7 +34,7 @@
 
     <div class="contenedor" align="center">
         <img class="img-fluid" src="conphoto/85.jpg" width="1800px" style="opacity: 0.4">
-        <div class="centrado"><p style="font-size: 60px; color: black;"><b>IFRS en México </b><p style="text-align: right; color: black;">El equipo de profesionales de Deloitte en IFRS lo ayudará a encontrar la adecuada adopción de las IFRS para su empresa y el cumplimiento de las normativas IFRS en México.</p>
+        <div class="centrado"><p style="font-size: 60px; color: black;"><b>IFRS en México </b><p style="text-align: right; color: black;">El equipo de profesionales de Verosu en IFRS lo ayudará a encontrar la adecuada adopción de las IFRS para su empresa y el cumplimiento de las normativas IFRS en México.</p>
         </div>
     </div>
 

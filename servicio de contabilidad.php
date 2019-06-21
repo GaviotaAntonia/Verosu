@@ -36,14 +36,14 @@
 						<img src="conphoto/93.jpg" class="img-fluid" alt="Responsive image" width="100%">
 						<div class="card-body text-center">
 							<b><p class="card-text" style="text-align: center;color: black">Auditoría y Assurance</p></b>
-							<p class="card-text" style="color: black">Proveemos servicios de Auditoría u Assurance orientados a validar información financiera para uso de la alta dirección consejos de administracion, inversionistas, instituciones de crédito, entre dos.</p>
+							<p class="card-text" style="color: black">Proveemos servicios de Auditoría u Assurance orientados a validar información financiera para uso de la alta dirección consejos de administración, inversionistas, instituciones de crédito, entre dos.</p>
 						</div>
 					</div>
 					<div class="card bg-light">
 						<img src="conphoto/99.jpg" class="img-fluid" alt="Responsive image" width="100%">
 						<div class="card-body text-center">
 							<b><p class="card-text" style="text-align: center;color: black">Consultoría</p></b>
-							<p class="card-text" style="color: black">Sin importar qué tan complejos sean sus preguntas de negocios, en Verosu tenemos la capacidad y experiencia para brindarle las respuestas que necesita para avanzar. Como la consultara de negocios más grandes del munod, podemos ayudarle a tomar acciones decisivas para lograr resultados sustentables.</p>
+							<p class="card-text" style="color: black">Sin importar qué tan complejos sean sus preguntas de negocios, en Verosu tenemos la capacidad y experiencia para brindarle las respuestas que necesita para avanzar. Como la consultara de negocios más grandes del mundo, podemos ayudarle a tomar acciones decisivas para lograr resultados sustentables.</p>
 						</div>
 					</div>
 				</div>
@@ -52,7 +52,7 @@
 					<img src="conphoto/101.jpg" class="img-fluid" alt="Responsive image" width="100%">
 					<div class="card-body text-center">
 						<b><p class="card-text" style="text-align: center;color: black">Asesoría en Riesgo</p></b>
-						<p class="card-text" style="color: black">El equipo de Asesoría en Riesgo está enfocado en ayudar a las empresas a identificar y administrar los riegos en todos los niveles de su organización, buscando que la gestión inteligentes de sus riesgos contribuyan al logro de sus objetivos</p>
+						<p class="card-text" style="color: black">El equipo de Asesoría en Riesgo está enfocado en ayudar a las empresas a identificar y administrar los riegos en todos los niveles de su organización, buscando que las gestiones inteligentes de sus riesgos contribuyan al logro de sus objetivos</p>
 					</div>
 				</div>
 				<br>
@@ -76,14 +76,14 @@
 						<img src="conphoto/1.jpeg" class="img-fluid" alt="Responsive image" width="100%">
 						<div class="card-body text-center">
 							<b><p class="card-text" style="text-align: center;color: black">Legal</p></b>
-							<p class="card-text" style="color: black">Las organizaciones multinacionales requieren asesores jurídicios que las asistan en las actividades del día a día. Brindamos orientación respecto a als decisiones estratégicas del negocio, ofreciendo un soporte rentable para las actividades legales de rutina.</p>
+							<p class="card-text" style="color: black">Las organizaciones multinacionales requieren asesores jurídicos que las asistan en las actividades del día a día. Brindamos orientación respecto a las decisiones estratégicas del negocio, ofreciendo un soporte rentable para las actividades legales de rutina.</p>
 						</div>
 					</div>
 					<div class="card bg-light">
 						<img src="conphoto/104.jpg" class="img-fluid" alt="Responsive image" width="100%">
 						<div class="card-body text-center">
 							<b><p class="card-text" style="text-align: center;color: black">Infraestructura y Proyectos de Capital</p></b>
-							<p class="card-text" style="color: black">Apoyamos en la definición de estrategias y planeación para el desarrollo de proyectos de infraestructura, y su estrucuración financiera. Ayudamos en la ejecución de proyectos de capital a través de oficinas de gestión, gerenciamiento y supervisión, para obtener el retorno de inversión esperado.</p>
+							<p class="card-text" style="color: black">Apoyamos en la definición de estrategias y planeación para el desarrollo de proyectos de infraestructura, y su estructuración financiera. Ayudamos en la ejecución de proyectos de capital a través de oficinas de gestión, gerenciamiento y supervisión, para obtener el retorno de inversión esperado.</p>
 						</div>
 					</div>
 				</div>

@@ -68,7 +68,7 @@
         	<p style="font-size: 60px; color: black;">
         		<b>Value Creation & Restructuring</b>
         	</p>
-        	<p style="text-align: right; color: black;">Los servicios de Value Creation están centrados en identificar, planificar e implementar mejoras en las operaciones de nuestros clientes, con el objetivo de incrementar los márgenes operativosy optimizar las posición de caja.</p>
+        	<p style="text-align: right; color: black;">Los servicios de Value Creation están centrados en identificar, planificar e implementar mejoras en las operaciones de nuestros clientes, con el objetivo de incrementar los márgenes operativos y optimizar las posiciones de caja.</p>
         </div>
     </div>
 

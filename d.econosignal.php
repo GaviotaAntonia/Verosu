@@ -47,21 +47,21 @@
           <img src="conphoto/120.jpg" alt="Los Angeles" width="1100" height="500">
           <div class="carousel-caption">
             <h3 style="color: white;">Proyectos de inversión</h3>
-            <p style="color: white;">El Fonatur, institución encargada de la construcción del Tren Maya en la región sur de México, informó que en Octubre se realizarán las licitaciones para la construcción de tres de los siete tramos ferroviarios que comprenderá este mega obra, con la que se buscará potenciar el crecimineto en la región.</p>
+            <p style="color: white;">El Fonatur, institución encargada de la construcción del Tren Maya en la región sur de México, informó que en Octubre se realizarán las licitaciones para la construcción de tres de los siete tramos ferroviarios que comprenderá este mega obra, con la que se buscará potenciar el crecimiento en la región.</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="conphoto/123.jpg" alt="Chicago" width="1100" height="500">
           <div class="carousel-caption">
             <h3 style="color: white;">Para suscriptores</h3>
-            <p style="color: white;">Ya está disponible la última versión de nuestro Diagnóstico macroeconónmico, en el que describimos como la debilidad económica del 1T19 nubla las perspectivas para el resto del año.</p>
+            <p style="color: white;">Ya está disponible la última versión de nuestro Diagnóstico macroeconómico, en el que describimos como la debilidad económica del 1T19 nubla las perspectivas para el resto del año.</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="conphoto/125.jpg" alt="New York" width="1100" height="500">
           <div class="carousel-caption">
             <h3 style="color: white;">Riesgo Cambiario</h3>
-            <p style="color: white;">El acuerdo alcanzado entre el gobierno mexicano y el gobierno estadounidense para aplazar indefinidamente los arraceles anunciados por el presidente Trump sobre las importaciones mexicanas permitió la recuperación de activos mexicanos, así como del tipo de cambio formando un nuevo canal.</p>
+            <p style="color: white;">El acuerdo alcanzado entre el gobierno mexicano y el gobierno estadounidense para aplazar indefinidamente los aranceles anunciados por el presidente Trump sobre las importaciones mexicanas permitió la recuperación de activos mexicanos, así como del tipo de cambio formando un nuevo canal.</p>
           </div>
         </div>
         <div class="carousel-item">
@@ -75,21 +75,21 @@
           <img src="conphoto/124.jpg" alt="México" width="1100" height="500">
           <div class="carousel-caption">
             <h3 style="color: white;">Actualidad Económica</h3>
-            <p style="color: white;">Conozca nuestra selección de temas relevantes para la economía en la actualidadm además de un monitoreo de las variables económicas que tienen un mayor impacto en las economía.</p>
+            <p style="color: white;">Conozca nuestra selección de temas relevantes para la economía en la actualidad además de un monitoreo de las variables económicas que tienen un mayor impacto en la economía.</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="conphoto/119.jpg" alt="México" width="1100" height="500">
           <div class="carousel-caption">
             <h3 style="color: white;">Relación México - EUA</h3>
-            <p style="color: white;">México aceptó hacecr una serie de modificaciones a sus leyes migratorias antes de que finalice el mes de agosto, como parte del acuerdo alcanzado con EUA para evitar la imposicion de nuevos aranceles a las importaciones mexicanas, esto con el objetivo de reducir el flujo de migrantes.</p>
+            <p style="color: white;">México aceptó hacer una serie de modificaciones a sus leyes migratorias antes de que finalice el mes de agosto, como parte del acuerdo alcanzado con EUA para evitar la imposición de nuevos aranceles a las importaciones mexicanas, esto con el objetivo de reducir el flujo de migrantes.</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="conphoto/126.jpg" alt="México" width="1100" height="500">
           <div class="carousel-caption">
             <h3 style="color: white;">Nuestra Opinión</h3>
-            <p style="color: white;">De click aquí para conocer nuestra opinión ante las crecientes tensiones comerciales que han surgido entre Estados Unidos y China, además de los efectos que este conflicto podría representar para la economía mexicana</p>
+            <p style="color: white;">De clic aquí para conocer nuestra opinión ante las crecientes tensiones comerciales que han surgido entre Estados Unidos y China, además de los efectos que este conflicto podría representar para la economía mexicana</p>
           </div>
         </div>
       </div>

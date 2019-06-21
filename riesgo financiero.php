@@ -67,7 +67,7 @@
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
         		<b>Riesgo Financiero</b>
-        	<p style="text-align: right; color: black;">Ayudamos a las organizaiones a administrar sus áreas de riesgo financiero mediante la asistencia en el diseño y la implementación de gobierno, procesos, modelos, datos, tecnología y rendimiento de informes, incluyendo soporte durante todo el ciclo de vid de las operaciones</p>
+        	<p style="text-align: right; color: black;">Ayudamos a las organizaciones a administrar sus áreas de riesgo financiero mediante la asistencia en el diseño y la implementación de gobierno, procesos, modelos, datos, tecnología y rendimiento de informes, incluyendo soporte durante todo el ciclo de vida de las operaciones</p>
         </div>
     </div>
 

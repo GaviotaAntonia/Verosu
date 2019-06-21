@@ -68,7 +68,7 @@
         	<p style="font-size: 60px; color: black;">
         		<b>Legal</b>
           </p>
-        	<p style="text-align: right; color: black;">Las organizaciones multinacionales requieren asesores jurídicios que las asistan en las actividades del día a día. Brindamos orientación respecto a als decisiones estratégicas del negocio, ofreciendo un soporte rentable para las actividades legales de rutina.</p>
+        	<p style="text-align: right; color: black;">Las organizaciones multinacionales requieren asesores jurídicos que las asistan en las actividades del día a día. Brindamos orientación respecto a las decisiones estratégicas del negocio, ofreciendo un soporte rentable para las actividades legales de rutina.</p>
         </div>
     </div>
 
