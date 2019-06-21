@@ -67,7 +67,7 @@
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
         		<b>Tecnología</b>
-        	<p style="text-align: right; color: black;">Ayudamos a nuestros clientes a alcanzar sus objetivos, por ello en nuestros poryectos buscamos desarrollar, aplicar y proponer, los mejores modelos de negocio que les faciliten crecer de manera eficiente y rentable, apoyándonos para ello en las mejores tecnologías disponible</p>
+        	<p style="text-align: right; color: black;">Ayudamos a nuestros clientes a alcanzar sus objetivos, por ello en nuestros proyectos buscamos desarrollar, aplicar y proponer, los mejores modelos de negocio que les faciliten crecer de manera eficiente y rentable, apoyándonos para ello en las mejores tecnologías disponible</p>
         </div>
     </div>
 

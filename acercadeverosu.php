@@ -87,7 +87,7 @@
       <div class="col-sm-4">
         <div class="btn-group-vertical"><br>
           <button type="button" class="btn btn-default"><a href="https://formden.com/blog/addon-icon" style="color: black"><i class='far fa-envelope' style='font-size:32px;color:black'></i> Correo</a></button><br>
-            <button type="button" class="btn btn-default"><a href="https://formden.com/blog/addon-icon" style="color: black"><i class='fas fa-phone' style='font-size:32px;color:black'></i> Telefono</a></button>
+            <button type="button" class="btn btn-default"><a href="https://formden.com/blog/addon-icon" style="color: black"><i class='fas fa-phone' style='font-size:32px;color:black'></i> Teléfono</a></button>
                 <div class="sub-cuerpo2">
                     <br><br><a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>

@@ -63,7 +63,7 @@
 
 
 	<div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/116.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/84.jpeg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
         		<b>Flases Fiscales</b>
