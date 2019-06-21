@@ -103,9 +103,16 @@
       </a>
   </div>
 
+
+  <?php include 'navasesoria.html'; ?>
+    <div class="container" style="margin-top: 30px">
+    	<div class="row">
+			<div class="col-sm-8">
+
   <div class="container" style="margin-top: 30px;">
     <div class="row">
 			<div class="col-sm-10">
+
 				<div class="container mt-3">
 					<h2>
 						Verosu S. de R.L M.I

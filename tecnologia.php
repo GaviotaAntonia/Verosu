@@ -70,7 +70,8 @@
         	<p style="text-align: right; color: black;">Ayudamos a nuestros clientes a alcanzar sus objetivos, por ello en nuestros proyectos buscamos desarrollar, aplicar y proponer, los mejores modelos de negocio que les faciliten crecer de manera eficiente y rentable, apoyándonos para ello en las mejores tecnologías disponible</p>
         </div>
     </div>
-
+  
+          <?php include 'navbartech.html'; ?>
     <div class="container" style="margin-top: 30px">
     	<div class="row">
 			<div class="col-sm-8">

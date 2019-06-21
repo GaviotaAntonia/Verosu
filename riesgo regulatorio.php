@@ -71,7 +71,7 @@
         	<p style="text-align: right; color: black;">Ayudamos a las organizaciones a administrar el ciclo de vida completo del riesgo regulatorio: elaboración de estrategias; diseño, evaluación y transformación del proceso, los controles y la infraestructura; y repuestas a desajustes específicos en sus programas de cumplimento regulatorio</p>
         </div>
     </div>
-
+  <?php include 'navriesgo.html'; ?>
     <div class="container" style="margin-top: 30px">
     	<div class="row">
 			<div class="col-sm-8">
