@@ -10,77 +10,67 @@
   	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
   	<link rel="shortcut icon" type="image/png" href="conphoto/ab.png"> 
+    <link rel="stylesheet" href="css/masestilos.css">
+    <link rel="stylesheet" href="css/estilos.css">
+    <!--LETRA QUE SE UTLIZA-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <style>
+      /* Make the image fully responsive */
+      .carousel-inner img {
+        width: 100%;
+        height: 100%;
+      }
+      #barra{
+        color: black;
+      }
+      .btn-group-vertical>.btn, .btn-group-vertical>.btn-group {
+        width: 188px;
+        }
+        .contenedor{
+          position: relative;
+          display: inline-block;
+          text-align: center;
+          width: 100%
+        }
+        .texto-encima{
+          position: absolute;
+          top: 10px;
+          left: 10px;
+          color: white;
+          }
+          .centrado{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: White;
+          }
+    </style>
 
-	<link rel="stylesheet" href="css/masestilos.css">
-	<link rel="stylesheet" href="css/estilos.css">
-  <!--LETRA QUE SE UTLIZA-->
-	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-  <style>
-  /* Make the image fully responsive */
-  .carousel-inner img {
-    width: 100%;
-    height: 100%;
-  }
-  #barra{
-    color: black;
-  }
- .btn-group-vertical>.btn, .btn-group-vertical>.btn-group {
-    width: 188px;
-}
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-    width: 100%
-}
- 
-.texto-encima{
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    color: white;
-}
-.centrado{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  </head>
+  <body>
+    <!--NAV1-->
+    <?php include "nav.html"; ?>
+    <!--nav 2-->
+    <?php include 'nav2.html'; ?>
+    <!---FIN DE NAV BAR-->
 
-    color: White;
-}
-  </style>
-
-</head>
-<body>
-  <!--NAV1-->
-  <?php include "nav.html"; ?>
-  <!--nav 2-->
-  <?php include 'nav2.html'; ?>
-<!---FIN DE NAV BAR-->
-
-
-
-	<div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/127.jpg" width="1800px" style="opacity: 0.4">
-        <div class="centrado">
-        	<p style="font-size: 60px; color: black;">
-        		<b>Estrategia y Operaciones</b>
-        	<p style="text-align: right; color: black;">Ayudamos a resolver los desafíos más difíciles y complejo que tienen los líderes de una organización, al brindarle una estrategia ejecutable que integre un profundo análisis, visión y conocimiento de  industria que genere valor duradero</p>
-        </div>
+    <div class="contenedor" align="center">
+      <img class="img-fluid" src="conphoto/127.jpg" width="1800px" style="opacity: 0.4">
+      <div class="centrado">
+        <p style="font-size: 60px; color: black;">
+          <b>Estrategia y Operaciones</b>
+          <p style="text-align: right; color: black;">Ayudamos a resolver los desafíos más difíciles y complejo que tienen los líderes de una organización, al brindarle una estrategia ejecutable que integre un profundo análisis, visión y conocimiento de  industria que genere valor duradero</p>
+      </div>
     </div>
-
     <div class="container" style="margin-top: 30px">
-    	<div class="row">
-			<div class="col-sm-8">
-				<div class="container mt-3">
-					<h2>
-						Verosu S. de R.L M.I
-						<small style="color: #76746E">
-							<br>
-							Servicios Integrales Comunicaciones y Tecnologia.
-						</small>
-					</h2>
+      <div class="row">
+        <div class="col-sm-8">
+          <div class="container mt-3">
+            <h2>Verosu S. de R.L M.I
+              <small style="color: #76746E"><br>Servicios Integrales Comunicaciones y Tecnologia.</small>
+            </h2>
 					<br><br>
 					<i class="fab fa-facebook-square" style="font-size: 48px; color: black"></i>
 					<i class="fab fa-twitter-square" style="font-size: 48px; color: black"></i>

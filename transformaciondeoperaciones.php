@@ -65,7 +65,7 @@
         <img class="img-fluid" src="conphoto/50.png" height="100%" style="opacity: 0.4">
         <div class="centrado">
           <p style="font-size: 60px; color: black;">
-            <b>Estrategia y Operaciones</b>
+            <b>Transformación de Operaciones</b>
           <p style="text-align: right; color: black;">Ayudamos a resolver los desafíos más difíciles y complejo que tienen los líderes de una organización, al brindarle una estrategia ejecutable que integre un profundo análisis, visión y conocimiento de  industria que genere valor duradero</p>
         </div>
     </div>
