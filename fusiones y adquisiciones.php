@@ -180,46 +180,27 @@
         </div>
 			</div>
 			<div class="col-sm-4">
+          <div class="list-group"><br>
+            <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Contacto</b><br>
+              <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button></a><br><br>
+                <a href="#" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br><br>
+          </div>
 				<div class="sub-cuerpo2">
 					<br><br>
 					<a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> 
           <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 				</div>
         <br>
-        <div class="container">
-          <div class="list-group">
-            <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #59C3CC; color: white">
-              <b>Contacto</b>
-              <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button>
-            </a>
-            <br>
-            <a href="#" class="list-group-item list-group-item-action" style="background-color: #59C3CC; color: white">
-              <b>Solicitud de cotización</b>
-              <button type="" class="btn btn-light btn-sm btn-block">Enviar formulario electronico</button>
-            </a>
-            <br>
-            <a href="" class="list-group-item list-group-item-action" style="background-color: #59C3CC; color: white">
-              <b>Servicios</b>
-            </a>
-            <br>
-            <div class="card">
-              <div class="card-header" style="background-color: #59C3CC; color: white">
-                <b>Temas Similares</b>
-              </div>
+         <div class="card"><br>
+            <div class="card-header" style="background-color: gray; color: white"><b>Temas Similares</b></div>
               <div class="card-body">
-                  <a href="#">1</a>
-                  <br>
-                  <a href="#">2</a>
-                  <br>
-                  <a href="#">3</a>
-                  <br>
-                  <a href="#">4</a>
-                  <br>
-                  <a href="#">5</a>
-              </div>
-            </div>
+                <a href="enbreveifrs.php">En Breve IFRS</a><br>
+                <a href="asesoriacontable.php">Asesoria Contable</a>
+                <br><a href="auditoriadeestadosfinancieros.php">Auditoria de Estados Financieros</a>
+                <br><a href="finanzascorporativas.php">Finanzas Corporativas</a>
+                <br><a href="auditoriainterna.php">Auditoria interna</a>
+              </div> 
           </div>
-        </div>
 			</div>    		
     </div>
   </div>
