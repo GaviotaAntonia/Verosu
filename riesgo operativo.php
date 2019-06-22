@@ -98,25 +98,6 @@
 					  <i class="fab fa-twitter-square" style="font-size: 48px; color: black"></i>
 					  <i class="fa fa-youtube-square" style="font-size: 48px; color: black"></i>
 				  </div>
-          <div class="bs-example">
-            <div class="card" style="max-width: 730px;">
-              <div class="row no-gutters">
-                <div class="col-md-8" style="background: #000">
-                  <div class="card-body">
-                    <b>
-                      <p style="color: gray">Servicios</p>
-                    </b>
-                    <h5 class="card-title" style="color: white">Riesgos Financieros</h5>
-                    <p class="card-text" style="color: white">Nuestros servicios de amplio alcance ayudan a las entidades en la identificacion, evaluacion, modelacion, comunicacion y limitacion de riesgos financieros</p>
-                    <a href="#" class="btn btn-light">Descargar infografia</a>
-                  </div>
-                </div>
-                <div class="col-md-4" style="background: #868e96;">
-                  <img src="conphoto/1.jpeg" class="card-img-top h-100" alt="...">
-                </div>
-              </div>
-            </div>
-          </div>
           <br><br>
           <div class="bs-example">
             <div class="card" style="max-width: 730px;">
@@ -124,10 +105,10 @@
                 <div class="col-md-8" style="background: #fff">
                   <div class="card-body">
                     <b>
-                      <p style="color: gray">Articulo</p>
+                      <p style="color: gray">Análisis</p>
                     </b>
-                    <h5 class="card-title" style="color: black">Cambios regulatorios en el sector asegurador y afianzador mexicano</h5>
-                    <p class="card-text" style="color: black">Vision estrategica de la nueva Ley de Instituciones de Seguros y de Fianzas</p>
+                    <h5 class="card-title" style="color: black">El imperativo de la innovación</h5>
+                    <p class="card-text" style="color: black">Encuestas global a directores de Auditoría interna</p>
                     <a href="#" class="btn btn-light">Leer más</a>
                   </div>
                 </div>
@@ -138,24 +119,110 @@
             </div>
           </div>
           <br><br>
-          <div class="bs-example">
-            <div class="card" style="max-width: 730px;">
-              <div class="row no-gutters">
-                <div class="col-md-8" style="background: #000">
-                  <div class="card-body">
-                    <b>
-                      <p style="color: gray">Perspectivas</p>
-                    </b>
-                    <h5 class="card-title" style="color: white">Desmitificando la cobertura de los ciberseguros</h5>
-                    <p class="card-text" style="color: white">A pesar de que cada vez son mas los recursos que las empresas destinan en materia de ciberseguridad para protegerse a si mismas, las inversiones que estas realizan para contratar ciberseguros siguen siendo muy escasas</p>
-                    <a href="#" class="btn btn-light">Leer más</a>
-                  </div>
-                </div>
-                <div class="col-md-4" style="background: #868e96;">
-                  <img src="conphoto/1.jpeg" class="card-img-top h-100" alt="...">
-                </div>
+          <div class="card-deck">
+            <div class="card text-white" style="border-top: solid 4px #009975">
+              <div class="card-body">
+                <p style="color: #97999b">
+                  <b>Perspectivas</b>
+                </p>
+                <p style="color: black">La raíz del problema llamado software pirata</p>
+                <p style="color: #97999b">Más de la mitad de las empresas en México trabaja con algún tipo de software pirata o </p>
+                <p style="color: black">
+                  <b>Leer más</b>
+                </p>
               </div>
             </div>
+            <div class="card text-white" style="border-top: solid 4px #009975">
+              <div class="card-body">
+                <p style="color: #97999b">
+                  <b>Articulo</b>
+                </p>
+                <p style="color: black">Ética Empresarial</p>
+                <p style="color: #97999b">Transmitiendo valores desde la alta dirección hacia todos los niveles de la organización</p>
+                <p style="color: black">
+                  <b>Leer más</b>
+                </p>
+              </div>
+            </div>
+            <div class="card text-white" style="border-top: solid 4px #009975">
+              <div class="card-body">
+                <p style="color: #97999b">
+                  <b>Articulo</b>
+                </p>
+                <p style="color: black">10 pasos para elaborar un código de ética</p>
+                <p style="color: #97999b">Tips Anónimos</p>
+                <p style="color: black">
+                  <b>Leer más</b>
+                </p>
+              </div>
+            </div>
+          </div>
+          <br><br>
+          <div class="card-deck">
+            <div class="card text-white " style="border-top: solid 4px #009975">
+              <div class="card-body">
+                <p style="color: #97999b">
+                  <b>Articulo</b>
+                </p>
+                <p style="color: black">Influencia de Auditoría Interna</p>
+                <p style="color: #97999b">Nueve maneras de fortalecerla dentro de la organización</p>
+                <p style="color: black">
+                  <b>Conoce más</b>
+                </p>
+              </div>
+            </div>
+            <div class="card text-white" style="border-top: solid 4px #009975">
+              <div class="card-body">
+                <p style="color: #97999b">
+                  <b>Articulo</b>
+                </p>
+                <p style="color: black">Política de integridad</p>
+                <p style="color: #97999b">El impacto de la nueva Ley General de Responsabilidad Administratias</p>
+                <p style="color: black">
+                  <b>Hacia la ética total en el sector privado</b>
+                </p>
+              </div>
+            </div>
+          </div>
+          <br><br>
+          <div class="card-deck">
+            <div class="card text-white " style="border-top: solid 4px #009975">
+              <div class="card-body">
+                <p style="color: #97999b">
+                  <b>Articulo</b>
+                </p>
+                <p style="color: black">Cambio Vertical</p>
+                <p style="color: #97999b">Cómo la Auditoría Interna puede ayudar a prevenir cirsis, concebir futuro y "hacer magia"</p>
+                <p style="color: black">
+                  <b>Leer más</b>
+                </p>
+              </div>
+            </div>
+            <div class="card text-white" style="border-top: solid 4px #009975">
+              <div class="card-body">
+                <p style="color: #97999b">
+                  <b>Articulo</b>
+                </p>
+                <p style="color: black">Administración de los Activos de Software (SAM)</p>
+                <p style="color: #97999b">Un aliado para reducir costos y maximizar la inversión en licenciamiento de software</p>
+                <p style="color: black">
+                  <b>Conoce más</b>
+                </p>
+              </div>
+            </div>
+            <div class="card text-white" style="border-top: solid 4px #009975">
+              <div class="card-body">
+                <p style="color: #97999b">
+                  <b>Perspectivas</b>
+                </p>
+                <p style="color: black">Perspectivas de Auditoría Interna</p>
+                <p style="color: #97999b">En cualquier organización existen numerosas áreas en las que objetividad, perspectiva y habilidades de Auditoría Interna pueden ayudar</p>
+                <p style="color: black">
+                  <b>Leer más</b>
+                </p>
+              </div>
+            </div>
+          </div>
 			  </div>
 			  <div class="col-sm-4">
 				  <div class="sub-cuerpo2">
