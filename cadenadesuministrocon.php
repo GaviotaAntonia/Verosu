@@ -144,7 +144,7 @@
                   </div>
                     <div id="collapsefive" class="collapse" data-parent="#accordion">
                       <div class="card-body">
-                        <a href="transformacionderecursos.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                        <a href="transformaciondeoperaciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
                       </div>
                     </div>
                 </div>
