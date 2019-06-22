@@ -63,7 +63,7 @@
 
 
 	<div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/112.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/espacios.png" style="opacity: 0.4">
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
         		<b>Fusiones y Adquisiciones</b>
