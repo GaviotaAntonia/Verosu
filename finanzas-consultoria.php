@@ -62,11 +62,11 @@
 
 
 	<div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/127.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/finanzas.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
-        		<b>Estrategia y Operaciones</b>
-        	<p style="text-align: right; color: black;">Ayudamos a resolver los desafíos más difíciles y complejo que tienen los líderes de una organización, al brindarle una estrategia ejecutable que integre un profundo análisis, visión y conocimiento de  industria que genere valor duradero</p>
+        		<b>Finanzas</b>
+        	<p style="text-align: right; color: black;">Trabajamos en conjunto con la organización con la finalidad de satisfacer las necesidades y retos de las funciones de Finanzas y de los CFO. Acompañamos a nuestros clientes desde la definición de la estrategia de la función hasta la mejora en sus procesos, tecnología, controles y modelo de entrega de servicios.</p>
         </div>
     </div>
 
