@@ -62,10 +62,10 @@
 
 
 	<div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/127.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/cajas.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
-        		<b>Estrategia y Operaciones</b>
+        		<b>Cadena de Suministro</b>
         	<p style="text-align: right; color: black;">Ayudamos a resolver los desafíos más difíciles y complejo que tienen los líderes de una organización, al brindarle una estrategia ejecutable que integre un profundo análisis, visión y conocimiento de  industria que genere valor duradero</p>
         </div>
     </div>
@@ -144,7 +144,7 @@
                   </div>
                     <div id="collapsefive" class="collapse" data-parent="#accordion">
                       <div class="card-body">
-                        <a href="transformaciondeoperaciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                        <a href="transformacionderecursos.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
                       </div>
                     </div>
                 </div>

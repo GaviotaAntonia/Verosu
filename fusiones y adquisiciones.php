@@ -74,11 +74,13 @@
   <!---FIN DE NAV BAR-->
 
 	<div class="contenedor" align="center">
+
     <img class="img-fluid" src="conphoto/112.jpg" width="1800px" style="opacity: 0.4">
     <div class="centrado">
       <p style="font-size: 60px; color: black;">
         <b>Fusiones y Adquisiciones</b>
       <p style="text-align: right; color: black;">Ayudamos a nuestros clientes en estructuración de transacciones de asociación estratégica, fusión, adquisición y venta de empresas; brindamos asesorías en todas las etapas del proceso</p>
+
     </div>
   </div>
 
