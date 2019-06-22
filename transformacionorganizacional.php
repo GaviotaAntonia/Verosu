@@ -128,17 +128,50 @@
                     <br>
                     <a href="#" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a> 
                     <br>
-                    <div class="container">
-                      <br>
-                      <div class="list-group">
-                        <div class="card-header" style="background: black"><p style="color: white; ">Servicios y Soluciones</p></div>
-                        <a href="gestion.talento.php" class="list-group-item list-group-item-action" style="color: black">Gestion de Talento<p style="color: gray">Traducimos la estrategia de negocio en retos de talento, para hacer las inversiones correctas y mas redituables en liderazgo, engagement, cultura, gestion del desempeño, renumeracion total y otro programas.</p></a>
-                          <a href="transformacionorganizacional.php" class="list-group-item list-group-item-action" style="color: black">Transformacion organizacional<p style="color: gray">Apoyamos a las organizacionales para lograr los objetivos estrategicos de la empresa a traves del conocimiento de la empresa, a traves del conocimiento profundo de industria, sector y soluciones precisas basadas en analiticos y mejores practicas.</p></a>
-                            <a href="gestionoferta.php" class="list-group-item list-group-item-action" style="color: black">Gestion del cambio<p style="color: gray">Logramos que las organizaciones adopten los cambios derivados de su contante transformacion de mercados en materia de otros, a traves de metodologia agiles y estrategias de capacitacion, alineacion de liderazgo y comunicacion.</p></a>
-                            <a href="transformacionderecursos.php" class="list-group-item list-group-item-action" style="color: black"> Transformacion de Recursos Humanos<p style="color:gray">Ayudamos a las empresas para que sus areas de RH tengan un impacto en la ejecucion del plan de negocios y los lideres de la organizaion cuenten con la infromacion para la toma de decisiones en materia de gente que impulse los obnjetivos de la empresa</p></a>
+                    
+                    <h3><br>SERVICIOS Y ANUNCIOS</h3>
+                      <div id="accordion">
+                        <div class="card">
+                          <div class="card-header" style="background-color: #77daca">
+                            <a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: black;">Gestion de talento</a>
+                          </div>
+                          <div id="collapseOne" class="collapse show" data-parent="#accordion">
+                            <div class="card-body">
+                              <a href="gestion.talento.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="card">
+                          <div class="card-header" style="background-color: #77daca">
+                            <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black">Transformacion Organizacional</a>
+                          </div>
+                          <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                              <a href="transformacionorganizacional.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="card">
+                          <div class="card-header" style="background-color: #77daca">
+                            <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">Gestion del cambio</a>
+                          </div>
+                          <div id="collapseThree" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                              <a href="gestionoferta.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="card">
+                          <div class="card-header" style="background-color: #77daca">
+                            <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">Transformacion de Recursos Humanos</a>
+                          </div>
+                          <div id="collapsefour" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                              <a href="transformacionderecursos.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                            </div>
+                          </div>
+                        </div><br>
                       </div>
-                      <br>
-                    </div> 
                     
                     <div class="card"><br>
                       <div class="card-header" style="background-color: gray; color: white"><b>Temas Similares</b></div>

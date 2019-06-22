@@ -62,11 +62,11 @@
 
 
 	<div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/127.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/estrategias.png"  style="opacity: 0.4">
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
-        		<b>Estrategia y Operaciones</b>
-        	<p style="text-align: right; color: black;">Ayudamos a resolver los desafíos más difíciles y complejo que tienen los líderes de una organización, al brindarle una estrategia ejecutable que integre un profundo análisis, visión y conocimiento de  industria que genere valor duradero</p>
+        		<b>Estrategia</b>
+        	<p style="text-align: right; color: black;">Ayudamos a nuestros clientes a resolver sus temas más complejos, estratégicos y transformacionales. Generamos una dirección estratégica clara para tener éxito en el relacionamiento con sus clientes, en su portafolio de productos y rentabilidad.</p>
         </div>
     </div>
 
