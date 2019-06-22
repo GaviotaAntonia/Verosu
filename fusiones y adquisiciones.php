@@ -185,20 +185,70 @@
               <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button></a><br><br>
                 <a href="#" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br><br>
           </div>
-				<div class="sub-cuerpo2">
-					<br><br>
-					<a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> 
-          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-				</div>
+		    <h3><br>SERVICIOS Y ANUNCIOS</h3>
+          <div id="accordion">
+            <div class="card">
+              <div class="card-header" style="background-color: #77daca">
+                <a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: black">Estrategia</a>
+              </div>
+              <div id="collapseOne" class="collapse show" data-parent="#accordion">
+                <div class="card-body">
+                  <a href="estrategia.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                </div>
+              </div>
+            </div>
+
+                <div class="card">
+                  <div class="card-header" style="background-color: #77daca">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black">Fusiones y adquisiciones</a>
+                  </div>
+                  <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                    <div class="card-body">
+                      <a href="fusiones y adquisiciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" style="background-color: #77daca">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">Finanzas</a>
+                  </div>
+                    <div id="collapseThree" class="collapse" data-parent="#accordion">
+                      <div class="card-body">
+                        <a href="finanzas-consultoria.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                      </div>
+                    </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" style="background-color: #77daca">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">Cadena de suministro</a>
+                  </div>
+                    <div id="collapsefour" class="collapse" data-parent="#accordion">
+                      <div class="card-body">
+                        <a href="cadenadesuministrocon.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                      </div>
+                    </div>
+                </div>
+                <div class="card">
+                  <div class="card-header" style="background-color: #77daca">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: black">Transformacion de operaciones</a>
+                  </div>
+                    <div id="collapsefive" class="collapse" data-parent="#accordion">
+                      <div class="card-body">
+                        <a href="transformaciondeoperaciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                      </div>
+                    </div>
+                </div>
+                <br>
+          </div>
         <br>
          <div class="card"><br>
             <div class="card-header" style="background-color: gray; color: white"><b>Temas Similares</b></div>
               <div class="card-body">
-                <a href="enbreveifrs.php">En Breve IFRS</a><br>
-                <a href="asesoriacontable.php">Asesoria Contable</a>
-                <br><a href="auditoriadeestadosfinancieros.php">Auditoria de Estados Financieros</a>
-                <br><a href="finanzascorporativas.php">Finanzas Corporativas</a>
-                <br><a href="auditoriainterna.php">Auditoria interna</a>
+                <a href="#"></a><br>
+                <a href="#"></a>
+                <br><a href="#"></a>
+                <br><a href="#"></a>
+                <br><a href="#"></a>
               </div> 
           </div>
 			</div>    		
