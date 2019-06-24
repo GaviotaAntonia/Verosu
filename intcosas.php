@@ -57,7 +57,7 @@
     <!---FIN DE NAV BAR-->
 
     <div class="contenedor" align="center">
-      <img class="img-fluid" src="conphoto/127.jpg" width="1800px" style="opacity: 0.4">
+      <img class="img-fluid" src="conphoto/hm.jpg" width="1800px" style="opacity: 0.4">
       <div class="centrado">
         <p style="font-size: 60px; color: black;">
           <b>Estrategia y Operaciones</b>

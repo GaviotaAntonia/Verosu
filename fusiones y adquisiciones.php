@@ -87,19 +87,25 @@
   <div class="container" style="margin-top: 30px">
     <div class="row">
 			<div class="col-sm-8">
-				<div class="container mt-3">
-					<h2>
-						Verosu S. de R.L M.I
-						<small style="color: #76746E">
-							<br>
-							Servicios Integrales Comunicaciones y Tecnologia.
-						</small>
-					</h2>
-					<br><br>
-					<i class="fab fa-facebook-square" style="font-size: 48px; color: black"></i>
-					<i class="fab fa-twitter-square" style="font-size: 48px; color: black"></i>
-					<i class="fa fa-youtube-square" style="font-size: 48px; color: black"></i>
-				</div>
+				<div class="bs-example">
+          <div class="card" style="max-width: 730px;">
+            <div class="row no-gutters">
+              <div class="col-md-8" style="background: #fff">
+                <div class="card-body">
+                  <b>
+                    <p style="color: gray">Perspectivas</p>
+                  </b>
+                  <h5 class="card-title" style="color: black">La importancia de contar con un ciberseguro</h5>
+                  <p class="card-text" style="color: black">Ademas de formar parte de una eficiente estrategia de ciberseguridad, el seguro cibernetico permite a las empresas amortiguar el impacto...</p>
+                  <a href="#" class="btn btn-light">Leer más</a>
+                </div>
+              </div>
+              <div class="col-md-4" style="background: #868e96;">
+                <img src="conphoto/1.jpeg" class="card-img-top h-100" alt="...">
+              </div>
+            </div>
+          </div>
+        </div>
         <br><br>
         <div class="bs-example">
           <div class="card" style="max-width: 730px;">
