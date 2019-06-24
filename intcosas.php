@@ -60,10 +60,13 @@
       <img class="img-fluid" src="conphoto/hm.jpg" width="1800px" style="opacity: 0.4">
       <div class="centrado">
         <p style="font-size: 60px; color: black;">
-          <b>Estrategia y Operaciones</b>
-          <p style="text-align: right; color: black;">Ayudamos a resolver los desafíos más difíciles y complejo que tienen los líderes de una organización, al brindarle una estrategia ejecutable que integre un profundo análisis, visión y conocimiento de  industria que genere valor duradero</p>
+          <b>Internet de las Cosas</b>
+          <p style="text-align: right; color: black;">Quienes inviertan en adquirir habilidades de Internet de las cosas (IoT) pueden contribuir a transformar cualquier empresa de cualquier sector, desde la manufactura hasta la protección de especies en peligro. </p>
+
       </div>
     </div>
+
+          <?php include 'navbartech.html'; ?>
     <div class="container" style="margin-top: 30px">
       <div class="row">
         <div class="col-sm-8">
@@ -74,13 +77,13 @@
                   <div class="card-body"><b>
                     <p style="color: gray">Articulos</p>
                   </b>
-                  <h5 class="card-title" style="color: black">Industria 4.0</h5>
-                  <p class="card-text" style="color: black">La convergencia del mundo fisico y el digital</p>
+                  <h5 class="card-title" style="color: black">Ecosistemas de Internet</h5>
+                  <p class="card-text" style="color: black">es el término que se usa para describir las organizaciones y comunidades que ayudan a la labor y a la evolución de Internet.</p>
                   <a href="#" class="btn btn-light">Leer más</a>
                 </div>
               </div>
               <div class="col-md-4" style="background: #868e96;">
-                <img src="conphoto/industria4.jpg" class="card-img-top h-100" alt="...">
+                <img src="conphoto/eco.jpg" class="card-img-top h-100" alt="...">
               </div>
             </div>
           </div>
@@ -92,8 +95,8 @@
               <p style="color: #97999b">
                 <b> Noticias</b>
               </p>
-              <p style="color: black">MBA CASE COMPETION</p>
-              <p style="color: #97999b">Los bots han sido usados para llevar a cabo malas practicas, entre ellas, fraudes...</p>
+              <p style="color: black">Solucion Big Data</p>
+              <p style="color: #97999b">Big Data es un término común bajo el que se agrupan toda clase de técnicas de tratamiento de grandes volúmenes de datos</p>
               <p style="color: black">
                 <b>Leer más</b>
               </p>
@@ -181,27 +184,27 @@
 			<div class="col-sm-4">
         <div class="container">
           <div class="list-group"><br>
-            <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Contacto</b><br>
+            <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #8F9497; color: black;"><b>Contacto</b><br>
               <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button></a><br><br>
-                <a href="#" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br><br>
+                <a href="#" class="list-group-item list-group-item-action" style="background-color: #8F9497; color: black;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br><br>
           </div>
         </div>
         <h3><br>SERVICIOS Y ANUNCIOS</h3>
           <div id="accordion">
             <div class="card">
-              <div class="card-header" style="background-color: #77daca">
-                <a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: black">Estrategia</a>
+              <div class="card-header" style="background-color: #8F9497">
+                <a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: black">Tecnologia</a>
               </div>
               <div id="collapseOne" class="collapse show" data-parent="#accordion">
                 <div class="card-body">
-                  <a href="estrategia.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                  <a href="tecnologia.php" style="color: black">-----------------</a>
                 </div>
               </div>
             </div>
 
                 <div class="card">
-                  <div class="card-header" style="background-color: #77daca">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black">Fusiones y adquisiciones</a>
+                  <div class="card-header" style="background-color: #8F9497">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black;">VEROSU Digital</a>
                   </div>
                   <div id="collapseTwo" class="collapse" data-parent="#accordion">
                     <div class="card-body">
@@ -210,32 +213,32 @@
                   </div>
                 </div>
                 <div class="card">
-                  <div class="card-header" style="background-color: #77daca">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">Finanzas</a>
+                  <div class="card-header" style="background-color: #8F9497">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">ORACLE</a>
                   </div>
                     <div id="collapseThree" class="collapse" data-parent="#accordion">
                       <div class="card-body">
-                        <a href="finanzas-consultoria.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                        <a href="oracle.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
                       </div>
                     </div>
                 </div>
                 <div class="card">
-                  <div class="card-header" style="background-color: #77daca">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">Cadena de suministro</a>
+                  <div class="card-header" style="background-color: #8F9497">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">SAP</a>
                   </div>
                     <div id="collapsefour" class="collapse" data-parent="#accordion">
                       <div class="card-body">
-                        <a href="cadenadesuministrocon.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                        <a href="sap.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
                       </div>
                     </div>
                 </div>
                 <div class="card">
-                  <div class="card-header" style="background-color: #77daca">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: black">Transformacion de operaciones</a>
+                  <div class="card-header" style="background-color: #8F9497">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: black">Integracion Tecnologica</a>
                   </div>
                     <div id="collapsefive" class="collapse" data-parent="#accordion">
                       <div class="card-body">
-                        <a href="transformaciondeoperaciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                        <a href="it.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
                       </div>
                     </div>
                 </div>
