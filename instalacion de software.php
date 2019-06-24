@@ -23,12 +23,12 @@
 		<?php include "nav3info.html" ?>	
 
 		<div class="contenedor" align="center">
-    		<img class="img-fluid" src="conphoto/info17.jpg" width="1800px" style="opacity: 0.4">
+    		<img class="img-fluid" src="conphoto/info25.jpg" width="1800px" style="opacity: 0.4">
     		<div class="centrado">
       			<p style="font-size: 60px; color: black;">
-      				<b>Elaboración de página web</b>
+      				<b>Instalaciones de camaras</b>
       			</p>
-      			<p style="text-align: right; color: black;">Más que un despacho contable contamos con creación de páginas web para nuestros clientes, buscando soluciones inteligentes que lleguen a funcionar a beneficio del cliente, ya no sufra más por culpa de otros proveedores, acerquece a nosotros le garantizamos cumplir las metas y objetivos que tenga su proyecto. </p>
+      			<p style="text-align: right; color: black;">En Verosu tenemos un equipo especialmente diseñado para instalaciones de camaras de video, estamos comprometidos a poner cualquier camara en el lugar que nos exiga no importar la altura que estemos.</p>
     		</div>
   		</div>
 

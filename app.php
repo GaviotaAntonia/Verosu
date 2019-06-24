@@ -23,12 +23,12 @@
 		<?php include "nav3info.html" ?>	
 
 		<div class="contenedor" align="center">
-    		<img class="img-fluid" src="conphoto/info17.jpg" width="1800px" style="opacity: 0.4">
+    		<img class="img-fluid" src="conphoto/info22.png" width="1800px" style="opacity: 0.4">
     		<div class="centrado">
       			<p style="font-size: 60px; color: black;">
-      				<b>Elaboración de página web</b>
+      				<b>Aplicaciones</b>
       			</p>
-      			<p style="text-align: right; color: black;">Más que un despacho contable contamos con creación de páginas web para nuestros clientes, buscando soluciones inteligentes que lleguen a funcionar a beneficio del cliente, ya no sufra más por culpa de otros proveedores, acerquece a nosotros le garantizamos cumplir las metas y objetivos que tenga su proyecto. </p>
+      			<p style="text-align: right; color: black;">Contamos con creación de aplicaciones para todos nuestros clientes, buscando una simplificación inteligiente que llegue a todos lados, buscando el beneficio para el cliente como al usuario, acerquece a nosotros le garantizamos cumplir las metas y objetivos que pueda tener.</p>
     		</div>
   		</div>
 
