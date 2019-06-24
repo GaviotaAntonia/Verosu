@@ -252,7 +252,8 @@
                 <br><a href="auditoriainterna.php">Auditoria interna</a>
               </div> 
           </div>
-			</div>    		
+      </div>      
+      </div>  		
   </div></div>
 	<?php include "footer.html"; ?>
 	
