@@ -67,16 +67,117 @@
     <div class="container" style="margin-top: 30px">
       <div class="row">
         <div class="col-sm-8">
-          <div class="container mt-3">
-            <h2>Verosu S. de R.L M.I
-              <small style="color: #76746E"><br>Servicios Integrales Comunicaciones y Tecnologia.</small>
-            </h2>
-					<br><br>
-					<i class="fab fa-facebook-square" style="font-size: 48px; color: black"></i>
-					<i class="fab fa-twitter-square" style="font-size: 48px; color: black"></i>
-					<i class="fa fa-youtube-square" style="font-size: 48px; color: black"></i>
-				</div>
-			</div>
+          <div class="bs-example">
+            <div class="card" style="max-width: 730px;">
+              <div class="row no-gutters">
+                <div class="col-md-8" style="background: #fff">
+                  <div class="card-body"><b>
+                    <p style="color: gray">Articulos</p>
+                  </b>
+                  <h5 class="card-title" style="color: black">Industria 4.0</h5>
+                  <p class="card-text" style="color: black">La convergencia del mundo fisico y el digital</p>
+                  <a href="#" class="btn btn-light">Leer más</a>
+                </div>
+              </div>
+              <div class="col-md-4" style="background: #868e96;">
+                <img src="conphoto/industria4.jpg" class="card-img-top h-100" alt="...">
+              </div>
+            </div>
+          </div>
+        </div>
+            <br><br>
+        <div class="card-deck">
+          <div class="card text-white " style="border-top: solid 4px #009975">
+            <div class="card-body">
+              <p style="color: #97999b">
+                <b> Noticias</b>
+              </p>
+              <p style="color: black">MBA CASE COMPETION</p>
+              <p style="color: #97999b">Los bots han sido usados para llevar a cabo malas practicas, entre ellas, fraudes...</p>
+              <p style="color: black">
+                <b>Leer más</b>
+              </p>
+            </div>
+          </div>
+          <div class="card text-white " style="border-top: solid 4px #009975">
+            <div class="card-body">
+              <p style="color: #97999b">
+                <b>Perspectivas</b>
+              </p>
+              <p style="color: black">La ciberseguridad necesita escalar a la alta direccion empresarial</p>
+              <p style="color: #97999b">¿Existe alguna solución?</p>
+              <p style="color: black">
+                <b>Leer más</b>
+              </p>
+            </div>
+          </div>
+          <div class="card text-white" style="border-top: solid 4px #009975">
+            <div class="card-body">
+              <p style="color: #97999b">
+                <b>Noticias</b>
+              </p>
+              <p style="color: black">CiberEspionaje</p>
+              <p style="color: #97999b">La mejor manera de proteger a las organizaciones es con...</p>
+              <p style="color: black">
+                <b>Leer más</b>
+              </p>
+            </div>
+          </div>
+        </div>
+        <br><br>
+        <div class="card-deck">
+          <div class="card text-white ">
+            <div class="card-body">
+              <p style="color: #97999b">
+                <b>Artículo</b>
+              </p>
+              <p style="color: black">Nuevos horizontes en la generacion de ciber inteligencia</p>
+              <p style="color: #97999b">Conociendo a nuestros atacantes antes de que nos conozcan</p>
+              <p style="color: black">
+                <b>Descubre más</b>
+              </p>
+            </div>
+          </div>
+          <div class="card text-white ">
+            <div class="card-body">
+              <p style="color: #97999b">
+                <b>Servicios</b>
+              </p>
+              <p style="color: black">Riesgo Regulatorio</p>
+              <p style="color: #97999b">Esan enfocados a asistir a nuestro clientes para que puedan cumplir con sus objetivos de negocio sin incurrir en riesgos de cumplimiento</p>
+              <p style="color: black">
+                <b>Leer más</b>
+              </p>
+            </div>
+          </div>
+        </div>
+        <br><br>
+        <div class="bs-example">
+          <div class="card" style="max-width: 730px;">
+            <div class="row no-gutters">
+              <div class="col-md-8" style="background: #000">
+                <div class="card-body">
+                  <b>
+                    <p style="color: gray">Verosu en los medios</p>
+                  </b>
+                  <h5 class="card-title" style="color: white">Ciberseguridad:</h5>
+                  <p class="card-text" style="color: white">Los temas de seguridad de la informacion y ciberseguridad continuan apareciendo con...</p>
+                  <a href="#" class="btn btn-light">Leer más</a>
+                </div>
+              </div>
+              <div class="col-md-4" style="background: black;">
+                <img src="conphoto/1.jpeg" class="card-img-top h-100" alt="...">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+ <br>
+		
+
+
+
+
 			<div class="col-sm-4">
         <div class="container">
           <div class="list-group"><br>
