@@ -57,18 +57,15 @@
   <?php include "nav.html"; ?>
   <!--nav 2-->
   <?php include 'nav2.html'; ?>
-<!---FIN DE NAV BAR-->
-
-
-
+  <!---FIN DE NAV BAR-->
   <div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/50.png" height="100%" style="opacity: 0.4">
-        <div class="centrado">
-          <p style="font-size: 60px; color: black;">
-            <b>Transformación de Operaciones</b>
-          <p style="text-align: right; color: black;">Ayudamos a resolver los desafíos más difíciles y complejo que tienen los líderes de una organización, al brindarle una estrategia ejecutable que integre un profundo análisis, visión y conocimiento de  industria que genere valor duradero</p>
-        </div>
+    <img class="img-fluid" src="conphoto/50.png" height="100%" style="opacity: 0.4">
+    <div class="centrado">
+      <p style="font-size: 60px; color: black;">
+        <b>Transformación de Operaciones</b>
+        <p style="text-align: right; color: black;">Ayudamos a resolver los desafíos más difíciles y complejo que tienen los líderes de una organización, al brindarle una estrategia ejecutable que integre un profundo análisis, visión y conocimiento de  industria que genere valor duradero</p>
     </div>
+  </div>
 
     <div class="container" style="margin-top: 30px">
       <div class="row">
@@ -76,8 +73,6 @@
         <div class="container mt-3">
           <h2>Verosu S. de R.L M.I<small style="color: #76746E"><br>Servicios Integrales Comunicaciones y Tecnologia.</small></h2>
           <br><br>
-          
-
         </div>
       </div>
       <div class="col-sm-4">
@@ -100,48 +95,46 @@
                 </div>
               </div>
             </div>
-
-                <div class="card">
-                  <div class="card-header" style="background-color: #77daca">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black">Fusiones y adquisiciones</a>
-                  </div>
-                  <div id="collapseTwo" class="collapse" data-parent="#accordion">
-                    <div class="card-body">
-                      <a href="fusiones y adquisiciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-                    </div>
-                  </div>
+            <div class="card">
+              <div class="card-header" style="background-color: #77daca">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black">Fusiones y adquisiciones</a>
+              </div>
+              <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <a href="fusiones y adquisiciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
                 </div>
-                <div class="card">
-                  <div class="card-header" style="background-color: #77daca">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">Finanzas</a>
-                  </div>
-                    <div id="collapseThree" class="collapse" data-parent="#accordion">
-                      <div class="card-body">
-                        <a href="finanzas-consultoria.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-                      </div>
-                    </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" style="background-color: #77daca">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">Finanzas</a>
+              </div>
+              <div id="collapseThree" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <a href="finanzas-consultoria.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
                 </div>
-                <div class="card">
-                  <div class="card-header" style="background-color: #77daca">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">Cadena de suministro</a>
-                  </div>
-                    <div id="collapsefour" class="collapse" data-parent="#accordion">
-                      <div class="card-body">
-                        <a href="cadenadesuministrocon.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-                      </div>
-                    </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" style="background-color: #77daca">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">Cadena de suministro</a>
+              </div>
+              <div id="collapsefour" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <a href="cadenadesuministrocon.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
                 </div>
-                <div class="card">
-                  <div class="card-header" style="background-color: #77daca">
-                    <a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: black">Transformacion de operaciones</a>
-                  </div>
-                    <div id="collapsefive" class="collapse" data-parent="#accordion">
-                      <div class="card-body">
-                        <a href="transformacionderecursos.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-                      </div>
-                    </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" style="background-color: #77daca">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: black">Transformacion de operaciones</a>
+              </div>
+              <div id="collapsefive" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <a href="transformacionderecursos.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
                 </div>
-                <br>
+              </div>
+            </div><br>
           </div>
 
           <div class="card"><br>
