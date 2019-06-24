@@ -52,15 +52,15 @@
                 <div class="col-md-4" style="background: #868e96">
                   <img src="conphoto/1.jpeg" class="card-img-top h-100" alt="...">
                 </div> 
-              </div>
-              <div class="col-md-7">
-                <div class="card-body">
-                  <p style="color: gray">
-                    <b>Noticias</b>
-                  </p>
-                  <h5 class="card-title">IFRS 9</h5>
-                  <p class="card-text" style="color: black">Retos y Oportunidades en su implementación</p>
-                  <a href="#" class="btn btn-light">Conozca más</a>
+                <div class="col-md-7">
+                  <div class="card-body">
+                    <p style="color: gray">
+                      <b>Noticias</b>
+                    </p>
+                    <h5 class="card-title">IFRS 9</h5>
+                    <p class="card-text" style="color: black">Retos y Oportunidades en su implementación</p>
+                    <a href="#" class="btn btn-light">Conozca más</a>
+                  </div>
                 </div>
               </div>
             </div>
@@ -107,12 +107,6 @@
           </div>
           <br><br>
           <div class="card-deck">
-            <div class="card text-white" style="background: #000">
-              <img src="conphoto/97.jpg" height="50">
-              <div class="card-body text-center">
-                <p style="color: #fff">Some text inside the first card</p>
-              </div>
-            </div>
             <div class="card text-white" style="background: #000; border-top: solid 5px #00a3e0">
               <div class="card-body">
                 <p style="color: #97999b">

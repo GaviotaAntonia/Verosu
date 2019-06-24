@@ -20,10 +20,13 @@
 </head>
 
 
+
+<body>
+
 <!--NAV -->
   <?php include 'nav.html'; ?>
 <!--FINAL NAV-->
-<body>
+
   <!--TARJETAS-->
    <div class="container" style="margin-top:30px">
     <div class="col">
@@ -87,7 +90,6 @@
         </div>
       <!--fin de apartado de donde va la direccion-->
 
-
           <!--Registro de contacto en acerda de-->
           <div class="col-sm-8">            
             <div class="media-body">
@@ -95,18 +97,43 @@
               <p style="color: black">El masivo corte de luz que afectó al país y a ciudades de Brasil y Uruguay fue registrado con extensas notas en los principales diarios y canales de noticias del mundo. La imposibilidad para brindar explicaciones sobre lo sucedido fue lo que más les llamó la atención. "El gobierno no sabe qué lo causó", destacó la CNN.<br>El apagón que cortó el suministro de energía a todo el país (salvo Tierra del Fuego) y parte de Uruguay y Brasil estuvo registrado con amplias coberturas en los principales diarios y canales de noticias del mundo. <a href="">Las respuestas del Gobierno ante la falla masiva </a>y su imposibilidad para dar certezas sobre lo sucedido, llamaron la atención de esos medios. “Hasta ahora no se ha identificado ninguna explicación para la falla generalizada del suministro eléctrico”, escribió esta mañana la cadena estadounidense CNN en una nota titulada “El blackout dejó a millones en Sudamérica sin energía. El gobierno todavía no sabe qué lo causó”.</p>
             </div>
             <div>
-              <form>
-                <label for="email" style="color: black;">Nombre(s):</label>
-                <input type="email" class="form" id="email" placeholder="Insertar correo" name="email">
-                <label for="password" style="color: black; padding-left: 10px;">Contraseñas:</label>
-                <input type="password" class="form" id="password" placeholder="Ingresa contraseña" name="password">
-                <div class="text-center" style="padding-top: 20px;">
-                  <label>
-                    <input class="form-check-input" type="checkbox" name=remember>Recordar
-                  </label>
-                </div>
-                <button type="submit" class="btn btn-primary btn-block" style="position: center">Enviar</button>
+              <form action="" method="post">
+                <label style="color: black;">Nombre(s):</label>
+                <br>
+                <input type="text" class="form" style="width: 100%" maxlength="25" id="name" placeholder="Introduzca su nombre" name="username" required/>
+                <br><br>
+                <label  style="color: black">Correo electronico</label>
+                <br>
+                <input type="email" class="form" style="width: 100%" maxlength="35" id="email" placeholder="Introduzca el correo electronico" name="email" required/>
+                <br><br>
+                <label  style="color: black">Mensaje</label>
+                <br>
+                <input type="text" class="form" style="width: 100%; height: 150px" maxlength="250" id="message" placeholder="Escriba su mensaje" name="message" required/>
+                <br><br>
+                <button type="submit" class="btn btn-primary btn-block" style="position: center" name="enviar">Enviar</button>
               </form>
+                        <?php 
+
+            if (isset($_POST['enviar'])) {
+                
+              require "class/db.php";
+
+              $username = $mysqli->real_escape_string($_POST['username']);
+              $email = $mysqli->real_escape_string($_POST['email']);
+              $message = $mysqli->real_escape_string($_POST['message']);
+
+              $query = "INSERT INTO contact (username,email,message) VALUES ('$username','$email','$message')";
+
+                if ($enviar = $mysqli->query($query))
+                {
+                    echo "<div class='alert alert-success' style='text-align:center; padding-top:20px;'><strong> Se han enviado el mensaje </strong></div>";
+                }else
+                {
+                  echo "Ha ocurrido un error al enviar el mensajem intentalo más tared";
+                }
+            }
+
+          ?>
             </div>
           </div>
 
