@@ -63,7 +63,7 @@
         <img class="img-fluid" src="conphoto/sapa.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
           <p style="font-size: 60px; color: black;">
-            <b>SAP</b>
+            <b>Integración Tecnológica</b>
           <p style="text-align: right; color: black;">La nueva dinámica de hacer negocio exige a las organizaciones no solo controlar sus operaciones con altos niveles de eficiencia, sino estar preparados para adaptarse y responder de manera ágil al reto que representa participar en mercados cada día más competitivos. Las soluciones tecnológicas de SAP™ son un excelente aliado para enfrentar éstos retos.</p>
         </div>
     </div>
@@ -74,34 +74,25 @@
         <div class="col-sm-8">
         <div class="container mt-4">
           <p style="color: black"><b>Servicios</b></p>
-          <h2>SAP<small style="color: #76746E"><BR></BR></small></h2>
-
+          <h2>Integracion Tecnologica<small style="color: #76746E"><BR>Transformando al negocio con tecnología</BR></small></h2>
+          <p style="color: black"><br>Proveemos servicios de consultoría de punta a punta, desde procesos de implantación, hasta mantenimiento de operaciones, estrategia y transformación tecnológica, enfocados a los temas sustantivos de alto impacto y de relevancia para nuestros clientes.</p>
                 <img src="logosocial/social_facebook_fb_35 .png" class="rounded-circle" alt="Cinque Terre" style="width: 40px">
                 <img src="logosocial/social_instagram_3.png" class="rounded-circle" alt="Cinque Terre"  style="width: 40px">
                 <img src="logosocial/social_youtube_23.png" class="rounded-circle" alt="Cinque Terre"  style="width: 40px">
                 <br><br>
-                <b>Retos</b><br><p style="color: black"><br>En más de 135 países, 12,000 especialistas de Deloitte cuentan con los conocimientos y la experiencia en las soluciones de SAP™ para ayudar a su organización a satisfacer no solo sus metas de rendimiento, sino a mejorar y transformar sus procesos de negocio para estar a la vanguardia en este nuevo entorno.
-                	<div align="center">
-                		<a href="https://www.erp-xamai.com/?gclid=Cj0KCQjw6cHoBRDdARIsADiTTzbHnbLu7fSqEi-5KSFwDt7R0Qxm1Xe0kYP09ZdK7fnPOE2SeedIinIaAtFHEALw_wcB"><img src="conphoto/sap-erp.png" alt="" width="600px"></a>
-                	</div>
-                	<p style="color: black">Reconocimientos y alianzas<br>
-                		<ul>
-                			<li>SAP® Pinnacle 2015 reconoce las extraordinarias contribuciones de Deloitte como socio SAP™. Estos premios son otorgados anualmente a los socios líderes que se han distinguido en el desarrollo y crecimiento en alianza con SAP™ y en ayudar a los clientes a ser mejores. Los ganadores y finalistas en 22 categorías se escogieron con base en las recomendaciones del campo SAP™: retroalimentación del cliente e indicadores de desempeño, en el siguiente paraguas de categorías: crecimiento exponencial, nube, plataforma y creación de valor.</li>
-                			<li>Deloitte líder global en servicios de implementación SAP™ con base en su habilidad para ejecutar y su integridad en la visión - Gartner, 2015.</li>
-                			<li>Deloitte nombrado visionario en servicios de administración de aplicaciones SAP™ a nivel mundial con base en sus capacidades - Gartner, 2014.</li>
-                		</ul></p>
+                
+                	<p style="color: black">Somos socios estratégicos de los principales fabricantes de Tecnologías de Información como: HP, IBM, ECM, SAS, Teradata, Informatica, TIBCO, entre otros.<br>El amplio conocimiento de industria y expertise local y global de nuestros profesionales, nos permite contar con una visión profunda en los temas de tecnología y su relación e impacto en el negocio, para proveer soluciones integrales de valor.<br><br>
 
-                	<p style="color: black">Servicios<br>
+
+
+                		<p style="color: black">Premios y Reconocimientos</p>
                 		<ul>
-                			<li>Soporte Comercial </li>
-                			<li>Transformación financiera</li>
-                			<li>Abastecimiento</li>
-                			<li>Operaciones de manufactura</li>
-                			<li>Gestión de almacenes y logística</li>
-                			<li>Administración de la cadena de suministro</li>
-                			<li>Inteligencia de negocios</li>
-                			<li>Tecnología</li>
+                			<li>2015.</li>
+                			<li>52</li>
                 		</ul>
+                	</p>
+
+              
         </div>
         <br><br><br><br>
  
