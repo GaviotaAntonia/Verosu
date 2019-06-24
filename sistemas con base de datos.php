@@ -23,12 +23,12 @@
 		<?php include "nav3info.html" ?>	
 
 		<div class="contenedor" align="center">
-    		<img class="img-fluid" src="conphoto/info25.jpg" width="1800px" style="opacity: 0.4">
+    		<img class="img-fluid" src="conphoto/info27.jpg" width="1800px" style="opacity: 0.4">
     		<div class="centrado">
       			<p style="font-size: 60px; color: black;">
-      				<b>Instalaciones de camaras</b>
+      				<b>Sistemas con base de datos</b>
       			</p>
-      			<p style="text-align: right; color: black;">En Verosu tenemos un equipo especialmente diseñado para instalaciones de camaras de video, estamos comprometidos a poner cualquier camara en el lugar que nos exiga no importar la altura que estemos.</p>
+      			<p style="text-align: right; color: black;">Estos sistemas proporcionaran nuevos metodos para la proteccion de los datos, para saber y controlar el acceso de los usuarios como sus datos y para recuperar información si el sistema se llegar a corromper.</p>
     		</div>
   		</div>
 
