@@ -14,8 +14,8 @@
   <link rel="stylesheet" href="css/masestilos.css">
   <link rel="stylesheet" href="css/estilos.css">
   <!--LETRA QUE SE UTLIZA-->
-<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
   
   <style>
   /* Make the image fully responsive */
@@ -62,7 +62,7 @@
 	<div class="contenedor" align="center">
 		<img class="img-fluid" src="conphoto/sapa.jpg" width="1800px" style="opacity: 0.4">        
 		<div class="centrado">
-			<p style="font-size: 60px; color: black;"><b>SAP</b>
+			<p style="font-size: 60px; color: black;"><b>SAP</b></p>
 				<p style="text-align: right; color: black;">La nueva dinámica de hacer negocio exige a las organizaciones no solo controlar sus operaciones con altos niveles de eficiencia, sino estar preparados para adaptarse y responder de manera ágil al reto que representa participar en mercados cada día más competitivos. Las soluciones tecnológicas de SAP™ son un excelente aliado para enfrentar éstos retos.</p>
         </div>
     </div>
@@ -88,7 +88,7 @@
     							<li>Deloitte líder global en servicios de implementación SAP™ con base en su habilidad para ejecutar y su integridad en la visión - Gartner, 2015.</li>
     							<li>Deloitte nombrado visionario en servicios de administración de aplicaciones SAP™ a nivel mundial con base en sus capacidades - Gartner, 2014.</li>
     						</ul>
-    						<p style="color: black">Servicios<br>
+    						<p style="color: black">Servicios<br></p>
     							<ul>
     								<li>Soporte Comercial </li>
     								<li>Transformación financiera</li>
@@ -174,7 +174,7 @@
     							</div>
     					</div> 
     				</div>
- 
+</div></div>
 
   <?php include "footer.html"; ?>
 
