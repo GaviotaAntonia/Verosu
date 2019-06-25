@@ -16,6 +16,7 @@
   	<link rel="shortcut icon" type="image/png" href="conphoto/ab.png"> 
   	<link rel="stylesheet" href="css/register.css">
   	
+	  <link rel="stylesheet" href="css/animate.css">
   	<!--LETRA QUE SE UTLIZA-->
 	
 	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
