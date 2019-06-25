@@ -83,9 +83,7 @@
     			<p class="animated flash delay-2s" style="text-align: right; color: black;">Es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso. En este sentido; una biblioteca puede considerarse una base de datos compuesta en su mayoría por documentos y textos impresos en papel e indexados para su consulta.</p>
         </div>
       </div>
-
       <div style="text-align: center;"><br>
-
       	<h1 class="animated tada" style="color: black">Diseño e implementacion de Bases de Datos</h1>
       	<div class="container"><br>
       		<!-- Nav pills -->
