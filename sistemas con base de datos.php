@@ -15,6 +15,8 @@
   		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
   		<link rel="shortcut icon" type="image/png" href="conphoto/ab.png"> 
   		<link rel="stylesheet" href="css/register.css">
+      
+    <link rel="stylesheet" href="css/animate.css">
 	</head>
 	<body>
 	
