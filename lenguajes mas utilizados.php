@@ -41,8 +41,8 @@
 						</h4>
 						<h2>Los 10 lenguajes más utilizados</h2>
 						<p>
-							<small style="color: #76746E">
-								¿Qué es HTML?¿Como llega a funcionar?¿Qué más se necesita?¿Es tan importante?
+							<small style="color: #76746E; font-size: 15px">
+								Los lenguajes más utilizados en programación durante este año ha sido de los más buscados estos 10 lenguajes al momento de la programación esta grafica esta hecha por <b> HackerRank´s </b> esta se basa en las busquedas hechas sobre los lenguajes como tutoriales.
 							</small>
 						</p>
 						<br>
@@ -52,7 +52,36 @@
 					</div>
 					<br>
 					<div class="container mt3" style="text-align: justify">
-						
+						<div class="card-deck">
+              				<img src="conphoto/info48.png">
+            				<div class="card text-white " style="border-top: solid 4px #009975">
+              					<div class="card-body" style="text-align: justify">
+                					<h4 style="color: black; padding-top: 30px">
+                					  <b>Lenguajes más buscados</b>
+                					</h4>
+                					<br>
+                					<p style="color: #393e46;">En la tabla de alado se obseran los lenguajes más buscados en el 2019 en una parte esta grafica fue hecha por el grupo de <b> HackerRank´s </b> como se podra obeservar en la parte de abajo esta las 10 posiciones de mayor a menor buscado</p>
+                					<br>
+                					<ol style="color: black">
+                						<li>Go</li>
+                						<li>Kotlin</li>
+                						<li>Python</li>
+                						<li>TypeScript</li>
+                						<li>R</li>
+                						<li>Scala</li>
+                						<li>Swift</li>
+                						<li>Rust</li>
+                						<li>Ruby</li>
+                						<li>Haskell</li>
+                					</ol>
+                					<p style="color: black;">Todo esto lo podras ver en su página oficial de <b> HackerRank´s </b> link al documento <a href="https://research.hackerrank.com/developer-skills/2019" target="_blank">Developer Skills Report</a></p>
+              					</div>
+            				</div>
+          				</div>
+          				<br>
+          				<div class="card-deck">
+          					<img src="conphoto/info50.jpg">
+          				</div>
 					</div>
 				</div>
 			</div>

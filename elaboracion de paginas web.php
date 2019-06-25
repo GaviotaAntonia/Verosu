@@ -79,7 +79,7 @@
                 <p style="color: #97999b">
                   <b> Noticia</b>
                 </p>
-                <p style="color: black">Los 10 lenguajes más utilizados</p>
+                <p style="color: black">Los 10 lenguajes más utilizados en el 2019</p>
                 <p style="color: #97999b">Los lenguajes más utilizados en programación...</p>
                 <p style="color: black">
                   <b>Leer más</b>
