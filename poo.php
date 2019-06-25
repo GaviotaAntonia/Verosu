@@ -18,7 +18,7 @@
   	
 	  <link rel="stylesheet" href="css/animate.css">
   	<!--LETRA QUE SE UTLIZA-->
-	
+	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 </head>
