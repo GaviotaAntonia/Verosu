@@ -159,22 +159,22 @@
           <br>
           <div class="container">
             <div class="list-group">
-              <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #59C3CC; color: white">
+              <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #5c7893; color: white">
                 <b>Contacto</b>
                 <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button>
               </a>
               <br>
-              <a href="#" class="list-group-item list-group-item-action" style="background-color: #59C3CC; color: white">
+              <a href="#" class="list-group-item list-group-item-action" style="background-color: #5c7893; color: white">
                 <b>Solicitud de cotización</b>
                 <button type="" class="btn btn-light btn-sm btn-block">Enviar formulario electronico</button>
               </a>
               <br>
-              <a href="" class="list-group-item list-group-item-action" style="background-color: #59C3CC; color: white">
+              <a href="" class="list-group-item list-group-item-action" style="background-color: #5c7893; color: white">
                 <b>Servicios</b>
               </a>
               <br>
               <div class="card">
-                <div class="card-header" style="background-color: #59C3CC; color: white">
+                <div class="card-header" style="background-color: #5c7893; color: white">
                   <b>Temas Similares</b>
                 </div>
                 <div class="card-body">
