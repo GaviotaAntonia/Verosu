@@ -156,8 +156,7 @@
 			  <div class="col-sm-4">
 				  <div class="sub-cuerpo2">
 					  <br><br>
-					  <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> 
-            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+					  <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="dark" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 				  </div>
           <br>
           <div class="container">

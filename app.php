@@ -7,14 +7,14 @@
 		<link rel="stylesheet" href="">
 		<link rel="stylesheet" href="">
 		<meta charset="utf-8">
-  		<meta name="viewport" content="width=device-width, initial-scale=1">
-  		<link rel="stylesheet" type="text/css" href="css/login.css">
-  		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-  		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-  		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-  		<link rel="shortcut icon" type="image/png" href="conphoto/ab.png"> 
-  		<link rel="stylesheet" href="css/register.css">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" type="text/css" href="css/login.css">
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  	<link rel="shortcut icon" type="image/png" href="conphoto/ab.png"> 
+  	<link rel="stylesheet" href="css/register.css">
 	</head>
 	<body>
 	
@@ -23,16 +23,16 @@
 		<?php include "nav3info.html" ?>	
 
 		<div class="contenedor" align="center">
-    		<img class="img-fluid" src="conphoto/info22.png" width="1800px" style="opacity: 0.4">
-    		<div class="centrado">
-      			<p style="font-size: 60px; color: black;">
-      				<b>Aplicaciones</b>
-      			</p>
-      			<p style="text-align: right; color: black;">Contamos con creación de aplicaciones para todos nuestros clientes, buscando una simplificación inteligiente que llegue a todos lados, buscando el beneficio para el cliente como al usuario, acerquece a nosotros le garantizamos cumplir las metas y objetivos que pueda tener.</p>
-    		</div>
-  		</div>
+    	<img class="img-fluid" src="conphoto/info22.png" width="1800px" style="opacity: 0.4">
+    	<div class="centrado">
+      	<p style="font-size: 60px; color: black;">
+      		<b>Aplicaciones</b>
+      	</p>
+      	<p style="text-align: right; color: black;">Contamos con creación de aplicaciones para todos nuestros clientes, buscando una simplificación inteligiente que llegue a todos lados, buscando el beneficio para el cliente como al usuario, acerquece a nosotros le garantizamos cumplir las metas y objetivos que pueda tener.</p>
+    	</div>
+  	</div>
 
-  		<div class="container" style="margin-top: 30px">
+  	<div class="container" style="margin-top: 30px">
     	<div class="row">
 			  <div class="col-sm-8">
 				  <div class="container mt-3">
@@ -52,18 +52,16 @@
           <div class="bs-example">
             <div class="card" style="max-width: 730px;">
               <div class="row no-gutters">
-                <div class="col-md-8" style="background: #fff">
+                <img src="conphoto/info35.jpg" class="card-img-top h-100" alt="...">
+                <div class="" style="background: #fff">
                   <div class="card-body">
                     <b>
                       <p style="color: gray">Análisis</p>
                     </b>
-                    <h5 class="card-title" style="color: black">Corrupción vs Honestidad</h5>
-                      <p class="card-text" style="color: black">En este e-book, ofrecemos nuestra perspectiva acerca de este flagelo y nuestro punto de vista para poder hacerle frente.</p>
-                      <a href="#" class="btn btn-light">Leer más</a>
+                    <h5 class="card-title" style="color: black">Es tan complicado hacer aplicaciones para celulares</h5>
+                      <p class="card-text" style="color: black">El tema es amplio ya que ver versiones de sistemas, revisar que cada funcion funcione como es, los detalles que se.....</p>
+                      <a href="#" class="btn btn-warning"><b>Leer más</b></a>
                   </div>
-                </div>
-                <div class="col-md-4" style="background: #868e96;">
-                  <img src="conphoto/1.jpeg" class="card-img-top h-100" alt="...">
                 </div>
               </div>
             </div>
@@ -73,10 +71,10 @@
             <div class="card text-white ">
               <div class="card-body">
                 <p style="color: #97999b">
-                  <b> Perspectivas</b>
+                  <b> Artículo</b>
                 </p>
-                <p style="color: black">La corrupción en México no es una cuestión cultural</p>
-                <p style="color: #97999b">Un problema demasiado grande para la actualidad</p>
+                <p style="color: black">El nuevo sistema de Huawei permitira apk</p>
+                <p style="color: #97999b">Esta es la duda de miles, ya que no se sabe si sera necesario crear aplicaciones especialmente para este sistema o sera como android</p>
                 <p style="color: black">
                   <b>Leer más</b>
                 </p>
@@ -85,10 +83,10 @@
             <div class="card text-white ">
               <div class="card-body">
                 <p style="color: #97999b">
-                  <b>Perspectivas</b>
+                  <b>Noticias</b>
                 </p>
-                <p style="color: black">Empresas fantasma y licitaciones</p>
-                <p style="color: #97999b">¿Existe alguna solución?</p>
+                <p style="color: black">Dejara de funcionar mi Whatsapp el 1 julio</p>
+                <p style="color: #97999b">Esto solo sera para ciertos dispostivos y te diremos la razón del por que...</p>
                 <p style="color: black">
                   <b>Leer más</b>
                 </p>
@@ -99,8 +97,8 @@
                 <p style="color: #97999b">
                   <b>Perspectivas</b>
                 </p>
-                <p style="color: black">Corrupción al realizar trámites</p>
-                <p style="color: #97999b">Un obstáculo para las empresas en México</p>
+                <p style="color: black">Qué tan seguro es tu celular como su sistema operativo</p>
+                <p style="color: #97999b">Este es in tema de hablar sin censura y decir que tan seguro estas con tu dispostivos de bolsillo</p>
                 <p style="color: black">
                   <b>Leer más</b>
                 </p>
@@ -114,10 +112,10 @@
                 <p style="color: #97999b">
                   <b>Análisis</b>
                 </p>
-                <p style="color: black">Delitos Financieros: detéctelo y resupelvalo</p>
-                <p style="color: #97999b">El delito financiero es un problema que exige a los directores corporativos y los ejecutivos de alto nivel, permanecer alertas, pues los...</p>
+                <p style="color: black">Qué herraminetas utilizo para la creación de aplicaciones</p>
+                <p style="color: #97999b">Te diremos que herraminetas se utilizan para la creación de aplicaciones en los 2 sistemas y sus requisitos para poder trabajar o hacer una aplicacion</p>
                 <p style="color: black">
-                  <b>Descargar guía</b>
+                  <b>Conozca más</b>
                 </p>
               </div>
             </div>
@@ -126,8 +124,8 @@
                 <p style="color: #97999b">
                   <b>Artículo</b>
                 </p>
-                <p style="color: black">LFPIORPI</p>
-                <p style="color: #97999b">El objetivo que la Ley Antilavado persigue es dar seguimiento al flujo de efectivo con el propósito de contar con una economía nacional más...</p>
+                <p style="color: black">Android uno de los sistemas más utilizados en gran parte del mundo</p>
+                <p style="color: #97999b">Como se llega a ver y escuchar es uno de los sistemas más utilizados y más queridos y te diremos por que...</p>
                 <p style="color: black">
                   <b>Descubre más</b>
                 </p>
@@ -138,18 +136,16 @@
           <div class="bs-example">
             <div class="card" style="max-width: 730px;">
               <div class="row no-gutters">
-                <div class="col-md-8" style="background: #000">
+                <img src="conphoto/info36.jpg" class="card-img-top h-100" alt="...">
+                <div style="background: #000">
                   <div class="card-body">
                     <b>
-                      <p style="color: gray">Perspectivas</p>
+                      <p style="color: gray">Artículo</p>
                     </b>
-                    <h5 class="card-title" style="color: white">Eliminar la impunidad y la corrupción</h5>
-                      <p class="card-text" style="color: white">Erradicar la impunidad y la corrupción requiere un mejor sistema de procuración e impartición de justicia, así como un trabajo coordinado...</p>
-                      <a href="#" class="btn btn-light">Leer más</a>
+                    <h5 class="card-title" style="color: white">¿Qué sistema es más fácil de trabar y por qué?</h5>
+                      <p class="card-text" style="color: white">Es fácil ver estos 2 sistemas en el día a día pero cuál de estos 2 es más de crear una aplicación, como el tiempo que puede tardar en aceptar nuestra app y por que...</p>
+                      <a href="#" class="btn btn-warning"><b>Leer más</b></a>
                   </div>
-                </div>
-                <div class="col-md-4" style="background: #868e96;">
-                  <img src="conphoto/1.jpeg" class="card-img-top h-100" alt="...">
                 </div>
               </div>
             </div>
@@ -158,8 +154,7 @@
 			  <div class="col-sm-4">
 				  <div class="sub-cuerpo2">
 					  <br><br>
-					  <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#8C337A" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> 
-            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+					  <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="dark" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 				  </div>
           <br>
           <div class="container">
