@@ -18,7 +18,7 @@
   		<link rel="stylesheet" href="css/register.css">
       
     <link rel="stylesheet" href="css/animate.css">
-
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 	</head>
 	<body>
 	
