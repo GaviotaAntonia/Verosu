@@ -92,45 +92,28 @@
       			<li class="nav-item">
       				<a class="nav-link active" data-toggle="pill" href="#home">Programador</a>
       			</li>
-      			<li>
+      			<li class="nav-item">
       				<a class="nav-link" data-toggle="pill" href="#menu1">Desarrollo</a>
       			</li>
       			<li class="nav-item">
-      				<a class="nav-link" data-toggle="pill" href="#menu2">¿Porqué es importante hacer Base de Datos?</a>
+      				<a class="nav-link" data-toggle="pill" href="#menu2">Terminó de la instalación</a>
       			</li>
       		</ul>
       		<!-- Tab panes -->
       		<div class="tab-content">
       			<div id="home" class="container tab-pane active"><br>
       				<h3 class="animated bounceInUp">¿Que ofrecemos?</h3>
-      				<p style="color: black; text-align: center;" class="animated bounceInUp">
-      					<li>Programador:esto te sirve mucho para poder programar.</li>
-    					<li>Desarrollo: cada programador necesita el programa instalado, pero con las herramientas, códigos fuente, bancos de datos y etc, para modificar el programa.</li>
-    					<li>Prueba: antes de la entrega al usuario, el software debe ser sometido a pruebas. Esto se hace, en caso de software complejos, en una instalación ad hoc.</li>
-    					<li>Producción: Para ser utilizado por el usuario final.</li>
-    				</ul></p>	
+      				<p style="color: black; text-align: center;" class="animated bounceInUp">Una instalación exitosa es una condición necesaria para el funcionamiento de cualquier software. Mientras más complejo sea el software, es decir, entre otras características, mientras más archivos contenga, mientras mayor la dispersión de los archivos y mientras mayor sea la interdependencia con otros softwares, mayor es el riesgo de alguna falla durante la instalación. Si la instalación falla aunque sea solo parcialmente, el fin que persigue la instalación posiblemente no podrá ser alcanzado. Por esa razón, sobre todo en casos de software complejo, el desarrollo de un proceso de instalación confiable y seguro es una parte fundamental del desarrollo del software.</p>	
       			</div>
-      			<div id="menu1" class="container tab-pane active"><br>
+
+      			<div id="menu1" class="container tab-pane fade"><br>
       				<h3 class="animated bounceInUp">¿Que ofrecemos?</h3>
-      				<p style="color: black; text-align: center;" class="animated bounceInUp">Hacer con nosotros el S.I.I(Sistema Integral de Información)te ofrece:
-      					<ul class="animated bounceInUp">
-      					<li>Base de Datos en MySQL</li>
-      					<li>Diagrama entidad relación</li>
-      					<li>Diagrama Relacional</li>
-      				</ul></p>	
+      				<p style="color: black; text-align: center;" class="animated bounceInUp">En los últimos años se han producido normas y técnicas cada vez más avanzadas para minimizar y estandarizar el proceso de instalación de software. Ver Sistema de gestión de paquetes. Para la instalación de software se pueden aplicar las siguientes técnicas básicas:</p>	
       			</div>
 
       			<div id="menu2" class="container tab-pane fade"><br>
       				<h3 class="animated pulse">¿Porqué es importante hacer el rediseño?</h3>
-      				<p style="color: black" class="animated pulse">Cuando un S.I.I esta de manera correcta instalado de forma integrada, se convierte en el repositorio central de información coprporativa interna derivada de los cinoc principales procesos de negocio de una empresa: 
-      					<ul class="animated pulse">
-      						<ul>Finanzas</ul>
-      						<ul>Logistica</ul>
-      						<ul>Producción</ul>
-      						<ul>Recursos Humanos</ul>
-      						<ul>Ventas</ul>
-      						<ul>Marketing</ul>
-      					</ul></p>
+      				<p style="color: black" class="animated pulse">Si un sistema de gestión de paquetes realiza paquetes de software del sistema.En caso de que bibliotecas hayan sido cambiadas por la instalación, es necesario arrancar el sistema operativo o el software nuevamente para hacer efectivos los cambios en todos los programas.</p>
       			</div>
       		</div>
       	</div><br>      	
