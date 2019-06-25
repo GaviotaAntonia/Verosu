@@ -224,18 +224,22 @@
                 </div>
                 </div>
             </div>
-            <br>
-        </div>
+            <br><br>
+            <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#66B3C8" href="https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw">A Twitter List by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+            <br>
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+        </div>
 
           <div class="card"><br>
             <div class="card-header" style="background-color: gray; color: white"><b>Temas Similares</b></div>
               <div class="card-body">
-                <a href="enbreveifrs.php">En Breve IFRS</a><br>
-                <a href="asesoriacontable.php">Asesoria Contable</a>
-                <br><a href="auditoriadeestadosfinancieros.php">Auditoria de Estados Financieros</a>
-                <br><a href="finanzascorporativas.php">Finanzas Corporativas</a>
-                <br><a href="auditoriainterna.php">Auditoria interna</a>
+                <a href="conexionesredes.php">Redes</a><br>
+                <a href="modpag.php">Páginas Web</a>
+                <br><a href="poo.php">Programación</a>
+                <br><a href="instalacionsoft.php">Instalaciones</a>
+                <br><a href="#">Asesorias</a>
+                <br><a href="#">Seguridad</a>
               </div> 
           </div>
       </div>          		

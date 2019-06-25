@@ -99,67 +99,72 @@
         <h3><br>SERVICIOS Y ANUNCIOS</h3>
         <div id="accordion">
             <div class="card">
-              <div class="card-header" style="background-color: #8F9497">
-                <a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: black">Tecnologia</a>
+              <div class="card-header" style="background-color: #66B3C8">
+                <a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: black">Informatica</a>
               </div>
               <div id="collapseOne" class="collapse show" data-parent="#accordion">                
                 <div class="card-body">
-                  <a href="tecnologia.php" style="color: black">-----------------</a>
+                  <a href="https://www.xataka.com/investigacion/asi-grado-informatica-matematicas-que-valorado-donde-se-puede-estudiar" style="color: black">Así es el grado de informática y matemáticas: por qué es tan valorado y dónde se puede estudiar</a>
                 </div>
               </div>
             </div>
             <div class="card">
-              <div class="card-header" style="background-color: #8F9497">
-                <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black;">VEROSU Digital</a>
+              <div class="card-header" style="background-color: #66B3C8">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black;">Barcelona falla informática</a>
               </div>
               <div id="collapseTwo" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <a href="fusiones y adquisiciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                  <a href="https://elpais.com/sociedad/2019/06/18/actualidad/1560875612_229931.html" style="color: black">Los institutos catalanes afectados por la avería informática ya han registrado el 70% de las notas.</a>
                     </div>
                 </div>
             </div>
             <div class="card">
-              <div class="card-header" style="background-color: #8F9497">
-                <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">ORACLE</a>
+              <div class="card-header" style="background-color: #66B3C8">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">Iniciación a la Informática e Internet.</a>
               </div>
               <div id="collapseThree" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <a href="oracle.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                  <a href="https://www.murcia.com/torrepacheco/noticias/2019/06/25-mayores-descubren-las-nuevas-tecnologias.asp" style="color: black">El curso organizado por la Concejalía de Servicios Sociales, a través del Programa de Mayores, comenzó el pasado mes de enero, finalizando en el día de ayer, con la entrega de diplomas, desarrollándose en la Sala de Informática de la Casa de la Radio, y con la participación de 12 personas mayores.</a>
                 </div>                    
               </div>
             </div>
             <div class="card">
-              <div class="card-header" style="background-color: #8F9497">
-                <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">SAP</a>
+              <div class="card-header" style="background-color: #66B3C8">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">Frabricante chino de drones</a>
                 </div>
                 <div id="collapsefour" class="collapse" data-parent="#accordion">
                   <div class="card-body">
-                    <a href="sap.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                    <a href="http://spanish.xinhuanet.com/2019-06/25/c_138172564.htm" style="color: black">El fabricante chino de drones DJI entregó una carta al Senado estadounidense el lunes, negando las "incorrectas" especulaciones sobre las prácticas de seguridad de datos de la compañía..</a>
                   </div>
                 </div>
             </div>
             <div class="card">
-              <div class="card-header" style="background-color: #8F9497">
-                <a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: black">Integracion Tecnologica</a>
+              <div class="card-header" style="background-color: #66B3C8">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: black">Falla al conteo de eleccion</a>
               </div>
               <div id="collapsefive" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <a href="it.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                  <a href="https://www.publinews.gt/gt/noticias/2019/06/22/guatemala-votos-elecciones-tse.html" style="color: black">LEl área de Informática del Tribunal Supremo Electoral (TSE) confirmó que hubo mal conteo de los votos que los guatemaltecos emitieron el pasado domingo 16 de junio.<br>De acuerdo con Gustavo Castillo, jefe de la referida sección del tribunal electoral, se determinó que hubo duplicidad en los datos que fueron trasladados a la plataforma</a>
                 </div>
                 </div>
             </div>
             <br>
+            <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#66B3C8" href="https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw">A Twitter List by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+            <br>
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
         </div>
 
 
           <div class="card"><br>
             <div class="card-header" style="background-color: gray; color: white"><b>Temas Similares</b></div>
               <div class="card-body">
-                <a href="enbreveifrs.php">En Breve IFRS</a><br>
-                <a href="asesoriacontable.php">Asesoria Contable</a>
-                <br><a href="auditoriadeestadosfinancieros.php">Auditoria de Estados Financieros</a>
-                <br><a href="finanzascorporativas.php">Finanzas Corporativas</a>
-                <br><a href="auditoriainterna.php">Auditoria interna</a>
+                <a href="conexionesredes.php">Redes</a><br>
+                <a href="modpag.php">Páginas Web</a>
+                <br><a href="poo.php">Programación</a>
+                <br><a href="instalacionsoft.php">Instalaciones</a>
+                <br><a href="#">Asesorias</a>
+                <br><a href="#">Seguridad</a>
               </div> 
           </div>
 			</div>    	
