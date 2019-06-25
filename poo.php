@@ -63,11 +63,9 @@
         transform: translate(-50%, -50%);
         color: White;
       }
-
-  
     </style>
-
   </head>
+  
   <body>
     
     <!--NAV1-->

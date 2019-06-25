@@ -84,31 +84,29 @@
     			</p>
         </div>
       </div>
-
       <div style="text-align: center;"><br>
-
-      	<h1 class="animated tada" style="color: black">Rediseñamos tu página</h1>
-      	<div class="container"><br>
-      		<!-- Nav pills -->
-      		<ul class="nav nav-tabs justify-content-center" role="tablist">
-      			<li class="nav-item">
-      				<a class="nav-link active" data-toggle="pill" href="#home">¿Que ofrecemos?</a>
-      			</li>
-      			<li class="nav-item">
-      				<a class="nav-link" data-toggle="pill" href="#menu1">Cotización</a>
-      			</li>
-      			<li class="nav-item">
-      				<a class="nav-link" data-toggle="pill" href="#menu2">¿Porqué es importante hacer el rediseño?</a>
-      			</li>
+        <h1 class="animated tada" style="color: black">Rediseñamos tu página</h1>
+        <div class="container"><br>
+          <!-- Nav pills -->
+          <ul class="nav nav-tabs justify-content-center" role="tablist">
+            <li class="nav-item">
+              <a class="nav-link active" data-toggle="pill" href="#home">¿Que ofrecemos?</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="pill" href="#menu1">Cotización</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="pill" href="#menu2">¿Porqué es importante hacer el rediseño?</a>
+            </li>
       		</ul>
       		<!-- Tab panes -->
       		<div class="tab-content">
-      			<div id="home" class="container tab-pane active"><br>
-      				<h3 class="animated bounceInUp">¿Que ofrecemos?</h3>
-      				<p style="color: black; text-align: right;" class="animated bounceInUp">Algunas de las opciones nombradas a continuación son a gusto del cliente no es obligatorio que sean vinculadas en el sitio web. Los cambios o adaptaciones serán realizadas de acuerdo a la necesidad del cliente. ASESORIA GRATIS. Algunas de las mejoras o cambios son:
-      					<ul style="text-align: right;" class="animated bounceInUp">
-      						<ul>Renovación de su Dominio y hosting propio (Opcional).</ul>
-      						<ul>Asesoría y soporte en correos empresariales.</ul>
+            <div id="home" class="container tab-pane active"><br>
+              <h3 class="animated bounceInUp">¿Que ofrecemos?</h3>
+              <p style="color: black; text-align: right;" class="animated bounceInUp">Algunas de las opciones nombradas a continuación son a gusto del cliente no es obligatorio que sean vinculadas en el sitio web. Los cambios o adaptaciones serán realizadas de acuerdo a la necesidad del cliente. ASESORIA GRATIS. Algunas de las mejoras o cambios son:
+                <ul style="text-align: right;" class="animated bounceInUp">
+                  <ul>Renovación de su Dominio y hosting propio (Opcional).</ul>
+                  <ul>Asesoría y soporte en correos empresariales.</ul>
       						<ul>Capacitación en mercadeo virtual y posicionamiento web GRATIS.</ul>
       						<ul>Su sitio web quedará visible a móviles RESPONSIVE. (Celulares, Tablets, etc).</ul>
       						<ul>Cambio y/o mejoramiento de imagen (Colores, interactividad, etc.)</ul>
@@ -131,18 +129,15 @@
       		</div>
       	</div><br>      	
       </div>
-
       <div class="container" style="margin-top: 30px">
-    	  <div class="row">
-			    <div class="col-sm-8"><br><br>
+        <div class="row">
+          <div class="col-sm-8"><br><br>
             <div class="bs-example">
               <div class="card" style="max-width: 730px;">
                 <div class="row no-gutters">
                   <div class="col-md-8" style="border-top: solid 4px orange">
                     <div class="card-body">
-                      <b>
-                        <p style="color: gray">Articulo</p>
-                      </b>
+                      <b><p style="color: gray">Articulo</p></b>
                       <h5 class="card-title" style="color: black">Maquetacion en Balsamiq Mockups</h5>
                       <p class="card-text" style="color: black">Realmente te obliga a centrarte en la estructura y el contenido, evitando largas discusiones sobre los colores y los detalles que deberían aparecer más adelante en el proceso.</p>
                       <a href="https://balsamiq.com/wireframes/" class="btn btn-light">Leer más</a>

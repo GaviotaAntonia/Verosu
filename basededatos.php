@@ -76,15 +76,15 @@
       <?php include 'nav3info.html'; ?>
     <!---FIN DE NAV BAR-->
     <div class="contenedor" align="center">
-    	<img class="img-fluid" src="conphoto/ingsistemas.jpg" width="1800px" style="opacity: 0.2">
+    	<img class="img-fluid" src="conphoto/base-de-datos.jpg" width="1800px" style="opacity: 0.2" alt="">
     	<div class="centrado">
     		<p style="font-size: 60px; color: black;">
     			<h1 class="animated infinite bounce delay-1s">Base de Datos</h1>
     			<p class="animated flash delay-2s" style="text-align: right; color: black;">Es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso. En este sentido; una biblioteca puede considerarse una base de datos compuesta en su mayoría por documentos y textos impresos en papel e indexados para su consulta.</p>
         </div>
-      </div>
-      <div style="text-align: center;"><br>
-      	<h1 class="animated tada" style="color: black">Diseño e implementacion de Bases de Datos</h1>
+    </div>
+    <div style="text-align: center;"><br>
+    	<h1 class="animated tada" style="color: black">Diseño e implementacion de Bases de Datos</h1>
       	<div class="container"><br>
       		<!-- Nav pills -->
       		<ul class="nav nav-tabs justify-content-center" role="tablist">
@@ -122,7 +122,6 @@
       		</div>
       	</div><br>      	
       </div>
-
       <div class="container" style="margin-top: 30px">
     	  <div class="row">
 			    <div class="col-sm-8"><br><br>

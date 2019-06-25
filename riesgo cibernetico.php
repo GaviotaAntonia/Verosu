@@ -73,30 +73,20 @@
   <!--nav 2-->
     <?php include 'nav2.html'; ?>
   <!---FIN DE NAV BAR-->
-
-	<div class="contenedor" align="center">
+  <div class="contenedor" align="center">
     <img class="img-fluid" src="conphoto/107.jpg" width="1800px" style="opacity: 0.4">
     <div class="centrado">
       <p style="font-size: 60px; color: black;">
         <b>Riesgo Cibernético</b>
-      <p style="text-align: right; color: black;">Ayudamos a los clientes a elaborar a implementar estrategias y programas empresariales para administrar los riesgos tecnológicos y de información preparse y responde a incidentes; detectar proactivamente amenazas y; encontrar el balance adecuado entre la administración y la contención de costos</p>
+        <p style="text-align: right; color: black;">Ayudamos a los clientes a elaborar a implementar estrategias y programas empresariales para administrar los riesgos tecnológicos y de información preparse y responde a incidentes; detectar proactivamente amenazas y; encontrar el balance adecuado entre la administración y la contención de costos</p>
     </div>
   </div>
-
   <?php include 'navriesgo.html'; ?>
-
   <div class="container" style="margin-top: 30px">
     <div class="row">
-			<div class="col-sm-8">
-				<div class="container mt-3">
-					<h2>
-						Verosu S. de R.L M.I
-						<small style="color: #76746E">
-							<br>
-							Servicios Integrales Comunicaciones y Tecnologia.
-						</small>
-					</h2>
-					<br><br>
+      <div class="col-sm-8">
+        <div class="container mt-3">
+          <h2>Verosu S. de R.L M.I<small style="color: #76746E"><br>Servicios Integrales Comunicaciones y Tecnologia.</small></h2><br><br>
 					<i class="fab fa-facebook-square" style="font-size: 48px; color: black"></i>
 					<i class="fab fa-twitter-square" style="font-size: 48px; color: black"></i>
 					<i class="fa fa-youtube-square" style="font-size: 48px; color: black"></i>
@@ -106,10 +96,7 @@
           <div class="card" style="max-width: 730px;">
             <div class="row no-gutters">
               <div class="col-md-8" style="background: #fff">
-                <div class="card-body">
-                  <b>
-                    <p style="color: gray">Perspectivas</p>
-                  </b>
+                <div class="card-body"><b><p style="color: gray">Perspectivas</p></b>
                   <h5 class="card-title" style="color: black">La importancia de contar con un ciberseguro</h5>
                   <p class="card-text" style="color: black">Ademas de formar parte de una eficiente estrategia de ciberseguridad, el seguro cibernetico permite a las empresas amortiguar el impacto...</p>
                   <a href="#" class="btn btn-light">Leer más</a>
@@ -125,9 +112,7 @@
         <div class="card-deck">
           <div class="card text-white " style="border-top: solid 4px #009975">
             <div class="card-body">
-              <p style="color: #97999b">
-                <b> Perspectivas</b>
-              </p>
+              <p style="color: #97999b"><b>Perspectivas</b></p>
               <p style="color: black">Bots</p>
               <p style="color: #97999b">Los bots han sido usados para llevar a cabo malas practicas, entre ellas, fraudes...</p>
               <p style="color: black">

@@ -74,7 +74,7 @@
     <!---FIN DE NAV BAR-->
 
 	    <div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/servidos.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/servidos.jpg" width="1800px" style="opacity: 0.4" alt="se muestra un SITE el cual tiene sus peceras donde hay servidores esto muestra como debe de estar la seguridad y como estan conectados">
         <div class="centrado">
         	<p style="font-size: 60px; color: black;">
         		<b>¿Qué es Routing y Switching?</b>
@@ -98,7 +98,7 @@
                     </div>
                   </div>
                   <div class="col-md-4" style="background: #868e96;">
-                    <img src="conphoto/sercs.jpg" class="card-img-top h-100" alt="...">
+                    <img src="conphoto/sercs.jpg" class="card-img-top h-100" alt="Se muestra SITE en color morado y como estan conectados los servidores y una imagen de una nube que lo simula">
                   </div>
                 </div>
               </div>
