@@ -75,7 +75,7 @@
     <!---FIN DE NAV BAR-->
 
 	    <div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/redes.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/redes.jpg" width="1800px" style="opacity: 0.4" alt="Se muestra un switch conectado con varios cables de red">
         <div class="centrado">
         	<p style="color: black;">
         		<h1 class="animated bounce delay-2s">Redes</h1>
@@ -99,7 +99,7 @@
                     </div>
                   </div>
                   <div class="col-md-4" style="background: #868e96;">
-                    <img src="conphoto/redes1.jpg" class="card-img-top h-100" alt="...">
+                    <img src="conphoto/redes1.jpg" class="card-img-top h-100" alt="Se muestra una imagen donde se ve un servidor con varias configuraciones">
                   </div>
                 </div>
               </div>
@@ -208,7 +208,6 @@
               </div>
             </div>
             <br><br>
-    
             <div class="bs-example">
               <div class="card" style="max-width: 730px;">
                 <div class="row no-gutters">
