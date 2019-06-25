@@ -74,6 +74,7 @@
           <br><br>
           <div class="card-deck">
             <div class="card text-white " style="border-top: solid 4px #009975">
+              <a href="lenguajes mas utilizados.php" style="text-decoration: none">
               <div class="card-body">
                 <p style="color: #97999b">
                   <b> Noticia</b>
@@ -84,6 +85,7 @@
                   <b>Leer más</b>
                 </p>
               </div>
+              </a>
             </div>
             <div class="card text-white " style="border-top: solid 4px #009975">
               <div class="card-body">
