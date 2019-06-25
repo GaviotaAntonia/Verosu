@@ -119,7 +119,7 @@
                 </div>
               </div>
               <div class="card text-white" style="border-top: solid 4px #009975">
-                <div class="card-body">
+                <div class="card-body animated pulse infinite">
                   <p style="color: #97999b">
                     <b>Noticias</b>
                   </p>
@@ -131,7 +131,7 @@
                 </div>
               </div>
               <div class="card text-white" style="border-top: solid 4px #009975">
-                <div class="card-body">
+                <div class="card-body animated  animated pulse infinite">
                   <p style="color: #97999b">
                     <b>Con instructor</b>
                   </p>
@@ -146,7 +146,7 @@
             <br><br>
             <div class="card-deck">
               <div class="card text-white " style="border-top: solid 4px #009975">
-                <div class="card-body">
+                <div class="card-body animated ">
                   <p style="color: #97999b">
                     <b>Noticias</b>
                   </p>
@@ -158,7 +158,7 @@
                 </div>
               </div>
               <div class="card text-white" style="border-top: solid 4px #009975">
-                <div class="card-body">
+                <div class="card-body animated ">
                   <p style="color: #97999b">
                     <b>Noticias</b>
                   </p>
@@ -173,19 +173,17 @@
             <br><br>
             <div class="card-deck">
               <div class="card text-white" style="border-top: solid 4px #009975">
-                <div class="card-body">
-                  <p style="color: #97999b">
-                    <b>Con Instructor</b>
-                  </p>
-                  <p style="color: black">9 nuevas profesiones que ganan 20% más que las tradicionales.</p>
-                  <p style="color: #97999b">Durante la presentación del análisis de Nuevas Profesiones Digitales 2019 del Instituto Superior de Desarrollo de Internet (ISDI), se aseguró que a medida que la economía digital evoluciona, las empresas requieren perfiles digitales con un alto grado de especialización, mismos que alcanzan ingresos 20% superiores a la media y en algunos casos más.</p>
+                <div class="card-body animated heartBeat ">
+                  <p style="color: #97999b;"><b>Con Instructor</b></p>
+                  <p style="color: black;">9 nuevas profesiones que ganan 20% más que las tradicionales.</p>
+                  <p style="color: #97999b;">Durante la presentación del análisis de Nuevas Profesiones Digitales 2019 del Instituto Superior de Desarrollo de Internet (ISDI), se aseguró que a medida que la economía digital evoluciona, las empresas requieren perfiles digitales con un alto grado de especialización, mismos que alcanzan ingresos 20% superiores a la media y en algunos casos más.</p>
                   <p style="color: black">
                     <a href="https://www.dineroenimagen.com/management/9-nuevas-profesiones-que-ganan-20-mas-que-las-tradicionales/111225"><b>Conozca más</b></a>
                   </p>
                 </div>
               </div>
               <div class="card text-white" style="border-top: solid 4px #009975">
-                <div class="card-body">
+                <div class="card-body animated heartBeat ">
                   <p style="color: #97999b">
                     <b>Noticias</b>
                   </p>
@@ -197,7 +195,7 @@
                 </div>
               </div>
               <div class="card text-white" style="border-top: solid 4px #009975">
-                <div class="card-body">
+                <div class="card-body animated heartBeat ">
                   <p style="color: #97999b">
                     <b>Noticias</b>
                   </p>
@@ -219,8 +217,8 @@
                       <b>
                         <p style="color: gray">Noticias</p>
                       </b>
-                      <h5 class="card-title" style="color: white">Irán dice que ciberataques de EEUU han fracasado; sugiere que es posible negociar</h5>
-                      <p class="card-text" style="color: white"> Irán dijo el lunes que los ciberataques de Estados Unidos contra sus fuerzas armadas habían fracasado, al tiempo que sugirió que podría estar dispuesto a negociar nuevas concesiones con Washington si se levantan las sanciones en su contra y se le ofrecen más incentivos.</p>
+                      <h5 class="card-title" style="color: white;">Irán dice que ciberataques de EEUU han fracasado; sugiere que es posible negociar</h5>
+                      <p class="card-text" style="color: white;"> Irán dijo el lunes que los ciberataques de Estados Unidos contra sus fuerzas armadas habían fracasado, al tiempo que sugirió que podría estar dispuesto a negociar nuevas concesiones con Washington si se levantan las sanciones en su contra y se le ofrecen más incentivos.</p>
                       <a href="https://es.reuters.com/article/topNews/idESKCN1TP0ZN" class="btn btn-light">Leer más</a>
                     </div>
                   </div>
