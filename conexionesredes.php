@@ -77,9 +77,9 @@
 	    <div class="contenedor" align="center">
         <img class="img-fluid" src="conphoto/redes.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
-        	<p style="font-size: 60px; color: black;">
-        		<b class="animated pulse">Redes</b>
-        	<p style="text-align: right; color: black;">Se entiende por redes informáticas, redes de comunicaciones de datos o redes de computadoras a un número de sistemas informáticos conectados entre sí mediante una serie de dispositivos alámbricos o inalámbricos, gracias a los cuales pueden compartir información en paquetes de datos, transmitidos mediante impulsos eléctricos, ondas electromagnéticas o cualquier otro medio físico.<br>Fuente:<a href="https://concepto.de/redes-informaticas/#ixzz5rnhQKZl9">https://concepto.de/redes-informaticas/#ixzz5rnhQKZl9</a></p>
+        	<p style="color: black;">
+        		<h1 class="animated bounce delay-2s">Redes</h1>
+        	<p class="animated bounce delay-2s" style="text-align: right; color: black;">Se entiende por redes informáticas, redes de comunicaciones de datos o redes de computadoras a un número de sistemas informáticos conectados entre sí mediante una serie de dispositivos alámbricos o inalámbricos, gracias a los cuales pueden compartir información en paquetes de datos, transmitidos mediante impulsos eléctricos, ondas electromagnéticas o cualquier otro medio físico.<br>Fuente:<a href="https://concepto.de/redes-informaticas/#ixzz5rnhQKZl9">https://concepto.de/redes-informaticas/#ixzz5rnhQKZl9</a></p>
         </div>
       </div>
       <div class="container" style="margin-top: 30px">
@@ -89,7 +89,7 @@
               <div class="card" style="max-width: 730px;">
                 <div class="row no-gutters">
                   <div class="col-md-8" style="background: #000">
-                    <div class="card-body">
+                    <div class="card-body animated pulse">
                       <b>
                         <p style="color: gray">Noticias</p>
                       </b>
@@ -107,7 +107,7 @@
             <br><br>
             <div class="card-deck">
               <div class="card text-white" style="border-top: solid 4px #009975">
-                <div class="card-body">
+                <div class="card-body animated pulse infinite">
                   <p style="color: #97999b">
                     <b>Noticias</b>
                   </p>
