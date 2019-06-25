@@ -79,14 +79,14 @@
     	<img class="img-fluid" src="conphoto/ingsistemas.jpg" width="1800px" style="opacity: 0.2">
     	<div class="centrado">
     		<p style="font-size: 60px; color: black;">
-    			<h1 class="animated infinite bounce delay-1s">Sistemas Integrales de Informacion</h1>
-    			<p class="animated flash delay-2s" style="text-align: right; color: black;">Es un sistema de información intensivo y extensivo de las Tecnologías de la Información y las Comunicaciones para integrar o centralizar la gestión de la información dentro de una organización. Un SII soporta todos los procesos de negocio y de soporte de la organización.</p>
+    			<h1 class="animated infinite bounce delay-1s">Base de Datos</h1>
+    			<p class="animated flash delay-2s" style="text-align: right; color: black;">Es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso. En este sentido; una biblioteca puede considerarse una base de datos compuesta en su mayoría por documentos y textos impresos en papel e indexados para su consulta.</p>
         </div>
       </div>
 
       <div style="text-align: center;"><br>
 
-      	<h1 class="animated tada" style="color: black">Diseño e implementacion de tu S.I.I.</h1>
+      	<h1 class="animated tada" style="color: black">Diseño e implementacion de Bases de Datos</h1>
       	<div class="container"><br>
       		<!-- Nav pills -->
       		<ul class="nav nav-tabs justify-content-center" role="tablist">
@@ -95,7 +95,7 @@
       			</li>
 
       			<li class="nav-item">
-      				<a class="nav-link" data-toggle="pill" href="#menu2">¿Porqué es importante hacer S.I.I?</a>
+      				<a class="nav-link" data-toggle="pill" href="#menu2">¿Porqué es importante hacer Base de Datos?</a>
       			</li>
       		</ul>
       		<!-- Tab panes -->
@@ -107,23 +107,18 @@
       					<li>Base de Datos en MySQL</li>
       					<li>Diagrama entidad relación</li>
       					<li>Diagrama Relacional</li>
-      					<li>Codificacion del Sistema en C,C++ o Java</li>
-      					<li>Pruebas en el S.I.I.</li>
-      					<li>Manual de Usuario y Manual de Programador</li>
-      				</ul>
-      				</p>		
+      				</ul></p>	
       			</div>
       			<div id="menu2" class="container tab-pane fade"><br>
       				<h3 class="animated pulse">¿Porqué es importante hacer el rediseño?</h3>
       				<p style="color: black" class="animated pulse">Cuando un S.I.I esta de manera correcta instalado de forma integrada, se convierte en el repositorio central de información coprporativa interna derivada de los cinoc principales procesos de negocio de una empresa: 
-      					<ul>
+      					<ul class="animated pulse">
       						<ul>Finanzas</ul>
       						<ul>Logistica</ul>
       						<ul>Producción</ul>
       						<ul>Recursos Humanos</ul>
       						<ul>Ventas</ul>
       						<ul>Marketing</ul>
-
       					</ul></p>
       			</div>
       		</div>
@@ -141,13 +136,13 @@
                       <b>
                         <p style="color: gray">Articulo</p>
                       </b>
-                      <h5 class="card-title" style="color: black">IDE Netbeans</h5>
-                      <p class="card-text" style="color: black">Lo primero que destaca Apache NetBeans 10 es el soporte para JDK 11. El ser capaz de trabajar con la última versión de Java tendría que haberse convertido en algo importante para la aplicación que nos ocupa, ya que Oracle ha decidido acelerar su ritmo de lanzamientos.</p>
-                      <a href="https://balsamiq.com/wireframes/" class="btn btn-outline-danger">Leer más</a>
+                      <h5 class="card-title" style="color: black">Base de Datos</h5>
+                      <p class="card-text" style="color: black">Bases de datos estáticas. Típicas de la inteligencia empresarial y otras áreas de análisis histórico, son bases de datos de sólo lectura, de las cuales se puede extraer información, pero no modificar la ya existente.</p>
+                      <a href="https://concepto.de/base-de-datos/#ixzz5rtSlL700" class="btn btn-outline-danger">Leer más</a>
                     </div>
                   </div>
                   <div class="col-md-4" style="background: #868e96;">
-                    <img src="conphoto/ide.png" class="card-img-top h-100" alt="...">
+                    <img src="conphoto/bd1.jpg" class="card-img-top h-100" alt="...">
                   </div>
                 </div>
               </div>
