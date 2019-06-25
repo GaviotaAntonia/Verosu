@@ -13,6 +13,8 @@
 
 	  <link rel="stylesheet" href="css/masestilos.css">
 	  <link rel="stylesheet" href="css/estilos.css">
+    
+    <link rel="stylesheet" href="css/animate.css">
   
     <!--LETRA QUE SE UTLIZA-->
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
