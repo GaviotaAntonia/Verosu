@@ -59,7 +59,7 @@
                     </b>
                     <h5 class="card-title" style="color: black">Contabilidad</h5>
                     <p class="casrd-text" style="color: black">Este chat es solo para problemas de contabilidad, ayuda sobre temas contables o alguna ayuda de manera presencial </p>
-                    <a href="#" class="btn btn-warning" style="color: black;"><b>Iniciar chat</b></a>
+                    <a href="chat contabilidad.php" class="btn btn-warning" style="color: black;"><b>Iniciar chat</b></a>
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@
                     </b>
                     <h5 class="card-title" style="color: black">Informática</h5>
                     <p class="casrd-text" style="color: black">Este chat es solo para problemas de informática, para soluciones de algún sistema, para reportar algún problema o hacer un trabajo de manera presencial para el usuario/cliente.</p>
-                    <a href="#" class="btn btn-warning" style="color: black;"><b>Iniciar chat</b></a>
+                    <a href="chat informatica.php" class="btn btn-warning" style="color: black;"><b>Iniciar chat</b></a>
                   </div>
                 </div>
               </div>
@@ -92,17 +92,17 @@
           <br>
           <div class="container">
             <div class="list-group">
-              <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #6b778d; color: white">
+              <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #5c7893; color: white">
                 <b>Contacto</b>
                 <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button>
               </a>
               <br>
-              <a href="#" class="list-group-item list-group-item-action" style="background-color: #6b778d; color: white">
+              <a href="#" class="list-group-item list-group-item-action" style="background-color: #5c7893; color: white">
                 <b>Solicitud de cotización</b>
                 <button type="" class="btn btn-light btn-sm btn-block">Enviar formulario electronico</button>
               </a>
               <br>
-              <a href="" class="list-group-item list-group-item-action" style="background-color: #6b778d; color: white">
+              <a href="" class="list-group-item list-group-item-action" style="background-color: #5c7893; color: white">
                 <b>Servicios</b>
               </a>
             </div>
