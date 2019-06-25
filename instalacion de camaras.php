@@ -78,7 +78,7 @@
           </div>
           <br><br>
           <div class="card-deck">
-            <div class="card text-white ">
+            <div class="card text-white " style="border-top:  solid 4px #900048">
               <div class="card-body">
                 <p style="color: #97999b">
                   <b> Artículo</b>
@@ -90,7 +90,7 @@
                 </p>
               </div>
             </div>
-            <div class="card text-white ">
+            <div class="card text-white " style="border-top:  solid 4px #900048">
               <div class="card-body">
                 <p style="color: #97999b">
                   <b>Análisis</b>
@@ -102,7 +102,7 @@
                 </p>
               </div>
             </div>
-            <div class="card text-white">
+            <div class="card text-white " style="border-top:  solid 4px #900048">
               <div class="card-body">
                 <p style="color: #97999b">
                   <b>Noticia</b>
