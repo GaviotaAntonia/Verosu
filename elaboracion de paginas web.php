@@ -18,10 +18,10 @@
     
     <link rel="stylesheet" href="css/animate.css">
     <!--animaciones-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 	</head>
-	<body>
+	<body >
 	
 		<?php include "nav.html" ?>
 
@@ -63,9 +63,9 @@
                     <b>
                       <p style="color: gray">Perspectivas</p>
                     </b>
-                    <h5 class="card-title" style="color: black">¿Qué es html sus demás funciones?</h5>
-                    <p class="card-text" style="color: black">¿Que es html?¿Como llegar a funcionar?¿Qué más se necesita?¿Es tan importante?, estas preguntas y más...</p>
-                    <a href="#" class="btn btn-warning"><b>Leer más</b></a>
+                    <h5 class="card-title" style="color: black">¿Qué es HTML sus demás funciones?</h5>
+                    <p class="card-text" style="color: black">¿Que es HTML?¿Como llega a funcionar?¿Qué más se necesita?¿Es tan importante?, estas preguntas y más...</p>
+                    <a href="que es html.php" class="btn btn-warning"><b>Leer más</b></a>
                   </div>
                 </div>
               </div>
