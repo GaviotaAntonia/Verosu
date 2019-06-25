@@ -63,8 +63,8 @@
                       <p style="color: gray">Análisis</p>
                     </b>
                     <h5 class="card-title" style="color: black">¿Qué es un sistema de base de  datos?</h5>
-                      <p class="card-text" style="color: black">¿Para que sirve una base de datos?¿Quien utiliza base de datos?¿Es dicil crear una base datos?</p>
-                      <a href="#" class="btn btn-warning"><b>Leer más</b></a>
+                    <p class="card-text" style="color: black">¿Para que sirve una base de datos?¿Quien utiliza base de datos?¿Es dicil crear una base datos?</p>
+                    <a href="#" class="btn btn-warning"><b>Leer más</b></a>
                   </div>
                 </div>
               </div>
