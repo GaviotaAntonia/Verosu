@@ -122,7 +122,7 @@
       			</div>
       			<div id="menu1" class="container tab-pane fade"><br>
       				<h3 class="animated bounce">Cotización</h3>
-      				<p style="color: black" class="animated bounce">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      				<p style="color: black" class="animated bounce">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       			</div>
       			<div id="menu2" class="container tab-pane fade"><br>
       				<h3 class="animated pulse">¿Porqué es importante hacer el rediseño?</h3>
