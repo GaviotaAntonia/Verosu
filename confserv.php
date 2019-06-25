@@ -175,70 +175,76 @@
         <h3><br>SERVICIOS Y ANUNCIOS</h3>
         <div id="accordion">
             <div class="card">
-              <div class="card-header" style="background-color: #8F9497">
-                <a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: black">Tecnologia</a>
+              <div class="card-header" style="background-color: #6E9DAB">
+                <a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: black">Cisco Anuncia</a>
               </div>
               <div id="collapseOne" class="collapse show" data-parent="#accordion">                
                 <div class="card-body">
-                  <a href="tecnologia.php" style="color: black">-----------------</a>
+                  <a href="https://www.milenio.com/negocios/cisco-anuncio-innovaciones-simplificar-gestion-proteccion-redes" style="color: black">innovaciones para simplificar la gestión y protección de redes, “La inteligencia artificial y el aprendizaje automático pueden permitir a las empresas discernir de manera eficiente qué temas priorizar, volviéndose más ágiles y proactivos. Esto tendrá un gran efecto en las operaciones de red y en el equipo que los ejecuta”, dijo Scott Harrell, Vicepresidente Senior y Director General del Negocio de Redes Empresariales de Cisco.</a>
                 </div>
               </div>
             </div>
             <div class="card">
-              <div class="card-header" style="background-color: #8F9497">
-                <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black;">VEROSU Digital</a>
+              <div class="card-header" style="background-color: #6E9DAB">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black;">Consolidan docentes de la UTP especialización en Cisco Networking Academy</a>
               </div>
               <div id="collapseTwo" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <a href="fusiones y adquisiciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                  <a href="fusiones y adquisiciones.php" style="color: black">Del día 3 al 7 de junio 2019 docentes de la carrera de Tecnologías de la Información acudieron a las instalaciones de la Universidad Tecnológica de Querétaro para finalizar el curso de especialización CCNA2 C&S Routing and Switching Essentials 6.0, como parte del programa CISCO Networking Academy.</a>
                     </div>
                 </div>
             </div>
             <div class="card">
-              <div class="card-header" style="background-color: #8F9497">
-                <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">ORACLE</a>
+              <div class="card-header" style="background-color: #6E9DAB">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">CISCO ofrece nuevo software para desarrolladores</a>
               </div>
               <div id="collapseThree" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <a href="oracle.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                  <a href="oracle.php" style="color: black">“La red basada en la intención de Cisco ha llevado a un cambio fundamental en el papel que desempeñan las redes en los negocios y cambia la forma en que se hacen las redes. El rol del profesional de redes ha cambiado a medida que se aleja de las tareas manuales, que requieren de mucho tiempo, y se acerca al mundo en el que los desarrolladores de IT, DevOps, aplicaciones y la nube trabajan juntos”.</a>
                 </div>                    
               </div>
             </div>
             <div class="card">
-              <div class="card-header" style="background-color: #8F9497">
-                <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">SAP</a>
+              <div class="card-header" style="background-color: #6E9DAB">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">Cisco ofrece 400 nuevas ‘Becas Digitaliza’</a>
                 </div>
                 <div id="collapsefour" class="collapse" data-parent="#accordion">
                   <div class="card-body">
-                    <a href="sap.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                    <a href="sap.php" style="color: black">400 jóvenes que busquen una oportunidad laboral en el sector TIC podrán formarse de manera totalmente gratuita. Por segundo año consecutivo, Cisco anuncia las ‘Becas Digitaliza’..</a>
                   </div>
                 </div>
             </div>
             <div class="card">
-              <div class="card-header" style="background-color: #8F9497">
-                <a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: black">Integracion Tecnologica</a>
+              <div class="card-header" style="background-color: #6E9DAB">
+                <a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: black">Convertirse en Especialista en redes</a>
               </div>
               <div id="collapsefive" class="collapse" data-parent="#accordion">
                 <div class="card-body">
-                  <a href="it.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+                  <a href="https://www.lateja.cr/nacional/conviertase-en-especialista-de-redes-cisco/ZEHZHFMFYJEUBK2DDW5LA5YGDM/story/" style="color: black">Los requisitos son, ser mayor de 17 años, tener el quinto grado de colegio aprobado, tener conocimientos básicos en Windows, presentar cédula original, copia de título y someterse al proceso de selección.</a>
                 </div>
                 </div>
             </div>
             <br>
+              <br>
+            <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#66B3C8" href="https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw">A Twitter List by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+            <br>
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
         </div>
+
 
 
           <div class="card"><br>
             <div class="card-header" style="background-color: gray; color: white"><b>Temas Similares</b></div>
               <div class="card-body">
-                <a href="enbreveifrs.php">En Breve IFRS</a><br>
-                <a href="asesoriacontable.php">Asesoria Contable</a>
-                <br><a href="auditoriadeestadosfinancieros.php">Auditoria de Estados Financieros</a>
-                <br><a href="finanzascorporativas.php">Finanzas Corporativas</a>
-                <br><a href="auditoriainterna.php">Auditoria interna</a>
+                <a href="conexionesredes.php">Redes</a><br>
+                <a href="modpag.php">Páginas Web</a>
+                <br><a href="poo.php">Programación</a>
+                <br><a href="instalacionsoft.php">Instalaciones</a>
+                <br><a href="#">Asesorias</a>
+                <br><a href="#">Seguridad</a>
               </div> 
-          </div>
-			</div>    	   		
+          </div></div>   	   		
     	</div>
     </div>
 
