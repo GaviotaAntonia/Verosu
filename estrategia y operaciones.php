@@ -12,6 +12,8 @@
   	<link rel="shortcut icon" type="image/png" href="conphoto/ab.png"> 
     <link rel="stylesheet" href="css/masestilos.css">
     <link rel="stylesheet" href="css/estilos.css">
+    
+    <link rel="stylesheet" href="css/animate.css">
     <!--LETRA QUE SE UTLIZA-->
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
@@ -252,8 +254,7 @@
                 <br><a href="auditoriainterna.php">Auditoria interna</a>
               </div> 
           </div>
-      </div>      
-      </div>  		
+			</div>    		
   </div></div>
 	<?php include "footer.html"; ?>
 	

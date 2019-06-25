@@ -13,6 +13,7 @@
   <!--LETRA QUE SE UTLIZA-->
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
+    <link rel="stylesheet" href="css/animate.css">
 
 </head>
 <body>
