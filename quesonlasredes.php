@@ -114,9 +114,58 @@
           </div>
         </div><br><br>
         <p style="text-align: center;color: black;border-top: solid 4px #5985DB"><br>En resumen<br>Las redes están formadas por conexiones entre grupos de ordenadores y dispositivos asociados que permiten a los usuarios la transferencia electrónica de información. En estas estructuras, los diferentes ordenadores se denominan estaciones de trabajo y se comunican entre sí a través de un cable o línea telefónica conectada a los servidores.Dichos servidores son ordenadores como las estaciones de trabajo pero con funciones administrativas y están dedicados en exclusiva a supervisar y controlar el acceso a la red y a los recursos compartidos. Además de los ordenadores, los cables o la línea telefónica, existe en la red el Módem para permitir la transferencia de información convirtiendo las señales digitales a analógicas y viceversa, también existen en esta estructura los llamados Hubs y Switches con la función de llevar acabo la conectividad.</p>
-    </div>
+        <div class="container">
+        <h2 style="text-align: center;"><small>Modelo OSI</small></h2>
+        <p>The .table-bordered class adds borders on all sides of the table and the cells:</p>            
+        <table class="table table-bordered" style="text-align: center;">
+          <thead>
+          <tr>
+              <th style="background-color: #749AE1">#</th>
+              <th style="background-color: #749AE1">Capas</th>
+              <th style="background-color: #749AE1">Unidad de Intercambio</th>
+          </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="background-color: #E3EBF9">7</td>
+              <td style="background-color: #E3EBF9">Aplicación</td>
+              <td style="background-color: #E3EBF9">APDU</td>
+            </tr>
+            <tr>
+              <td style="background-color: #E3EBF9">6</td>
+              <td style="background-color: #E3EBF9">Presentación</td>
+              <td style="background-color: #E3EBF9">PPDU</td>
+            </tr>
+            <tr>
+              <td style="background-color: #E3EBF9">5</td>
+              <td style="background-color: #E3EBF9">Sesión</td>
+              <td style="background-color: #E3EBF9">SPDU</td>
+            </tr>
+            <tr>
+              <td style="background-color: #E3EBF9">4</td>
+              <td style="background-color: #E3EBF9">Transporte</td>
+              <td style="background-color: #E3EBF9">TPDU</td>
+            </tr>
+            <tr>
+              <td style="background-color: #E3EBF9">3</td>
+              <td style="background-color: #E3EBF9">Red</td>
+              <td style="background-color: #E3EBF9">Paquete de Red</td>
+            </tr>
+            <tr>
+              <td style="background-color: #E3EBF9">2</td>
+              <td style="background-color: #E3EBF9">Enlace de Datos</td>
+              <td style="background-color: #E3EBF9">Trama de red</td>
+            </tr>
+            <tr>
+              <td style="background-color: #E3EBF9">1</td>
+              <td style="background-color: #E3EBF9">Fisica</td>
+              <td style="background-color: #E3EBF9">Bit</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
 
-
+ </div>
 
 
 
