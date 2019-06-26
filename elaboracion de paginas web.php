@@ -88,6 +88,7 @@
               </a>
             </div>
             <div class="card text-white " style="border-top: solid 4px #009975">
+              <a href="que es java.php" style="text-decoration: none">
               <div class="card-body">
                 <p style="color: #97999b">
                   <b>Perspectivas</b>
@@ -98,8 +99,10 @@
                   <b>Leer más</b>
                 </p>
               </div>
+              </a>
             </div>
             <div class="card text-white " style="border-top: solid 4px #009975">
+              <a href="importante programar.php" style="text-decoration: none">
               <div class="card-body">
                 <p style="color: #97999b">
                   <b>Artículo</b>
@@ -110,6 +113,7 @@
                   <b>Leer más</b>
                 </p>
               </div>
+              </a>
             </div>
           </div>
           <br><br>
