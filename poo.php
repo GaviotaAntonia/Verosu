@@ -113,14 +113,14 @@
             <div class="bs-example">
               <div class="card" style="max-width: 730px;">
                 <div class="row no-gutters">
-                  <div class="col-md-8" style="border-top: solid 4px #EF84F6">
+                  <div class="col-md-8" style="border-top: solid 4px #1D40AA">
                     <div class="card-body">
                       <b>
                         <p style="color: gray">Articulo</p>
                       </b>
                       <h5 class="card-title" style="color: black">Programación Orientada a Objetos JAVA</h5>
                       <p class="card-text" style="color: black">Bases de datos estáticas. Típicas de la inteligencia empresarial y otras áreas de análisis histórico, son bases de datos de sólo lectura, de las cuales se puede extraer información, pero no modificar la ya existente.</p>
-                      <a href="https://concepto.de/base-de-datos/#ixzz5rtSlL700" class="btn btn-outline-danger">Leer más</a>
+                      <a href="https://concepto.de/base-de-datos/#ixzz5rtSlL700" class="btn btn-outline-primary">Leer más</a>
                     </div>
                   </div>
                   <div class="col-md-4" style="background: #868e96;">
@@ -136,11 +136,11 @@
             			<div class="col-md-4" style="background: #3795E3;">
             				<img src="conphoto/IDE_ImagenDestacada.jpg" class="card-img-top h-100" alt="...">
             			</div>
-            			<div class="col-md-8" style="background: #3795E3;border-top: solid 4px #E33737">
-            				<div class="card-body"><b><p style="color: #E1EAD8">Informacion</p></b>
-            					<h5 class="card-title" style="color: white">IDE para muchos lenguajes de información</h5>
-            					<p class="card-text" style="color: white">Un entorno de desarrollo integrado, es un entorno de programación que ha sido empaquetado como un programa de aplicación, es decir, consiste en un editor de código, un compilador, un depurador y un constructor de interfaz gráfica (GUI).</p>
-            					<a href="#" class="btn btn-outline-info" style="color: white">Leer más</a>
+            			<div class="col-md-8" style="border-top: solid 4px #1A7594">
+            				<div class="card-body"><b><p style="color: #68666F">Informacion</p></b>
+            					<h5 class="card-title" style="color: black">IDE para muchos lenguajes de información</h5>
+            					<p class="card-text" style="color: black">Un entorno de desarrollo integrado, es un entorno de programación que ha sido empaquetado como un programa de aplicación, es decir, consiste en un editor de código, un compilador, un depurador y un constructor de interfaz gráfica (GUI).</p>
+            					<a href="#" class="btn btn-outline-info">Leer más</a>
             				</div>
             			</div>
             		</div>
@@ -150,15 +150,15 @@
         <div class="col-sm-4">
         	<div class="container">
         		<div class="list-group"><br>
-        			<a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #4AAF9B; color: white;; text-align: center;"><b>Contacto</b><br>
+        			<a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #4B9DB9; color: white;; text-align: center;"><b>Contacto</b><br>
         				<button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button></a><br><br>
-        				<a href="#" class="list-group-item list-group-item-action" style="background-color: #4AAF9B; color: white; text-align: center;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br><br>
+        				<a href="#" class="list-group-item list-group-item style="background-color: #4B9DB9; color: white; text-align: center;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br><br>
         			</div>
         	</div>
         	<h3><br>SERVICIOS Y ANUNCIOS</h3>
         	<div id="accordion">
         		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
+        			<div class="card-header" style="background-color: #3150AF">
         				<a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: white">Tecnwhitea</a>
         			</div>
         			<div id="collapseOne" class="collapse show" data-parent="#accordion">                
@@ -168,7 +168,7 @@
         			</div>
         		</div>
         		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
+        			<div class="card-header" style="background-color: #3150AF">
         				<a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: white">VEROSU Digital</a>
         			</div>
         			<div id="collapseTwo" class="collapse" data-parent="#accordion">
@@ -178,7 +178,7 @@
         			</div>
         		</div>
         		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
+        			<div class="card-header" style="background-color: #3150AF">
         				<a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color:white">ORACLE</a>
         			</div>
         			<div id="collapseThree" class="collapse" data-parent="#accordion">
@@ -188,7 +188,7 @@
         			</div>
         		</div>
         		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
+        			<div class="card-header" style="background-color: #3150AF">
         				<a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: white">SAP</a>
         			</div>
         			<div id="collapsefour" class="collapse" data-parent="#accordion">
@@ -198,7 +198,7 @@
         			</div>
         		</div>
         		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
+        			<div class="card-header" style="background-color: #3150AF">
         				<a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: white">Integracion Tecnologica</a>
         			</div>
         			<div id="collapsefive" class="collapse" data-parent="#accordion">
@@ -209,16 +209,12 @@
             	</div>
             <br><br>
         </div>
-
-          <div class="card"><br>
+<br>
+          <div class="card">
             <div class="card-header" style="background-color: #AF4A9C; color: white"><b>Temas Similares</b></div>
               <div class="card-body">
                 <a href="conexionesredes.php">Diseño Grafico</a><br>
                 <a href="modpag.php">Edición en Photoshop</a>
-                <br><a href="poo.php">Programación</a>
-                <br><a href="instalacionsoft.php">Instalaciones</a>
-                <br><a href="#">Asesorias</a>
-                <br><a href="#">Seguridad</a>
               </div> 
           </div>
       </div>          		

@@ -79,13 +79,12 @@
     	<img class="img-fluid" src="conphoto/banner.jpg" width="1800px" style="opacity: 0.2">
     	<div class="centrado">
     		<p style="font-size: 60px; color: black;">
-    			<h1 class="animated infinite bounce delay-1s">Modificación de Páginas Web</h1>
+    			<h1 class="animated infinite bounce delay-1s">Rediseño de Páginas Web</h1>
     			<p class="animated flash delay-2s" style="text-align: right; color: black;">Los sitios web ya no son como antes, ellos avanzan a la misma velocidad de la tecnología y cada vez con una tendencia mayor hacia los desarrollos móviles. El diseño de una página web ha estado obligada a evolucionar y lo más importante es saber ¿Cuando? es el momento de hacerlo.
     			</p>
         </div>
       </div>
       <div style="text-align: center;"><br>
-        <h1 class="animated tada" style="color: black">Rediseñamos tu página</h1>
         <div class="container"><br>
           <!-- Nav pills -->
           <ul class="nav nav-tabs justify-content-center" role="tablist">
@@ -245,60 +244,59 @@
         	<div id="accordion">
         		<div class="card">
         			<div class="card-header" style="background-color: #4AAF9B">
-        				<a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: white">Tecnwhitea</a>
+        				<a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: white">Balsamiq Mockups</a>
         			</div>
         			<div id="collapseOne" class="collapse show" data-parent="#accordion">                
         				<div class="card-body">
-        					<a href="tecnologia.php" style="color: black">-----------------</a>
+        					<a href="https://balsamiq.com/wireframes/desktop/" style="color: black">Mejore sus diseños obteniendo comentarios inmediatos y significativos. Nuestro estilo incompleto ayuda a centrar la conversación en el contenido y la interacción, no los detalles minuciosos .</a>
         				</div>
         			</div>
         		</div>
         		<div class="card">
         			<div class="card-header" style="background-color: #4AAF9B">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: white">VEROSU Digital</a>
+        				<a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: white">Adobe Photoshop</a>
         			</div>
         			<div id="collapseTwo" class="collapse" data-parent="#accordion">
         				<div class="card-body">
-        					<a href="fusiones y adquisiciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+        					<a href="https://www.adobe.com/mx/products/photoshop.html?gclid=CjwKCAjwr8zoBRA0EiwANmvpYF7iIAeT3idWx6qtJU-9L7DxLHwOl7IVyFcvB_N-TVFKlGqGNOeUtRoC2SoQAvD_BwE&sdid=KQPQY&mv=search&ef_id=CjwKCAjwr8zoBRA0EiwANmvpYF7iIAeT3idWx6qtJU-9L7DxLHwOl7IVyFcvB_N-TVFKlGqGNOeUtRoC2SoQAvD_BwE:G:s&s_kwcid=AL!3085!3!302900699996!b!!g!!photoshop" style="color: black">Si puedes imaginarlo, puedes hacerlo gracias a Photoshop, el mejor software de edición de imágenes y de diseño gráfico en el mundo. Crea y mejora fotografías, ilustraciones e imágenes en 3D. Diseña sitios web y aplicaciones para dispositivos móviles. Edita vídeos, simula cuadros reales y mucho más. Todo lo que necesitas para llevar a cabo cualquier idea.</a>
         				</div>
         			</div>
         		</div>
         		<div class="card">
         			<div class="card-header" style="background-color: #4AAF9B">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color:white">ORACLE</a>
+        				<a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color:white">Codigos de Colores en Hexadecimal</a>
         			</div>
         			<div id="collapseThree" class="collapse" data-parent="#accordion">
         				<div class="card-body">
-        					<a href="oracle.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+        					<a href="https://htmlcolorcodes.com/es/" style="color: black">Obtener códigos de color HTML, códigos de color Hex, RGB y HSL valores con nuestra selección de colores, tablas de colores y nombres de colores HTML. ¡Vamonos!.</a>
         				</div>                    
         			</div>
         		</div>
         		<div class="card">
         			<div class="card-header" style="background-color: #4AAF9B">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: white">SAP</a>
+        				<a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: white">Tipografias</a>
         			</div>
         			<div id="collapsefour" class="collapse" data-parent="#accordion">
         				<div class="card-body">
-        					<a href="sap.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+        					<a href="https://fonts.google.com/" style="color: black">Explore la cultura tipográfica y descubra las fuentes para su próximo proyecto con esta colección de casos de estudio, actualizaciones técnicas y artículos organizados por el equipo de Google Fonts.</a>
         				</div>
         			</div>
         		</div>
         		<div class="card">
         			<div class="card-header" style="background-color: #4AAF9B">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: white">Integracion Tecnologica</a>
+        				<a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: white">Generadores de CSS</a>
         			</div>
         			<div id="collapsefive" class="collapse" data-parent="#accordion">
         				<div class="card-body">
-        					<a href="it.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
+        					<a href="http://css3generator.com/" style="color: black">Una herramienta util para programadores y ayuda a tus diseños convirtiendolos en algo más sencillo de aprender.</a>
         				</div>
         			</div>
             	</div>
             <br><br>
             <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#66B3C8" href="https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw">A Twitter List by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
             <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-        </div>
-
-          <div class="card"><br>
+        </div><br>
+          <div class="card">
             <div class="card-header" style="background-color: #AF4A9C; color: white"><b>Temas Similares</b></div>
               <div class="card-body">
                 <a href="conexionesredes.php">Diseño Grafico</a><br>

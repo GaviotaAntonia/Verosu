@@ -129,13 +129,14 @@
                       <b>
                         <p style="color: gray">Articulo</p>
                       </b>
-                      <h5 class="card-title" style="color: black">Base de Datos</h5>
-                      <p class="card-text" style="color: black">Bases de datos estáticas. Típicas de la inteligencia empresarial y otras áreas de análisis histórico, son bases de datos de sólo lectura, de las cuales se puede extraer información, pero no modificar la ya existente.</p>
+                      <h5 class="card-title" style="color: black">Chrome OS priorizará la instalación de 'software' de Android en vez de aplicaciones web</h5>
+                      <p class="card-text" style="color: black">Chrome OS priorizará la instalación de 'software' de Android en vez de aplicaciones web<br>El sistema operativo Chrome OS comenzará a priorizar la instalación de aplicaciones de Android, que recomendará en los casos en los que las aplicaciones web cuenten con un equivalente para el sistema móvil.<br>
+</p>
                       <a href="https://concepto.de/base-de-datos/#ixzz5rtSlL700" class="btn btn-outline-danger">Leer más</a>
                     </div>
                   </div>
                   <div class="col-md-4" style="background: #868e96;">
-                    <img src="conphoto/bd1.jpg" class="card-img-top h-100" alt="...">
+                    <img src="conphoto/chrios.jpg" class="card-img-top h-100" alt="...">
                   </div>
                 </div>
               </div>
@@ -144,14 +145,14 @@
             <div class="bs-example">
             	<div class="card" style="max-width: 730px;">
             		<div class="row no-gutters">                	
-            			<div class="col-md-4" style="background: #3795E3;">
-            				<img src="conphoto/basededatos.jpg" class="card-img-top h-100" alt="...">
+            			<div class="col-md-4" style="background: #E33737;">
+            				<img src="conphoto/whatfun.jpg" class="card-img-top h-100" alt="...">
             			</div>
-            			<div class="col-md-8" style="background: #3795E3;border-top: solid 4px #E33737">
-            				<div class="card-body"><b><p style="color: #E1EAD8">Informacion</p></b>
-            					<h5 class="card-title" style="color: white">Creacion de Base de Datos para tu pagina web</h5>
-            					<p class="card-text" style="color: white">Se hacen los diagramas Entidad-Relacion y la creacion de la base de datos.</p>
-            					<a href="#" class="btn btn-outline-info" style="color: white">Leer más</a>
+            			<div class="col-md-8" style="border-top: solid 4px green">
+            				<div class="card-body"><b><p style="color: #5D9A3E">Informacion</p></b>
+            					<h5 class="card-title" style="color: black">WhatsApp dejará de funcionar en dos sistemas operativos en el 2020</h5>
+            					<p class="card-text" style="color: black">Dejara de funcionar en telfonos que no se hayan actualizado en mas de 5 años o tengan Androdi 2.4.3 o Ios 7</p>
+            					<a href="#" class="btn btn-outline-success" style="color: black">Leer más</a>
             				</div>
             			</div>
             		</div>
@@ -166,62 +167,10 @@
         				<a href="#" class="list-group-item list-group-item-action" style="background-color: #4AAF9B; color: white; text-align: center;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br><br>
         			</div>
         	</div>
-        	<h3><br>SERVICIOS Y ANUNCIOS</h3>
-        	<div id="accordion">
-        		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
-        				<a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: white">Tecnwhitea</a>
-        			</div>
-        			<div id="collapseOne" class="collapse show" data-parent="#accordion">                
-        				<div class="card-body">
-        					<a href="tecnologia.php" style="color: black">-----------------</a>
-        				</div>
-        			</div>
-        		</div>
-        		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: white">VEROSU Digital</a>
-        			</div>
-        			<div id="collapseTwo" class="collapse" data-parent="#accordion">
-        				<div class="card-body">
-        					<a href="fusiones y adquisiciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-        				</div>
-        			</div>
-        		</div>
-        		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color:white">ORACLE</a>
-        			</div>
-        			<div id="collapseThree" class="collapse" data-parent="#accordion">
-        				<div class="card-body">
-        					<a href="oracle.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-        				</div>                    
-        			</div>
-        		</div>
-        		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: white">SAP</a>
-        			</div>
-        			<div id="collapsefour" class="collapse" data-parent="#accordion">
-        				<div class="card-body">
-        					<a href="sap.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-        				</div>
-        			</div>
-        		</div>
-        		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: white">Integracion Tecnologica</a>
-        			</div>
-        			<div id="collapsefive" class="collapse" data-parent="#accordion">
-        				<div class="card-body">
-        					<a href="it.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-        				</div>
-        			</div>
-            	</div>
-            <br><br>
-        </div>
+        	<br>
+            <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#66B3C8" href="https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw">A Twitter List by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-          <div class="card"><br>
+          <div class="card">
             <div class="card-header" style="background-color: #AF4A9C; color: white"><b>Temas Similares</b></div>
               <div class="card-body">
                 <a href="conexionesredes.php">Diseño Grafico</a><br>

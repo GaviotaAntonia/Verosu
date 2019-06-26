@@ -215,9 +215,9 @@
     							<a href="it.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
     						</div>
     					</div>
-    				</div><br><br>
-    			</div>
-    			<div class="card"><br>
+    				</div><br>
+    			</div><br>
+    			<div class="card">
     				<div class="card-header" style="background-color: #AF4A9C; color: white"><b>Temas Similares</b></div>
     				<div class="card-body">
     					<a href="conexionesredes.php">Diseño Grafico</a><br>
