@@ -169,63 +169,8 @@
         				<button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button></a><br><br>
         				<a href="#" class="list-group-item list-group-item-action" style="background-color: #4AAF9B; color: white; text-align: center;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br><br>
         			</div>
-        	</div>
-        	<h3><br>SERVICIOS Y ANUNCIOS</h3>
-        	<div id="accordion">
-        		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
-        				<a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: white">Tecnwhitea</a>
-        			</div>
-        			<div id="collapseOne" class="collapse show" data-parent="#accordion">                
-        				<div class="card-body">
-        					<a href="tecnologia.php" style="color: black">-----------------</a>
-        				</div>
-        			</div>
-        		</div>
-        		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: white">VEROSU Digital</a>
-        			</div>
-        			<div id="collapseTwo" class="collapse" data-parent="#accordion">
-        				<div class="card-body">
-        					<a href="fusiones y adquisiciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-        				</div>
-        			</div>
-        		</div>
-        		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color:white">ORACLE</a>
-        			</div>
-        			<div id="collapseThree" class="collapse" data-parent="#accordion">
-        				<div class="card-body">
-        					<a href="oracle.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-        				</div>                    
-        			</div>
-        		</div>
-        		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: white">SAP</a>
-        			</div>
-        			<div id="collapsefour" class="collapse" data-parent="#accordion">
-        				<div class="card-body">
-        					<a href="sap.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-        				</div>
-        			</div>
-        		</div>
-        		<div class="card">
-        			<div class="card-header" style="background-color: #EA6969">
-        				<a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: white">Integracion Tecnologica</a>
-        			</div>
-        			<div id="collapsefive" class="collapse" data-parent="#accordion">
-        				<div class="card-body">
-        					<a href="it.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-        				</div>
-        			</div>
-            	</div>
-            <br><br>
-        </div>
-
-          <div class="card"><br>
+        	</div><br>
+          <div class="card">
             <div class="card-header" style="background-color: #AF4A9C; color: white"><b>Temas Similares</b></div>
               <div class="card-body">
                 <a href="conexionesredes.php">Diseño Grafico</a><br>

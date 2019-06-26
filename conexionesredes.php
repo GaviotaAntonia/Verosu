@@ -95,7 +95,7 @@
                       </b>
                       <h5 class="card-title" style="color: white">¿Que son las redes?</h5>
                       <p class="card-text" style="color: white">Te explicamos qué son las redes informáticas y cuáles son los tipos que existen. Además, sus elementos y qué es una topología de red.</p>
-                      <a href="https://www.ecured.cu/Redes_Inform%C3%A1ticas" class="btn btn-light">Leer más</a>
+                      <a href="quesonlasredes.php" class="btn btn-light">Leer más</a>
                     </div>
                   </div>
                   <div class="col-md-4" style="background: #868e96;">
@@ -236,74 +236,15 @@
                 <a href="#" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br><br>
           </div>
         </div>
-        <h3><br>SERVICIOS Y ANUNCIOS</h3>
-        <div id="accordion">
-          <div class="card">
-            <div class="card-header" style="background-color: #8F9497">
-              <a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: black">Tecnologia</a>
-            </div>
-            <div id="collapseOne" class="collapse show" data-parent="#accordion">                
-              <div class="card-body">
-                <a href="tecnologia.php" style="color: black">-----------------</a>
-              </div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header" style="background-color: #8F9497">
-              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black;">VEROSU Digital</a>
-            </div>
-            <div id="collapseTwo" class="collapse" data-parent="#accordion">
-              <div class="card-body">
-                <a href="fusiones y adquisiciones.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-              </div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header" style="background-color: #8F9497">
-              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">ORACLE</a>
-            </div>
-            <div id="collapseThree" class="collapse" data-parent="#accordion">
-              <div class="card-body">
-                <a href="oracle.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-              </div>                    
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header" style="background-color: #8F9497">
-              <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">SAP</a>
-            </div>
-            <div id="collapsefour" class="collapse" data-parent="#accordion">
-              <div class="card-body">
-                <a href="sap.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-              </div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header" style="background-color: #8F9497">
-              <a class="collapsed card-link" data-toggle="collapse" href="#collapsefive" style="color: black">Integracion Tecnologica</a>
-            </div>
-            <div id="collapsefive" class="collapse" data-parent="#accordion">
-              <div class="card-body">
-                <a href="it.php" style="color: black">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-              </div>
-            </div>
-          </div><br>
-            <br>
-            <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="light" data-link-color="#66B3C8" href="https://twitter.com/TwitterDev/lists/national-parks?ref_src=twsrc%5Etfw">A Twitter List by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-            <br>
-            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-        </div>
-
-          <div class="card"><br>
-            <div class="card-header" style="background-color: gray; color: white"><b>Temas Similares</b></div>
-              <div class="card-body">
-                <a href="conexionesredes.php">Redes</a><br>
-                <a href="modpag.php">Páginas Web</a>
-                <br><a href="poo.php">Programación</a>
-                <br><a href="instalacionsoft.php">Instalaciones</a>
-                <br><a href="#">Asesorias</a>
-                <br><a href="#">Seguridad</a>
+        <div class="card">
+          <div class="card-header" style="background-color: gray; color: white"><b>Temas Similares</b></div>
+          <div class="card-body">
+            <a href="conexionesredes.php">Redes</a><br>
+            <a href="modpag.php">Páginas Web</a><br>
+            <a href="poo.php">Programación</a><br>
+            <a href="instalacionsoft.php">Instalaciones</a><br>
+            <a href="#">Asesorias</a><br>
+            <a href="#">Seguridad</a>
               </div> 
           </div>
       </div>          		

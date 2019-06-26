@@ -58,110 +58,81 @@
 <body>
   <!--NAV1-->
   <?php include "nav.html"; ?>
-  <!--nav 2-->
-  <?php include 'nav2.html'; ?>
+
+  <?php include 'nav3info.html'; ?>
 <!---FIN DE NAV BAR-->
-  <?php include 'nav4.html'; ?>
       <div class="contenedor" align="center">
-        <img class="img-fluid" src="conphoto/buscatalento.jpg" width="1800px" style="opacity: 0.4">
+        <img class="img-fluid" src="conphoto/redes2.jpg" width="1800px" style="opacity: 0.4">
         <div class="centrado">
           <p style="font-size: 60px; color: black;">
-            <b>Gestión de Talento</b>
-          <p style="text-align: right; color: black;">Traducimos la estrategia de negocio en retos de talento, para hacer las inversiones correctas y más redituables en liderazgo, engagement, cultura, gestión del desempeño, remuneración total y otros programas..</p>
+            <b>¿Que son las redes?</b>
+          <p style="text-align: right; color: black;">sistemas donde los elementos que lo componen (por lo general ordenadores) son autónomos y están conectados entre sí por medios físicos y/o lógicos y que pueden comunicarse para compartir recursos.</p>
         </div>
     </div>
       <div class="container" style="margin-top:30px">
       <div class="row">
         <div class="col-sm-8">
-        <div class="container mt-4">
-          <p style="color: black"><b>Servicios</b></p>
-          <h2>Gestión de talento.<small style="color: #76746E"><BR>Liderando el nuevo mundo del trabajo.</small></h2>
-               <p style="color: black">Traducimos la estrategia de negocio en retos de talento, para hacer las inversiones correctas y más redituables en liderazgo, engagement, cultura, gestión del desempeño, remuneración total y otros programas.</p>
-                <img src="logosocial/social_facebook_fb_35 .png" class="rounded-circle" alt="Cinque Terre" style="width: 50px">
-                <img src="logosocial/social_instagram_3.png" class="rounded-circle" alt="Cinque Terre"  style="width: 50px">
-                <img src="logosocial/social_youtube_23.png" class="rounded-circle" alt="Cinque Terre"  style="width: 50px">
-                <br><br>
-                <b>Retos</b><br><p style="color: black"><br>Actualmente, existen tendencias a nivel global en todas las industrias que están impulsando cambios en la gestión de talento.Estamos en una época donde la palabra “trabajar” adquiere un nuevo significado. Los empleados se asemejan más a clientes o socios, en lugar de subordinados, y el verdadero talento cuenta con opciones para elegir su trabajo ideal. Las organizaciones están comprendiendo que las inversiones en el talento son una necesidad estratégica para lograr:
-                  <ul>
-                    <li>Crecimiento y competitividad</li>
-                    <li>Rentabilidad y productividad</li>
-                    <li>Retención y adquisición de personal clave</li>
-                    <li>Una fuerza laboral con la capacidad y compromiso para afrontar los retos</li>
-                    <li>Líderes efectivos en el entorno actual y futuro
-                  </ul>
-
-                  <p style="color: black">Nuestro enfoque de solución<br>Traducimos la estrategia de negocio en retos de talento, para definir en conjunto con nuestros clientes las inversiones correctas y más redituables en programas de talento.<br><br>Nuestro enfoque se basa en tres capacidades clave:<br>
-                    <ul>
-                      <li>Entendimiento de las influencias externas, la problemática por industria y las expectativas de los empleados.</li>
-                      <li>Lecciones aprendidas en nuestra gestión de talento interna, experiencia con clientes y analíticos, para construir soluciones de valor.</li>
-                      <li>Trabajo en conjunto y construcción de capacidades para habilitar a nuestros clientes a conducir los programas, monitorearlos y lograr los beneficios proyectados.</li>
-                    </ul>
-
+          <div class="container mt-4">
+            <p style="color: black"><b>Articulo</b></p>
+            <h2><small style="color: #76746E"><BR>¿Cuál es su finalidad?</small></h2>
+            <p style="color: black">La finalidad principal para la creación de una red de ordenadores es compartir los recursos y la información en la distancia, asegurar la confiabilidad y la disponibilidad de la información, aumentar la velocidad de transmisión de los datos y reducir el costo.</p><br>
+            <div style="align: center">
+              <img src="conphoto/redes1.jpg" alt="" width="400px">
+            </div><br>
+            <b>Medios de transmisión</b><br>
+            <p style="color: black"><br>El medio empleado para transmitir información limita la velocidad de la red, la distancia eficaz entre ordenadores y la topología de la red. Los cables de cobre de dos hilos o los cables coaxiales proporcionan velocidades de transmisión de algunos miles de bps (bits por segundo) a largas distancias y de unos 100 Mbps (millones de bits por segundo) a corta distancia. Las fibras ópticas permiten velocidades de entre 100 y 1.000 Mbps a largas distancias. Por lo que se refiere a las redes inalámbricas, se puede lograr transferir datos a una velocidad de 720 Kbps en un rango de distancias entre 10 y 100 metros.</p>
+          </div><br><br>
+          <div class="container">
+          <br>
+          <!-- Nav tabs -->
+          <h5 style="text-align: center;"><small>Estructura de Redes</small></h5>
+          <ul class="nav nav-tabs justify-content-center" role="tablist">
+            <li class="nav-item">
+              <a class="nav-link active" data-toggle="tab" href="#home">El Software de Aplicaciones</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#menu1">El software de Red</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#menu2">El Hardware de Red</a>
+            </li>
+          </ul>
+          <!-- Tab panes -->
+          <div class="tab-content">
+            <div id="home" class="container tab-pane active"><br>
+              <h3 style="text-align: center;">El software de aplicaciones</h3>
+              <p style="text-align: center;color: black">programas que se comunican con los usuarios de la Red y permiten compartir información (como archivos, gráficos o vídeos) y recursos (como impresoras o unidades de disco).</p>
+            </div>
+            <div id="menu1" class="container tab-pane fade"><br>
+              <h3 style="text-align: center;">El software de red</h3>
+              <p style="text-align: center;color: black">Programas que establecen protocolos para que los ordenadores se comuniquen entre sí. Dichos protocolos se aplican enviando y recibiendo grupos de datos formateados denominados paquetes.</p>
+            </div>
+            <div id="menu2" class="container tab-pane fade"><br>
+              <h3 style="text-align: center;">El hardware de red</h3>
+              <p style="text-align: center;color: black"> formado por los componentes materiales que unen los Ordenadores. Dos componentes importantes son los medios de transmisión que transportan las señales de los ordenadores (típicamente cables o fibras ópticas) y el adaptador de red, que permite acceder al medio material que conecta a los ordenadores, recibir paquetes desde el software de red y transmitir instrucciones y peticiones a otros ordenadores.</p>
+            </div>
+          </div>
         </div><br><br>
+        <p style="text-align: center;color: black;border-top: solid 4px #5985DB"><br>En resumen<br>Las redes están formadas por conexiones entre grupos de ordenadores y dispositivos asociados que permiten a los usuarios la transferencia electrónica de información. En estas estructuras, los diferentes ordenadores se denominan estaciones de trabajo y se comunican entre sí a través de un cable o línea telefónica conectada a los servidores.Dichos servidores son ordenadores como las estaciones de trabajo pero con funciones administrativas y están dedicados en exclusiva a supervisar y controlar el acceso a la red y a los recursos compartidos. Además de los ordenadores, los cables o la línea telefónica, existe en la red el Módem para permitir la transferencia de información convirtiendo las señales digitales a analógicas y viceversa, también existen en esta estructura los llamados Hubs y Switches con la función de llevar acabo la conectividad.</p>
+    </div>
 
 
-    
-        <br><br>
-          <div class="card-deck">
-            <div class="card text-white bg-dark">
-              <img src="conphoto/97.jpg" height="50" alt="">
-              <div class="card-body text-center">
-                <p class="card-text">Some text inside the first card</p>
-              </div>
-            </div>
-              <div class="card text-white bg-dark" id="2">
-                <hr style="color: #0056b2;">
-                <div class="card-body">
-                  <p style="color: white"><b>Servicios</b></p>
-                  <h3 style="color: White">Cursos y Diplomados en IFRS</h3>
-                  <p class="card-text">Some text inside the second card</p>
-                </div>
-
-              </div>
-                <div class="card text-white bg-dark">
-                  <img src="imgenes/financiero.jpg" alt="" height="50">
-                    <div class="card-body">
-                      <p style="color: white"><b>Servicios</b></p>
-                      <h3 style="color: White">Cursos y Diplomados en IFRS</h3>
-                      <p class="card-text">Some text inside the second card</p>
-                    </div>
-                </div>
-          </div>
-          <br><br>
-          <div class="card-deck">
-            <div class="card text-white bg-dark">
-              <img src="conphoto/97.jpg" height="50" alt="">
-              <div class="card-body text-center">
-                <p class="card-text">Some text inside the first card</p>
-              </div>
-            </div>
-        
-                <div class="card text-white bg-dark">
-                  <img src="imgenes/financiero.jpg" alt="" height="50">
-                    <div class="card-body">
-                      <p style="color: white"><b>Servicios</b></p>
-                      <h3 style="color: White">Cursos y Diplomados en IFRS</h3>
-                      <p class="card-text">Some text inside the second card</p>
-                    </div>
-                </div>
-          </div>
-      </div>
 
 
 
       <div class="col-sm-4">          
                 <div class="container">
                   <div class="list-group"><br>
-                    <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Contacto</b><br>
+                    <a href="contacto.php" class="list-group-item list-group-item-action" style="background-color: #459FE1; color: black;"><b>Contacto</b><br>
                       <button type="" class="btn btn-light btn-sm btn-block">Escribenos a traves de nuestra solicitud en línea</button></a><br> 
                     <br>
-                    <a href="#" class="list-group-item list-group-item-action" style="background-color: #58b4a6; color: black;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br> 
+                    <a href="#" class="list-group-item list-group-item-action" style="background-color: #459FE1; color: black;"><b>Solicitud de cotización</b><br><button type="" class="btn btn-light btn-sm btn-block">Enviar Formulario electronico</button></a><br> 
                     <br>
 
                       <h3><br>SERVICIOS Y ANUNCIOS</h3>
                       <div id="accordion">
                         <div class="card">
-                          <div class="card-header" style="background-color: #77daca">
+                          <div class="card-header" style="background-color: #459FE1">
                             <a class="card-link" data-toggle="collapse" href="#collapseOne" style="color: black">Gestion de talento</a>
                           </div>
                           <div id="collapseOne" class="collapse show" data-parent="#accordion">
@@ -171,7 +142,7 @@
                           </div>
                         </div>
                         <div class="card">
-                          <div class="card-header" style="background-color: #77daca">
+                          <div class="card-header" style="background-color: #459FE1">
                             <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo" style="color: black">Transformacion Organizacional</a>
                           </div>
                           <div id="collapseTwo" class="collapse" data-parent="#accordion">
@@ -181,7 +152,7 @@
                           </div>
                         </div>
                         <div class="card">
-                          <div class="card-header" style="background-color: #77daca">
+                          <div class="card-header" style="background-color: #459FE1">
                             <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree" style="color: black">Gestion del cambio</a>
                           </div>
                           <div id="collapseThree" class="collapse" data-parent="#accordion">
@@ -191,7 +162,7 @@
                           </div>
                         </div>
                         <div class="card">
-                          <div class="card-header" style="background-color: #77daca">
+                          <div class="card-header" style="background-color: #459FE1">
                             <a class="collapsed card-link" data-toggle="collapse" href="#collapsefour" style="color: black">Transformacion de Recursos Humanos</a>
                           </div>
                           <div id="collapsefour" class="collapse" data-parent="#accordion">
@@ -202,8 +173,8 @@
                         </div><br>
                       </div>
 
-                    <div class="card"><br>
-                      <div class="card-header" style="background-color: gray; color: white"><b>Temas Similares</b></div>
+                    <div class="card">
+                      <div class="card-header" style="background-color: #215DCF; color: white; text-align: center;"><b>Temas Similares</b></div>
                         <div class="card-body">
                           <a href="enbreveifrs.php">En Breve IFRS</a><br>
                           <a href="asesoriacontable.php">Asesoria Contable</a>
