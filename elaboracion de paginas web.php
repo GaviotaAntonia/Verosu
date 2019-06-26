@@ -119,6 +119,7 @@
           <br><br>
           <div class="card-deck">
             <div class="card text-white " style="border-top: solid 4px #801336">
+              <a href="paginas vs redes.php" style="text-decoration: none">
               <div class="card-body">
                 <p style="color: #97999b">
                   <b>Análisis</b>
@@ -130,6 +131,7 @@
                   <b>Descubre más</b>
                 </p>
               </div>
+              </a>
             </div>
             <div class="card text-white " style="border-top: solid 4px #801336">
               <div class="card-body">
