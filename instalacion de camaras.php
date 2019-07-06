@@ -36,38 +36,29 @@
     	<img class="img-fluid" src="conphoto/info24.jpg" width="1800px" style="opacity: 0.4">
     	<div class="centrado">
       	<p style="font-size: 60px; color: black;">
-      		<b>Instalaciones de camaras</b>
+      		<b><!--Instalaciones de camaras--></b>
       	</p>
-      	<p style="text-align: right; color: black;">En Verosu tenemos un equipo especialmente diseñado para instalaciones de camaras de video, estamos comprometidos a poner cualquier camara en el lugar que nos exiga no importar la altura que estemos.</p>
+      	<p style="text-align: right; color: black;"><!--En Verosu tenemos un equipo especialmente diseñado para instalaciones de camaras de video, estamos comprometidos a poner cualquier camara en el lugar que nos exiga no importar la altura que estemos.--></p>
     	</div>
   	</div>
 
   	<div class="container" style="margin-top: 30px">
-    	<div class="row">
-			  <div class="col-sm-8">
-				  <div class="container mt-3">
-					  <h2>
-						  Verosu S. de R.L M.I
-						  <small style="color: #76746E">
-							  <br>
-							  Servicios Integrales Comunicaciones y Tecnologia.
-						  </small>
-					    </h2>
-					    <br><br>
+      <div class="row">
+        <div class="col-sm-8">
+          <div class="container mt-3">
+            <h2>Verosu S. de R.L M.I<small style="color: #76746E"><br>Servicios Integrales Comunicaciones y Tecnologia.</small></h2><br><br>
 					    <i class="fab fa-facebook-square" style="font-size: 48px; color: black"></i>
 					    <i class="fab fa-twitter-square" style="font-size: 48px; color: black"></i>
 					    <i class="fa fa-youtube-square" style="font-size: 48px; color: black"></i>
 				  </div>
           <br><br>
+
           <div class="bs-example">
             <div class="card" style="max-width: 730px;">
               <div class="row no-gutters">
                 <img src="conphoto/info41.jpg" class="card-img-top h-100" alt="...">
                 <div class="" style="background: #fff">
-                  <div class="card-body">
-                    <b>
-                      <p style="color: gray">Análisis</p>
-                    </b>
+                  <div class="card-body"><b><p style="color: gray">Análisis</p></b>
                     <h5 class="card-title" style="color: black">Es tan necesario tener camaras</h5>
                       <p class="card-text" style="color: black">Hoy en la actualizad en la que se vive es necesario tener camaras en nuestras casas, oficinas, plazas, empresas...</p>
                       <a href="#" class="btn btn-warning"><b>Leer más</b></a>
@@ -76,6 +67,7 @@
               </div>
             </div>
           </div>
+
           <br><br>
           <div class="card-deck">
             <div class="card text-white " style="border-top:  solid 4px #900048">
@@ -90,6 +82,7 @@
                 </p>
               </div>
             </div>
+
             <div class="card text-white " style="border-top:  solid 4px #900048">
               <div class="card-body">
                 <p style="color: #97999b">
@@ -102,6 +95,7 @@
                 </p>
               </div>
             </div>
+
             <div class="card text-white " style="border-top:  solid 4px #900048">
               <div class="card-body">
                 <p style="color: #97999b">
@@ -133,7 +127,9 @@
               </div>
             </div>
           </div>
-			  </div>
+        </div>
+      </div>
+
 			  <div class="col-sm-4">
 				  <div class="sub-cuerpo2">
 					  <br><br>

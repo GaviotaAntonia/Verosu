@@ -99,11 +99,13 @@
       </div>
   </div>
 </div>
-<div class="jumbotron jumbotron-fluid">
- <div align="center">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/k1yAN19a79M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+
+<div class="jumbotron" style="background-image: background-size: 100%;" class="video-responsive">
+   <div class="container for-about">
+    <iframe src="https://www.youtube.com/embed/vPvCk-E8YGQ?start=128" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
 </div>
+
  
 
 
