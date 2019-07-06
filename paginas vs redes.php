@@ -49,19 +49,25 @@
                     </div>
                     <br>
                     <div class="container mt3" style="text-align: justify">
-                        <h3 style="color: black"><b>¿Qué es HTML?</b></h3>
+                        <h3 style="color: black"><b>¿Cuál es mejor?</b></h3>
                         <br>
-                        <span>"HTML es un lenguaje de marcado que se utiliza para desarrollo de páginas de internet. Se trata de las siglas en ingles Hyper Text Markup Language, en español es Lenguaje de Marcas de Hipertexto".</span>
+                        <span>Hay que tomar que las redes sociales han impactado de manera sobresaliente en el mundo de los negocios. Solo hay que ver las siguientes imagenes:</span>
                         <br><br>
-                        <span>HTML al final es un lenguaje con el que se define el contenido de las páginas web, resumiendo la mayoría de cosas Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, videos, etc. Se podría tomar en cuenta que lo que está leyendo es una página web como el Google o Facebook que tienen abierto en otra pestaña.</span>
+                        <div class="contenedor" align="center">
+                            <img src="conphoto/info56.png" >
+                            <br>
+                            <p style="color: black">Imagen por <b>Hootsuite We are social</b></p>
+                        </div>
                         <br><br>
-                        <span>Se toma en cuenta que HTML no es un lenguaje de programación como puede ser el java, C++, C, C# o Python los cuales sin son lenguajes de programación, el HTML solo se podrá visualizar en los navegadores como son Google Chrome, Fire Fox, Internet Explorer, Opera entre otros navegadores que se pueden llegar a utilizar.</span>
+                        <span>Como se puede ver las redes sociales más utilizadas en el año 2018 fueron Facebook que se mantiene en primera posición, después de so le sigue Youtube y Whatsapp. Tomando una gran importancia en los ultimos daños </span>
                         <br><br>
-                        <h3 style="color: black"><b>¿Como llega a funcionar?</b></h3>
-                        <br>
-                        <span>"Para que HTML tome encuentra detalles, cambios y diseños se tendrá que utilizar etiquetas que nos ayudan a delimitar el inicio y el fin de un elemento".</span>
+                        <span>Ya no es solo un canal de comunicacion social, sino que ademas han venido a contribuir con la mejora y el desarrollo de negocios, se han convertido en un plataforma para que las empresas tengan un contacto mas frecuente con sus clientes.</span>
                         <br><br>
-                        <span>Las etiquetas serán parte crucial en el desarrollo de nuestra página ya que estas determinan el encabezado, el cuerpo y el pie de página como la información puesta en dichas partes, es como si fuera un ensayo las etiquetas nos ayudaran la forma en que se acomoda el texto en nuestro ensayo o en este caso de nuestra página web.</span>
+                        <span>Aun teniendo un exito tenga nuestra empresa en redes sociales es de vital importacia que aun tengas una Página web a nuestras manos, hay que tomar en cuenta que una página web usted tendra un mayor control sobre el contenido y publicacaciones, mientras en redes sociales tendra menos control sobre lo que se publique haciendo pensar que algunos de sus clientes o seguidores publiquen contenido que pueda perjudicar la reputación de su compañia.</span>
+                        <br><br>
+                        <span>Pensando tambien en la facilidad de poder modificar algo de manera rapida y sencilla o si llegara a salir un error repararlo al momento que eso lo ponmeos encontra de una red social sera más complicado de hacer ya que tenga soporte tecnico en ocaciones no sabran que falla es esa.</span>
+                        <br><br>
+                        <span>.</span>
                         <br><br>
                         <div class="contenedor" align="center">
                             <img src="conphoto/info46.png" class="img-fluid">
@@ -69,8 +75,6 @@
                         <br><br>
                         <span>Se debe tener en cuenta cuando se abra y cierre una etiqueta se usarán el menor que <b> < </b> y después el mayor que <b> > </b> esto para abrir o cerrar etiquetas, pero para finalizar la etiqueta se tendrá que utilizar la diagonal <b> / </b> después de menor que, como se muestra en la imagen de arriba.</span>
                         <br><br>
-                        <h3 style="color: black"><b>¿Qué más se necesita?</b></h3>
-                        <br>
                         <span>"HTML no es un lenguaje completo ya que solo funciona para escribir y acomodar texto, esto se conforma por otros lenguajes como es PHP, CSS, JAVA, etc."</span>
                         <br><br>
                         <span>Ya que HTML solo sirve para acomodar, mostrar y editar texto de manera plana, pero esto cambia cuando CSS (Hojas de estilo) se introduce esto le cambia el diseño a una página web en todos sus aspectos, java se introduce cuando queremos ciertas funciones como mostrar alertas o avisos para cerrar o abrir ventanas, hacer scrollview, etc, y PHP sirve para guardar datos como enviar correos, introducir una persona mediante un formulario etc. Esto se muestra en la siguiente imagen.</span>
@@ -79,8 +83,6 @@
                             <img src="conphoto/info47.gif">
                         </div>
                         <br><br>
-                        <h3 style="color: black"><b>¿Es tan importante tener un página web?</b></h3>
-                        <br>
                         <span>En la actualidad tener una página web es parte importante si eres un persona de negocios o empresa ya que esta te ayudara a promover más tus servicios o productos a más gente como extenderse a varias partes del mundo.</span>
                         <br><br>
                         <span>En conclusión si es importante tener una página web si eres una persona que tienes una empresa que va iniciando o si ya llegaras a tener una empresa grande le conviene demasiado ya que con esta podran tener más clientes y poder expandirse más.</span>
