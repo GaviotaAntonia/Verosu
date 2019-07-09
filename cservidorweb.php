@@ -33,15 +33,13 @@
 		<?php include "nav3info.html" ?>	
 
 		<div class="contenedor" align="center">
-    	<img class="img-fluid" src="conphoto/servidor.jpg" width="1800px" style="opacity: 0.4">
-    	<div class="centrado">
-      	<p style="font-size: 60px; color: black;">
-      		<b><!--Cotización de servidor para páginas web--></b>
-      	</p>
-      	<p style="text-align: right; color: black;"><!--¿Estás pensando en poner en marcha tu propia página web? Seguro que te vienen muchas preguntas relacionadas con los servicios que vas a necesitar, en Verosu tenemos los mejores precios del mercado.--></p>
-    	</div>
+    	<img class="img-fluid" src="conphoto/servidor.jpg" width="1500px" style="opacity: 0.4">
+      <div class="centrado">
+        <p style="font-size: 60px; color: black;">
+          <h1 class="animated infinite bounce delay-1s">Cotización de servidor para páginas web</h1>
+          <p class="animated flash delay-2s" style="text-align: right; color: black;"> ¿Estás pensando en poner en marcha tu propia página web? Seguro que te vienen muchas preguntas relacionadas con los servicios que vas a necesitar, en Verosu tenemos los mejores precios del mercado.</p>
+        </div>
   	</div>
-
   	<div class="container" style="margin-top: 30px">
       <div class="row">
         <div class="col-sm-8">
@@ -130,7 +128,7 @@
           <div class="bs-example">
             <div class="card" style="max-width: 730px;">
               <div class="row no-gutters">
-                <img src="conphoto/info42.png" class="card-img-top h-100" alt="...">
+                <img src="conphoto/servidor3.jpg" class="card-img-top h-100" alt="...">
                 <div class="" style="background: #000">
                   <div class="card-body">
                     <b>
@@ -145,9 +143,8 @@
             </div>
           </div>
         </div>
-      </div>
 
-			 <div class="col-sm-4">
+       <div class="col-sm-4">
           <div class="sub-cuerpo2">
             <br><br>
             <a class="twitter-timeline" data-lang="es" data-height="400" data-theme="dark" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -187,10 +184,10 @@
               </div>
             </div>
           </div>
-          </div>   
+          </div>  
 
-    	</div>
-    </div>
+       </div>
+     	</div>
 
   		<?php include "footer.html" ?>
 
