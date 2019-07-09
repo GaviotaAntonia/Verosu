@@ -67,7 +67,7 @@
                         <br><br>
                         <span>Pensando tambien en la facilidad de poder modificar algo de manera rapida y sencilla o si llegara a salir un error repararlo al momento que eso lo ponmeos encontra de una red social sera más complicado de hacer ya que tenga soporte tecnico en ocaciones no sabran que falla es esa.</span>
                         <br><br>
-                        <span>.</span>
+                        <span>Pensado que tambien que la Página web sera nuestra y solo nuestra .</span>
                         <br><br>
                         <div class="contenedor" align="center">
                             <img src="conphoto/info46.png" class="img-fluid">
