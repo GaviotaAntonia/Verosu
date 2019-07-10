@@ -3,15 +3,20 @@
 	{
 		"selected_items":
 		[
+			[
+				"text",
+				"text-align\tproperty"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t\t<title>VEROSU S. de R.L M.I</title>\n\t\t<link rel=\"stylesheet\" href=\"\">\n\t\t<link rel=\"stylesheet\" href=\"\">\n\t\t<meta charset=\"utf-8\">\n  \t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  \t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/login.css\">\n  \t<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css\">\n  \t<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js\"></script>\n  \t<script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js\"></script>\n  \t<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js\"></script>\n  \t<link rel=\"shortcut icon\" type=\"image/png\" href=\"conphoto/ab.png\"> \n  \t<link rel=\"stylesheet\" href=\"css/register.css\">\n  \t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  \t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/login.css\">\n  \t\t<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css\">\n  \t\t<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js\"></script>\n  \t\t<script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js\"></script>\n  \t\t<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js\"></script>\n  \t\t<link rel=\"shortcut icon\" type=\"image/png\" href=\"conphoto/ab.png\"> \n  \t\t<link rel=\"stylesheet\" href=\"css/register.css\">\n       <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css\">\n    <link rel=\"stylesheet\" href=\"css/animate.css\">\n\t</head>\n\t<body>\n\t\n\t\t<?php include \"nav.html\" ?>\n\n\t\t<?php include \"nav3info.html\" ?>\t\n\n\t\t<div class=\"contenedor\" align=\"center\">\n    \t<img class=\"img-fluid\" src=\"conphoto/servidor.jpg\" width=\"1800px\" style=\"opacity: 0.4\">\n    \t<div class=\"centrado\">\n      \t<p style=\"font-size: 60px; color: black;\">\n      \t\t<b><!--Cotización de servidor para páginas web--></b>\n      \t</p>\n      \t<p style=\"text-align: right; color: black;\"><!--¿Estás pensando en poner en marcha tu propia página web? Seguro que te vienen muchas preguntas relacionadas con los servicios que vas a necesitar, en Verosu tenemos los mejores precios del mercado.--></p>\n    \t</div>\n  \t</div>\n\n  \t<div class=\"container\" style=\"margin-top: 30px\">\n      <div class=\"row\">\n        <div class=\"col-sm-8\">\n          <div class=\"container mt-3\">\n            <h2>Verosu S. de R.L M.I<small style=\"color: #76746E\"><br>Servicios Integrales Comunicaciones y Tecnologia.</small></h2><br><br>\n\t\t\t\t\t    <i class=\"fab fa-facebook-square\" style=\"font-size: 48px; color: black\"></i>\n\t\t\t\t\t    <i class=\"fab fa-twitter-square\" style=\"font-size: 48px; color: black\"></i>\n\t\t\t\t\t    <i class=\"fa fa-youtube-square\" style=\"font-size: 48px; color: black\"></i>\n\t\t\t\t  </div>\n          <br><br>\n\n          <div class=\"bs-example\">\n            <div class=\"card\" style=\"max-width: 730px;\">\n              <div class=\"row no-gutters\">\n                <img src=\"conphoto/servidor1.jpg\" class=\"card-img-top h-100\" alt=\"...\">\n                <div class=\"\" style=\"background: #fff\">\n                  <div class=\"card-body\"><b><p style=\"color: gray\">¿Qué es el hosting web o alojamiento web?</p></b>\n                    <h5 class=\"card-title\" style=\"color: black\"></h5>\n                      <p class=\"card-text\" style=\"color: black\">\"Por lo tanto, llamamos hosting o alojamiento web al servicio de almacenamiento que proporcionan estos servidores. Y los proveedores de hosting web, ofrecen ese espacio para alojar tus páginas web y que puedan estar disponibles las 24h del día y desde cualquier parte del mundo\".</p>\n                      <a href=\"#\" class=\"btn btn-warning\"><b>Leer más</b></a>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n\n          <br><br>\n          <div class=\"card-deck\">\n            <div class=\"card text-white \" style=\"border-top:  solid 4px #900048\">\n              <div class=\"card-body\">\n                <p style=\"color: #97999b\">\n                  <b> Artículo</b>\n                </p>\n                <p style=\"color: black\">¿Qué tipos de hosting hay?</p>\n                <p style=\"color: #97999b\">Aqui te decimos cual tipo se adapta mejor a tus necesidades en esta neueva era de la información. </p>\n                <p style=\"color: black\">\n                  <b>Leer más</b>\n                </p>\n              </div>\n            </div>\n\n            <div class=\"card text-white \" style=\"border-top:  solid 4px #900048\">\n              <div class=\"card-body\">\n                <p style=\"color: #97999b\">\n                  <b>Análisis</b>\n                </p>\n                <p style=\"color: black\">Cotización de</p>\n                <p style=\"color: #97999b\">En Verosu cuenta con la cotización de camaras como la vista de equipos de alta calidad para el clinte pueda decir que gama tomar</p>\n                <p style=\"color: black\">\n                  <b>Leer más</b>\n                </p>\n              </div>\n            </div>\n\n            <div class=\"card text-white \" style=\"border-top:  solid 4px #900048\">\n              <div class=\"card-body\">\n                <p style=\"color: #97999b\">\n                  <b>Noticia</b>\n                </p>\n                <p style=\"color: black\">No hemos quedado con tu cara</p>\n                <p style=\"color: #97999b\">La tecnología basa en reconocimiento facial amenaza la privacidad de los ciudadanos y abre a un gran pesadilla basa en orwelliana </p>\n                <p style=\"color: black\">\n                  <b>Leer más</b>\n                </p>\n              </div>\n            </div>\n          </div>\n          <br><br>\n          <div class=\"bs-example\">\n            <div class=\"card\" style=\"max-width: 730px;\">\n              <div class=\"row no-gutters\">\n                <img src=\"conphoto/info42.png\" class=\"card-img-top h-100\" alt=\"...\">\n                <div class=\"\" style=\"background: #000\">\n                  <div class=\"card-body\">\n                    <b>\n                      <p style=\"color: gray\">Perspectivas</p>\n                    </b>\n                    <h5 class=\"card-title\" style=\"color: white\">Tu seguridad es importante</h5>\n                      <p class=\"card-text\" style=\"color: white\">Por eso en Verosu contamos con equipo de instalación de camaras como descuentes para nuestros clientes par su seguridad</p>\n                      <a href=\"#\" class=\"btn btn-warning\"><b>Leer más</b></a>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n\n\t\t\t  <div class=\"col-sm-4\">\n\t\t\t\t  <div class=\"sub-cuerpo2\">\n\t\t\t\t\t  <br><br>\n\t\t\t\t\t  <a class=\"twitter-timeline\" data-lang=\"es\" data-height=\"400\" data-theme=\"dark\" href=\"https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw\">National Park Tweets - Curated tweets by TwitterDev</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\t\t\t\t  </div>\n          <br>\n          <div class=\"container\">\n            <div class=\"list-group\">\n              <a href=\"contacto.php\" class=\"list-group-item list-group-item-action\" style=\"background-color: #5c7893; color: white\">\n                <b>Contacto</b>\n                <button type=\"\" class=\"btn btn-light btn-sm btn-block\">Escribenos a traves de nuestra solicitud en línea</button>\n              </a>\n              <br>\n              <a href=\"#\" class=\"list-group-item list-group-item-action\" style=\"background-color: #5c7893; color: white\">\n                <b>Solicitud de cotización</b>\n                <button type=\"\" class=\"btn btn-light btn-sm btn-block\">Enviar formulario electronico</button>\n              </a>\n              <br>\n              <a href=\"\" class=\"list-group-item list-group-item-action\" style=\"background-color: #5c7893; color: white\">\n                <b>Servicios</b>\n              </a>\n              <br>\n              <div class=\"card\">\n                <div class=\"card-header\" style=\"background-color: #5c7893; color: white\">\n                  <b>Temas Similares</b>\n                </div>\n                <div class=\"card-body\">\n                  <a href=\"#\">1</a>\n                  <br>\n                  <a href=\"#\">2</a>\n                  <br>\n                  <a href=\"#\">3</a>\n                  <br>\n                  <a href=\"#\">4</a>\n                  <br>\n                  <a href=\"#\">5</a>\n                </div>\n              </div>\n            </div>\n          </div>\n\t\t\t  </div>    \t\t\n    \t</div>\n    </div>\n\n  \t\t<?php include \"footer.html\" ?>\n\n\t</body>\n</html>",
+			"file": "/C/xampp/htdocs/Verosu/cservidorweb.php",
 			"settings":
 			{
-				"buffer_size": 8725,
+				"buffer_size": 11246,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -32,7 +37,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 84.0,
 		"history":
 		[
 		]
@@ -46,19 +51,16 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/xampp/htdocs/Verosu"
-	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/Verosu/instalacion de camaras.php",
 		"/C/xampp/htdocs/Verosu/instalaciondecamaras.php",
+		"/C/xampp/htdocs/Verosu/servidorweb.html",
+		"/C/xampp/htdocs/Verosu/instalacion de camaras.php",
 		"/C/xampp/htdocs/Verosu/inicio.php"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -72,6 +74,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t\t<title>VEROSU S. de R.L M.I</title>\n\t\t<link rel=\"stylesheet\" href=\"\">\n\t\t<link rel=\"stylesheet\" href=\"\">\n\t\t<meta charset=\"utf-8\">\n  \t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  \t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/login.css\">\n  \t<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css\">\n  \t<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js\"></script>\n  \t<script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js\"></script>\n  \t<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js\"></script>\n  \t<link rel=\"shortcut icon\" type=\"image/png\" href=\"conphoto/ab.png\"> \n  \t<link rel=\"stylesheet\" href=\"css/register.css\">\n  \t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  \t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/login.css\">\n  \t\t<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css\">\n  \t\t<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js\"></script>\n  \t\t<script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js\"></script>\n  \t\t<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js\"></script>\n  \t\t<link rel=\"shortcut icon\" type=\"image/png\" href=\"conphoto/ab.png\"> \n  \t\t<link rel=\"stylesheet\" href=\"css/register.css\">\n       <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css\">\n    <link rel=\"stylesheet\" href=\"css/animate.css\">\n\t</head>\n\t<body>\n\t\n\t\t<?php include \"nav.html\" ?>\n\n\t\t<?php include \"nav3info.html\" ?>\t\n\n\t\t<div class=\"contenedor\" align=\"center\">\n    \t<img class=\"img-fluid\" src=\"conphoto/servidor.jpg\" width=\"1800px\" style=\"opacity: 0.4\">\n    \t<div class=\"centrado\">\n      \t<p style=\"font-size: 60px; color: black;\">\n      \t\t<b><!--Cotización de servidor para páginas web--></b>\n      \t</p>\n      \t<p style=\"text-align: right; color: black;\"><!--¿Estás pensando en poner en marcha tu propia página web? Seguro que te vienen muchas preguntas relacionadas con los servicios que vas a necesitar, en Verosu tenemos los mejores precios del mercado.--></p>\n    \t</div>\n  \t</div>\n\n  \t<div class=\"container\" style=\"margin-top: 30px\">\n      <div class=\"row\">\n        <div class=\"col-sm-8\">\n          <div class=\"container mt-3\">\n            <h2>Verosu S. de R.L M.I<small style=\"color: #76746E\"><br>Servicios Integrales Comunicaciones y Tecnologia.</small></h2><br><br>\n\t\t\t\t\t    <i class=\"fab fa-facebook-square\" style=\"font-size: 48px; color: black\"></i>\n\t\t\t\t\t    <i class=\"fab fa-twitter-square\" style=\"font-size: 48px; color: black\"></i>\n\t\t\t\t\t    <i class=\"fa fa-youtube-square\" style=\"font-size: 48px; color: black\"></i>\n\t\t\t\t  </div>\n\n          <br><br>\n          <div class=\"bs-example\">\n            <div class=\"card\" style=\"max-width: 730px;\">\n              <div class=\"row no-gutters\">\n                <img src=\"conphoto/servidor2.jpg\" class=\"card-img-top h-100\" alt=\"...\">\n                <div class=\"\" style=\"background: #fff\">\n                  <div class=\"card-body\"><b><p style=\"color: gray\">¿Qué es el hosting web o alojamiento web?</p></b>\n                    <h5 class=\"card-title\" style=\"color: black\"></h5>\n                      <p class=\"card-text\" style=\"color: black\">\"Por lo tanto, llamamos hosting o alojamiento web al servicio de almacenamiento que proporcionan estos servidores. Y los proveedores de hosting web, ofrecen ese espacio para alojar tus páginas web y que puedan estar disponibles las 24h del día y desde cualquier parte del mundo\".</p>\n                      <a href=\"#\" class=\"btn btn-warning\"><b>Leer más</b></a>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n\n          <br><br>\n          <div class=\"bs-example\">\n            <div class=\"card\" style=\"max-width: 730px;\">\n              <div class=\"row no-gutters\">\n                <img src=\"conphoto/servidor1.jpg\" class=\"card-img-top h-100\" alt=\"...\">\n                <div class=\"\" style=\"background: #fff\">\n                  <div class=\"card-body\"><b><p style=\"color: gray\">Análisis</p></b>\n                    <h5 class=\"card-title\" style=\"color: black\"></h5>\n                      <p class=\"card-text\" style=\"color: black\">Los servidores web son los pilares del Hosting, permiten a los clientes alquilar almacenamiento en servidores para alojar sus archivos, conoce aquí los servidores más usados.</p>\n                      <a href=\"#\" class=\"btn btn-warning\"><b>Leer más</b></a>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n\n          <br><br>\n          <div class=\"card-deck\">\n            <div class=\"card text-white \" style=\"border-top:  solid 4px #900048\">\n              <div class=\"card-body\">\n                <p style=\"color: #97999b\">\n                  <b> Artículo</b>\n                </p>\n                <p style=\"color: black\">¿Qué tipos de hosting hay?</p>\n                <p style=\"color: #97999b\">Aqui te decimos cual tipo se adapta mejor a tus necesidades en esta neueva era de la información. </p>\n                <p style=\"color: black\">\n                  <b>Leer más</b>\n                </p>\n              </div>\n            </div>\n\n            <div class=\"card text-white \" style=\"border-top:  solid 4px #900048\">\n              <div class=\"card-body\">\n                <p style=\"color: #97999b\">\n                  <b>Análisis</b>\n                </p>\n                <p style=\"color: black\">Cotización de Servidor</p>\n                <p style=\"color: #97999b\">En Verosu cuenta con la cotización de diferentes servidores web para que el cliente pueda elegir el que mas se acomode a sus necesidades.</p>\n                <p style=\"color: black\">\n                  <b>Leer más</b>\n                </p>\n              </div>\n            </div>\n\n            <div class=\"card text-white \" style=\"border-top:  solid 4px #900048\">\n              <div class=\"card-body\">\n                <p style=\"color: #97999b\">\n                  <b>Noticia</b>\n                </p>\n                <p style=\"color: black\">Top de los servidores web más utilizaos en el mundo</p>\n                <p style=\"color: #97999b\">Cuando ingresamos a internet y abrimos una página nuestro navegador web, el navegador se está conectando a un servidor remoto y solicitando que le envíe la página que queremos ver, este servicio es un servidor web.</p>\n                <p style=\"color: black\">\n                  <b>Leer más</b>\n                </p>\n              </div>\n            </div>\n          </div>\n\n          <br><br>\n          <div class=\"bs-example\">\n            <div class=\"card\" style=\"max-width: 730px;\">\n              <div class=\"row no-gutters\">\n                <img src=\"conphoto/info42.png\" class=\"card-img-top h-100\" alt=\"...\">\n                <div class=\"\" style=\"background: #000\">\n                  <div class=\"card-body\">\n                    <b>\n                      <p style=\"color: gray\">Perspectivas</p>\n                    </b>\n                    <h5 class=\"card-title\" style=\"color: white\">¿La seguridad de tu página web puede correr peligro?</h5>\n                      <p class=\"card-text\" style=\"color: white\">Para Verosu lo más importante es la seguridad de nuestros clientes, asi que ofrecemos protección y respaldo de los servidores para poder brindar el mejor servicio.</p>\n                      <a href=\"#\" class=\"btn btn-warning\"><b>Leer más</b></a>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n\n\t\t\t <div class=\"col-sm-4\">\n          <div class=\"sub-cuerpo2\">\n            <br><br>\n            <a class=\"twitter-timeline\" data-lang=\"es\" data-height=\"400\" data-theme=\"dark\" href=\"https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw\">National Park Tweets - Curated tweets by TwitterDev</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n          </div>\n          <br>\n          <div class=\"container\">\n            <div class=\"list-group\">\n              <a href=\"contacto.php\" class=\"list-group-item list-group-item-action\" style=\"background-color: #6b778d; color: white\">\n                <b>Contacto</b>\n                <button type=\"\" class=\"btn btn-light btn-sm btn-block\">Escribenos a traves de nuestra solicitud en línea</button>\n              </a>\n              <br>\n              <a href=\"#\" class=\"list-group-item list-group-item-action\" style=\"background-color: #6b778d; color: white\">\n                <b>Solicitud de cotización</b>\n                <button type=\"\" class=\"btn btn-light btn-sm btn-block\">Enviar formulario electronico</button>\n              </a>\n              <br>\n              <a href=\"\" class=\"list-group-item list-group-item-action\" style=\"background-color: #6b778d; color: white\">\n                <b>Servicios</b>\n              </a>\n              <br>\n              <div class=\"card\">\n                <div class=\"card-header\" style=\"background-color: #6b778d; color: white\">\n                  <b>Temas Similares</b>\n                </div>\n                <div class=\"card-body\">\n                  <a href=\"#\">1</a>\n                  <br>\n                  <a href=\"#\">2</a>\n                  <br>\n                  <a href=\"#\">3</a>\n                  <br>\n                  <a href=\"#\">4</a>\n                  <br>\n                  <a href=\"#\">5</a>\n                </div>\n              </div>\n            </div>\n          </div>\n          </div>   \n\n    \t</div>\n    </div>\n\n  \t\t<?php include \"footer.html\" ?>\n\n\t</body>\n</html>",
+			" .--></",
 			"Analisis",
 			"analisis"
 		],
@@ -96,28 +100,36 @@
 			[
 				{
 					"buffer": 0,
+					"file": "/C/xampp/htdocs/Verosu/cservidorweb.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8725,
+						"buffer_size": 11246,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3961,
-								3961
+								9640,
+								9640
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"rulers":
+							[
+								72
+							],
+							"spell_check": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true,
+							"wrap_width": 0
 						},
 						"translation.x": 0.0,
-						"translation.y": 350.0,
+						"translation.y": 2679.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -128,7 +140,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 22.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -165,7 +177,7 @@
 	"project": "servidor web.php",
 	"replace":
 	{
-		"height": 40.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
