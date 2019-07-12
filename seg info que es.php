@@ -23,66 +23,177 @@
 		<?php include "nav.html" ?>
 		<?php include "nav3info.html" ?>
 
-		<div class="contenedor" align="center">
-			<img src="conphoto/info45.png" class="img-fluid" width="1800px">
+		<img src="conphoto/que es01.jpg" class="img-fluid" width="1800px">
 		</div>
 
 		<div class="container" style="margin-top: 30px;">
 			<div class="row">
 				<div class="">
 					<div  class="container mt3">
-						<h4 style="color: gray">
+						<h4 style="font-weight: bold; color: black">
 						</h4>
 						<h2>Seguridad informática ¿Qué es?</h2>
 						<p>
-							<small style="color: #76746E">
-								¿Qué es HTML?¿Como llega a funcionar?¿Qué más se necesita?¿Es tan importante?
+							<small style="font-weight: bolder; color: #76746E">
+								También conocida como ciberseguridad, es una área relacionada a la Informática y Telemática, que se encarga de la protección de la infraestructura computacional (software, base de datos, información en general, etc.).
 								<br>
-								todas las preguntas relacionas con ¿Qué es HTML? seran resultas
 							</small>
 						</p>
+
 						<br>
-						<i class="fab fa-facebook-square" style="font-size: 48px; color: black"></i>
-						<i class="fab fa-twitter-square" style="font-size: 48px; color: black"></i>
-						<i class="fa fa-youtube-square" style="font-size: 48px; color: black"></i>
+						<html>
+				        <h5 class="card-title" style="color: black">Siguenos en nuestras redes sociales:</h5>
+				        <div id="share-buttons">
+				        <!-- Facebook -->
+				          <a class="social-button" href="https://es-la.facebook.com/">
+				            <i class="fab fa-facebook-square" style="font-size: 70px; color: #0000CD"></i>
+				            </a>
+				        <!-- Twitter -->
+				          <a class="social-button" href="https://twitter.com/login?lang=es">
+				            <i class="fab fa-twitter-square" style="font-size: 70px; color: #20B2AA"></i>
+				            </a>
+				        <!-- LinkedIn -->
+				          <a class="social-button" href="https://www.linkedin.com/m/login/">
+				            <i class="fa fa-linkedin-square" style="font-size: 70px; color: ##0000FF"></i>
+				            </a>
+				        <!-- yotube -->
+				          <a class="social-button" href="https://www.youtube.com/?gl=MX&hl=es-419">
+				            <i class="fa fa-youtube-square" style="font-size: 70px; color: #FF0000"></i>
+				            </a>
+				          </div>
+				          </html>
 					</div>
 					<br>
 					<div class="container mt3" style="text-align: justify">
-						<h3 style="color: black"><b>¿Qué es HTML?</b></h3>
+						<h3 style="text-align: center;color: black"><b>¿Qué es la Seguridad informática?</b></h3>
 						<br>
-						<span>"HTML es un lenguaje de marcado que se utiliza para desarrollo de páginas de internet. Se trata de las siglas en ingles Hyper Text Markup Language, en español es Lenguaje de Marcas de Hipertexto".</span>
+						<span>"La seguridad informática protege la información de un amplio rango de amenazas con el objetivo de asegurar la continuidad de negocios, minimizar el daño comercial y maximizar el reembolso de las inversiones y oportunidades comerciales.".</span>
+
 						<br><br>
-						<span>HTML al final es un lenguaje con el que se define el contenido de las páginas web, resumiendo la mayoría de cosas Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, videos, etc. Se podría tomar en cuenta que lo que está leyendo es una página web como el Google o Facebook que tienen abierto en otra pestaña.</span>
+						<h3 style="color: black; font-size: 17px"><b>Una posible definición de seguridad informática es:</b></h3>
+						<span> La seguridad de la información es un conjunto de procesos, procedimientos, tareas y actividades implementados conjuntamente con elementos de computación y telecomunicaciones para controlar y proteger contra amenazas que pongan en riesgo los recursos informáticos (información, equipos, etc.) ubicados en un sitio específico, durante su estadía en un medio de almacenamiento o durante su transmisión, en sus aspectos de  integridad, disponibilidad, confidencialidad y autenticidad.</span>
+
 						<br><br>
-						<span>Se toma en cuenta que HTML no es un lenguaje de programación como puede ser el java, C++, C, C# o Python los cuales sin son lenguajes de programación, el HTML solo se podrá visualizar en los navegadores como son Google Chrome, Fire Fox, Internet Explorer, Opera entre otros navegadores que se pueden llegar a utilizar.</span>
+						<span>La información puede existir en muchas formas. Puede ser impresa o escrita en papel,almacenada electrónicamente, trasmitida por correo o usando medios electrónicos, impreso en películas o hablado en conversación. No importa la forma que tome, el medio por el que se comparta o en el que se almacene, siempre debe ser correctamente protegida.</span>
+
 						<br><br>
-						<h3 style="color: black"><b>¿Como llega a funcionar?</b></h3>
+						<h3 style="color: black; font-style: italic; font-size: 20px"><b>Pilares de la Seguridad informática</b></h3>
 						<br>
-						<span>"Para que HTML tome encuentra detalles, cambios y diseños se tendrá que utilizar etiquetas que nos ayudan a delimitar el inicio y el fin de un elemento".</span>
+						<span>"La gestión de la información se fundamenta en tres pilares fundamentales que son, confidencialidad, integridad y disponibilidad. La seguridad de la información aplica barreras y procedimientos que resguardan el acceso a los datos y sólo permite acceder a las personas autorizadas para realizarlo."</span>
 						<br><br>
-						<span>Las etiquetas serán parte crucial en el desarrollo de nuestra página ya que estas determinan el encabezado, el cuerpo y el pie de página como la información puesta en dichas partes, es como si fuera un ensayo las etiquetas nos ayudaran la forma en que se acomoda el texto en nuestro ensayo o en este caso de nuestra página web.</span>
+						<span>La seguridad de la información se utiliza para proteger los datos que tiene, maneja y dispone una determinada organización. Las nuevas tecnologías han modificado la forma de utilizar la seguridad de la información a gran velocidad.Las sociedades avanzadas de nuestro tiempo se denominan, sociedades de la información, ya que existe un enorme volumen de datos que son procesados, almacenados y transmitidos. Las organizaciones consideran que la información es un bien muy importante y se considera como prioritario.  Se deberá gestionar de forma eficaz el almacenamiento, procesamiento y transmisión de la información. En otras palabras, podemos decir que la información es poder.</span>
+
 						<br><br>
 						<div class="contenedor" align="center">
-							<img src="conphoto/info46.png" class="img-fluid">
+							<img src="conphoto/que es07.jpg"width="700px">
 						</div>
-						<br><br>
-						<span>Se debe tener en cuenta cuando se abra y cierre una etiqueta se usarán el menor que <b> < </b> y después el mayor que <b> > </b> esto para abrir o cerrar etiquetas, pero para finalizar la etiqueta se tendrá que utilizar la diagonal <b> / </b> después de menor que, como se muestra en la imagen de arriba.</span>
-						<br><br>
-						<h3 style="color: black"><b>¿Qué más se necesita?</b></h3>
+
 						<br>
-						<span>"HTML no es un lenguaje completo ya que solo funciona para escribir y acomodar texto, esto se conforma por otros lenguajes como es PHP, CSS, JAVA, etc."</span>
-						<br><br>
-						<span>Ya que HTML solo sirve para acomodar, mostrar y editar texto de manera plana, pero esto cambia cuando CSS (Hojas de estilo) se introduce esto le cambia el diseño a una página web en todos sus aspectos, java se introduce cuando queremos ciertas funciones como mostrar alertas o avisos para cerrar o abrir ventanas, hacer scrollview, etc, y PHP sirve para guardar datos como enviar correos, introducir una persona mediante un formulario etc. Esto se muestra en la siguiente imagen.</span>
-						<br><br>
-						<div class="contenedor" align="center">
-							<img src="conphoto/info47.gif">
-						</div>
-						<br><br>
-						<h3 style="color: black"><b>¿Es tan importante tener un página web?</b></h3>
+						<h3 style="color: black; font-style: italic; font-size: 20px"><b>1° La integridad</b></h3>
+						<span>Los datos quedarán almacenados tal y como el usuario espera de forma que no sean alterados sin su consentimiento. A esto le llamaremos integridad de la información.</span><br><br>
+
 						<br>
-						<span>En la actualidad tener una página web es parte importante si eres un persona de negocios o empresa ya que esta te ayudara a promover más tus servicios o productos a más gente como extenderse a varias partes del mundo.</span>
+						<h3 style="color: black; font-style: italic; font-size: 20px"><b>2° La confidencialidad</b></h3>
+						<span>La información sólo deberá ser utilzada por personas o sistemas informáticos que se encuentren autorizados para ello.</span><br><br>
+
+						<br>
+						<h3 style="color: black; font-style: italic; font-size: 20px"><b>3° La disponibilidad</b></h3>
+						<span>Una definición correcta podría ser que cualquier tipo de servicio, hardware u otros sean accesibles sin nigún tipo de problemas e impedimentos.</span><br><br>
+						
+
 						<br><br>
-						<span>En conclusión si es importante tener una página web si eres una persona que tienes una empresa que va iniciando o si ya llegaras a tener una empresa grande le conviene demasiado ya que con esta podran tener más clientes y poder expandirse más.</span>
+						<h3 style="color: black; font-style: italic; font-size: 20px"><b>¿Cuáles son los principales puntos débiles de cualquier sistema informático?</b></h3>
+						<h3 style="color: black; font-size: 17px"><b>El triángulo de debilidades esta conformado por Hardware, Software y Datos:</b></h3>
+
+						<br><br>
+          <div class="card-deck">
+            <div class="card text-white " style="border-top: solid 6px #9400D3">
+              <div class="card-body">
+                
+                <p style="color: #696969"> </p>
+                <p style="text-align: center; font-weight: bold; color: black">Hardware</p>
+                <p style="text-align: justify; color: black">Errores intermitentes, conexión suelta, desconexión de tarjetas, etc.</p>
+                <p style="text-align: center"> <img src="conphoto/que es02.gif" alt="..." width="200"></p>
+                </p>
+              </div>
+            </div>
+
+            <div class="card text-white " style="border-top: solid 6px #9400D3">
+              <div class="card-body">
+                <p style="color: #696969">
+                </p>
+                <p style="text-align: center; font-weight: bold; color: black">Software</p>
+                <p style="text-align: justify; color: black">Sustracción de programas, modificación, ejecución errónea, defectos en llamadas al sistema, etc.</p>
+                <p style="text-align: center"> <img src="conphoto/que es3.gif" alt="..." width="300"></p>
+                </p>
+              </div>
+            </div>
+
+            <div class="card text-white " style="border-top: solid 6px #9400D3">
+              <div class="card-body">
+                <p style="color: #696969">
+                </p>
+                <p style="text-align: center; font-weight: bold; color: black">Datos</p>
+                <p style="text-align: justify; color: black">Alteración de contenidos, introducción de datos falsos, manipulación fraudulenta de datos, etc.</p>
+                <p style="text-align: center"> <img src="conphoto/que es04.gif" alt="..." width="300"></p>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <br><br>
+		  <h3 style="color: black; font-size: 17px"><b>Pese a que no se encuentran en el punto anterior, también se consideran puntos débiles dentro del sistema. </b></h3>
+
+          <br><br>
+          <div class="card-deck">
+            <div class="card text-white " style="border-top: solid 6px #800080">
+              <div class="card-body">
+                <p style="color: #696969">
+                </p>
+                <p style="text-align: center; color: black; font-weight: bold">Memorias (USB, Discos extraibles, etc.) </p>
+                <p style="text-align: justify; color: black">Introducción de virus, mal uso de la gestión de memoria, bloqueo del sistema, etc.</p>
+                <p style="text-align: center"> <img src="conphoto/que es05.gif" alt="..." width="200"></p>
+                </p>
+              </div>
+            </div>
+
+            <div class="card text-white " style="border-top: solid 6px #800080">
+              <div class="card-body">
+                </p>
+                <p style="text-align: center; color: black; font-weight: bold">Usuarios</p>
+                <p style="text-align: justify; color: black">Suplantación de identidad, acceso no autorizado, visualización de datos confidenciales, etc.</p>
+                <p style="text-align: center"> <img src="conphoto/que es06.gif" alt="..." width="300"></p>
+                </p>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          				<br><br>
+						<h3 style="color: black; font-style: italic; font-size: 20px"><b>Debilidades de los sistemas, ¿qué gravedad presentan?</b></h3>
+						<br>
+						<span>Además de los tipos de vulnerabilidades que podemos encontrarnos en los sistemas informáticos o en las aplicaciones, los expertos catalogan las debilidades teniendo en cuenta la gravedad de las mismas, puesto que no todas van a tener el mismo impacto negativo dentro del sistema que tenemos implantado. Si nos centramos en las vulnerabilidades según la gravedad, podemos hablar de 4 categorías diferentes:</span>
+
+						<br><br>
+						<html>
+						<body>
+							<table border="1"  cellpadding="1" cellspacing="1" style="margin: 0 auto">
+								<tr>
+       						    <tr>
+           						  <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#1E90FF">Gravedad Baja</td>
+            					  <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#008000">Gravedad Media</td>
+            					  <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#FF4500">Gravedad de Gran Importancia</td>
+            					  <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#FF0000">Gravedad Crítica</td>
+          						</tr>
+
+          					<td style="color: black; text-align: center" bgcolor="#87CEFA">Se trata de la vulnerabilidad más débil que hy, puesto que es la que menos afecta a nustro sistema informático o aplicación, y por tanto la que tendrá un impacto menor en el mismo.</td>
+						              <td style="color: black; text-align: center" bgcolor="#90EE90">También es una vulnerabilidad fácil de atajar, aunque en este caso tendrá un mayor impacto que la anterior. Las consecuencias negativas de esta debilidad se pueden reducir de una form sencilla y para ello, se hace uso de herramientas como auditorías que ya se han establecido de forma previa.</td>
+						              <td style="color: black; text-align: center" bgcolor="#F0E68C">Aquí se comienza a hacer frente a vulnerabilidades más peligrosas, puesto que estas se aprovechan para atacar rápidamente el sistema informático o la aplicación correspondiente. El mayor impacto negativo se encuentra en la pérdida de confidencialidad de los datos o recursos establecidos, al igual que tambien se ve afectada la integridad de los mismos.</td>
+						              <td style="color: black; text-align: center" bgcolor="#FF6347"> Se trata de la peor vulnerabilidad que existe y la que puede traernos mayores consecuencias negativas a nuestro sistema. Es un tipo de debilidad que propicia fácilmente que se desarrolle y se expanda un gusano por la red y esta acción se lleva de forma autónoma, por lo que no hace falta que el usuario realice ningun movimiento dentro del sistema para qe se produzca un ataque.</td>
+						          </tr>
+						        </table>
+						    </body>
+						</html>
 					</div>
 				</div>
 			</div>

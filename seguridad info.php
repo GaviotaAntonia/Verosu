@@ -52,7 +52,7 @@
                   <div class="card-body"><b><p style="color: gray">Seguridad Informática, ¿Qué es?</p></b>
                     <h5 class="card-title" style="color: black"></h5>
                       <p class="card-text" style="text-align: justify; color: black"> "También conocida como ciberseguridad, es una área relacionada a la Informática y Telemática, que se encarga de la protección de la infraestructura computacional (software, base de datos, información en general, etc.)."</p>
-                      <a href="https://www.itgovernance.co.uk/what-is-cybersecurity" class="btn btn-warning"><b>Leer más</b></a>
+                      <a href="seg info que es.php" class="btn btn-warning"><b>Leer más</b></a>
                   </div>
                 </div>
               </div>
