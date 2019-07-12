@@ -68,7 +68,7 @@
                   <div class="card-body"><b><p style="color: gray">Amenazas Informáticas</p></b>
                     <h5 class="card-title" style="color: black"></h5>
                       <p class="card-text" style="text-align: justify; color: black">La seguridad de la información es más que un problema de seguridad de datos en los computadores; debe estar básicamente orientada a proteger la propiedad intelectual y la información importante de las organizaciones y de las personas. Los riesgos de la información están presentes cuando confluyen dos elementos: amenazas y vulnerabilidades. Las amenazas y vulnerabilidades están íntimamente ligadas, y no puede haber ninguna consecuencia sin la presencia conjunta de éstas. </p>
-                      <a href="https://www.getcybersafe.gc.ca/cnt/rsks/cmmn-thrts-en.aspx" class="btn btn-warning"><b>Leer más</b></a>
+                      <a href="amenaza.php" class="btn btn-warning"><b>Leer más</b></a>
                   </div>
                 </div>
               </div>
