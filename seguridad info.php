@@ -84,7 +84,7 @@
                   <div class="card-body"><b><p style="font-weight: bold; color: black">Artículo</p></b> <b><p style="color: gray">Guía básica de Ciberseguridad</p></b>
                     <h5 class="card-title" style="color: black"></h5>
                       <p class="card-text" style="text-align: justify; color: black">"Aquí te informamos sobre los puntos que tienes que considedar para estar protegido al navegar en la red y evitar el robo de tu información."</p>
-                      <a href="https://www.fayerwayer.com/2019/07/github-canonical-ubuntu-hackeada/" class="btn btn-warning"><b>Leer más</b></a>
+                      <a href="Guia basica.php" class="btn btn-warning"><b>Leer más</b></a>
                   </div>
                 </div>
               </div>

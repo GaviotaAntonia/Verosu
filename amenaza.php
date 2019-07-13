@@ -94,7 +94,7 @@
               </div>
             </div>
 
-            <div class="card text-white " style="border-top: solid 6px #00FFFF">
+            <div class="card text-white " style="border-top: solid 6px #00FF00">
               <div class="card-body">
                 </p>
                 <p style="text-align: center; color: black; font-weight: bold">No intencionales</p>
@@ -120,7 +120,7 @@
 
             <br><br>
           <div class="card-deck">
-            <div class="card text-white " style="border-top: solid 6px #9400D3">
+            <div class="card text-white " style="border-top: solid 6px #00FA9A">
               <div class="card-body">
                 
                 <p style="color: #696969"> </p>
@@ -131,7 +131,7 @@
               </div>
             </div>
 
-            <div class="card text-white " style="border-top: solid 6px #9400D3">
+            <div class="card text-white " style="border-top: solid 6px #00FA9A">
               <div class="card-body">
                 <p style="color: #696969">
                 </p>
@@ -142,7 +142,7 @@
               </div>
             </div>
 
-            <div class="card text-white " style="border-top: solid 6px #9400D3">
+            <div class="card text-white " style="border-top: solid 6px #00FA9A">
               <div class="card-body">
                 <p style="color: #696969">
                 </p>
@@ -156,18 +156,18 @@
 
           <br><br>
           <div class="card-deck">
-            <div class="card text-white " style="border-top: solid 6px #9400D3">
+            <div class="card text-white " style="border-top: solid 6px #006400">
               <div class="card-body">
                 
                 <p style="color: #696969"> </p>
                 <p style="text-align: center; font-weight: bold; color: black">Ransomware</p>
                 <p style="text-align: justify; color: black">Tanto para ordenadores como para teléfonos móviles, es una de las amenazas que más está creciendo últimamente. Un programa bloquea cualquiera de estos dos dispositivos con un mensaje en el que se pide un rescate para que el usuario pueda volver a recuperar el control. Se le exige un rescate en Bitcoin para que no pueda ser rastreada la persona o personas que han lanzado esta amenaza.</p>
-                <p style="text-align: center"> <img src="conphoto/amenaza8.gif" alt="..." width="200"></p>
+                <p style="text-align: center"> <img src="conphoto/amenaza8.gif" alt="..." width="300"></p>
                 </p>
               </div>
             </div>
 
-            <div class="card text-white " style="border-top: solid 6px #9400D3">
+            <div class="card text-white " style="border-top: solid 6px #006400">
               <div class="card-body">
                 <p style="color: #696969">
                 </p>
@@ -178,72 +178,45 @@
               </div>
             </div>
 
-            <div class="card text-white " style="border-top: solid 6px #9400D3">
+            <div class="card text-white " style="border-top: solid 6px #006400">
               <div class="card-body">
                 <p style="color: #696969">
                 </p>
                 <p style="text-align: center; font-weight: bold; color: black">Troyanos</p>
                 <p style="text-align: justify; color: black">En este caso, se trata de un programa que cuando se ejecuta, proporciona al atacante la capacidad de controlar el equipo infectado de forma remota y en muchas ocasiones sin el conocimiento del usuario.</p>
-                <p style="text-align: center"> <img src="conphoto/que es04.gif" alt="..." width="300"></p>
+                <p style="text-align: center"> <img src="conphoto/amenaza10.gif" alt="..." width="300"></p>
                 </p>
               </div>
             </div>
           </div>
 
-          <br><br>
-      <h3 style="color: black; font-size: 17px"><b>Pese a que no se encuentran en el punto anterior, también se consideran puntos débiles dentro del sistema. </b></h3>
-
+      
           <br><br>
           <div class="card-deck">
-            <div class="card text-white " style="border-top: solid 6px #800080">
+            <div class="card text-white " style="border-top: solid 6px #FF4500">
               <div class="card-body">
                 <p style="color: #696969">
                 </p>
-                <p style="text-align: center; color: black; font-weight: bold">Memorias (USB, Discos extraibles, etc.) </p>
-                <p style="text-align: justify; color: black">Introducción de virus, mal uso de la gestión de memoria, bloqueo del sistema, etc.</p>
-                <p style="text-align: center"> <img src="conphoto/que es05.gif" alt="..." width="200"></p>
+                <p style="text-align: center; color: black; font-weight: bold">Gusanos</p>
+                <p style="text-align: justify; color: black">Pueden replicarse bajo mil y una formas diferentes en nuestro sistema, y hacer que desde nuestro ordenador se envíe un gran número de copias de sí mismo a muchos otros equipos mediante el correo electrónico a nuestros contactos y éstos a los suyos, convirtiéndose en una seria amenaza.</p>
+                <p style="text-align: center"> <img src="conphoto/amenaza011.gif" alt="..." width="200"></p>
                 </p>
               </div>
             </div>
 
-            <div class="card text-white " style="border-top: solid 6px #800080">
+            <div class="card text-white " style="border-top: solid 6px #FF4500">
               <div class="card-body">
                 </p>
-                <p style="text-align: center; color: black; font-weight: bold">Usuarios</p>
-                <p style="text-align: justify; color: black">Suplantación de identidad, acceso no autorizado, visualización de datos confidenciales, etc.</p>
-                <p style="text-align: center"> <img src="conphoto/que es06.gif" alt="..." width="300"></p>
+                <p style="text-align: center; color: black; font-weight: bold">Backdoor o puerta trasera</p>
+                <p style="text-align: justify; color: black">En ocasiones, algunos programadores maliciosos dejan una puerta trasera para así poder evitar los sistemas de seguridad de acceso para poder acceder al sistema con total comodidad y sin conocimiento de los usuarios.</p>
+                <p style="text-align: center"> <img src="conphoto/amenaza012.gif" alt="..." width="300"></p>
                 </p>
                 </p>
               </div>
             </div>
           </div>
-
-            <br><br>
-            <h3 style="color: black; font-style: italic; font-size: 20px"><b>Debilidades de los sistemas, ¿qué gravedad presentan?</b></h3>
-            <br>
-            <span>Además de los tipos de vulnerabilidades que podemos encontrarnos en los sistemas informáticos o en las aplicaciones, los expertos catalogan las debilidades teniendo en cuenta la gravedad de las mismas, puesto que no todas van a tener el mismo impacto negativo dentro del sistema que tenemos implantado. Si nos centramos en las vulnerabilidades según la gravedad, podemos hablar de 4 categorías diferentes:</span>
-
-            <br><br>
-            <html>
-            <body>
-              <table border="1"  cellpadding="1" cellspacing="1" style="margin: 0 auto">
-                <tr>
-                      <tr>
-                        <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#1E90FF">Gravedad Baja</td>
-                        <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#008000">Gravedad Media</td>
-                        <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#FF4500">Gravedad de Gran Importancia</td>
-                        <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#FF0000">Gravedad Crítica</td>
-                      </tr>
-
-                    <td style="color: black; text-align: center" bgcolor="#87CEFA">Se trata de la vulnerabilidad más débil que hy, puesto que es la que menos afecta a nustro sistema informático o aplicación, y por tanto la que tendrá un impacto menor en el mismo.</td>
-                          <td style="color: black; text-align: center" bgcolor="#90EE90">También es una vulnerabilidad fácil de atajar, aunque en este caso tendrá un mayor impacto que la anterior. Las consecuencias negativas de esta debilidad se pueden reducir de una form sencilla y para ello, se hace uso de herramientas como auditorías que ya se han establecido de forma previa.</td>
-                          <td style="color: black; text-align: center" bgcolor="#F0E68C">Aquí se comienza a hacer frente a vulnerabilidades más peligrosas, puesto que estas se aprovechan para atacar rápidamente el sistema informático o la aplicación correspondiente. El mayor impacto negativo se encuentra en la pérdida de confidencialidad de los datos o recursos establecidos, al igual que tambien se ve afectada la integridad de los mismos.</td>
-                          <td style="color: black; text-align: center" bgcolor="#FF6347"> Se trata de la peor vulnerabilidad que existe y la que puede traernos mayores consecuencias negativas a nuestro sistema. Es un tipo de debilidad que propicia fácilmente que se desarrolle y se expanda un gusano por la red y esta acción se lleva de forma autónoma, por lo que no hace falta que el usuario realice ningun movimiento dentro del sistema para qe se produzca un ataque.</td>
-                      </tr>
-                    </table>
-                </body>
-            </html>
-          </div>
+    
+         </div>
         </div>
       </div>
     </div>
