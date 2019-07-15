@@ -107,18 +107,18 @@
           </div>
 
 
-            <br><br>
-            <h3 style="color: black; font-style: italic; font-size: 20px"><b>Las amenazas informáticas más comunes en la actualidad</b></h3>
             <br>
-            <span>En muchas ocasiones se tiende a denominar como virus a cualquier amenaza informática, algo que no es del todo correcto, dado que para cada amenaza hay un nombre específico. En esta entrada vamos a conocer cuáles con los nombres que reciben cada una de ellas y que pueden poner en peligro no solo nuestro ordenador particular sino la red informática de cualquier empresa.</span><br><br>
+            <h3 style="color: black; font-style: italic; font-size: 20px"><b>Amenazas informáticas más comunes</b></h3>
+            <br>
+            <span>En muchas ocasiones se tiende a denominar como virus a cualquier amenaza informática, algo que no es del todo correcto, dado que para cada amenaza hay un nombre específico. En esta entrada vamos a conocer cuáles con los nombres que reciben cada una de ellas y que pueden poner en peligro no solo nuestro ordenador particular sino la red informática de cualquier empresa.</span><br>
 
              <br>
             <span>A continuación se presentan las amenazas que rondan por la red y que pueden meternos en un lío si no prestamos especial atención a una conducta correcta en cuanto al acceso a Internet, descarga de programas o aplicaciones o tener buenos softwares anti malware y antivirus en nuestro equipo.</span>
-            <br><br>
+            <br>
             
            
 
-            <br><br>
+            <br>
           <div class="card-deck">
             <div class="card text-white " style="border-top: solid 6px #00FA9A">
               <div class="card-body">
@@ -154,7 +154,7 @@
             </div>
           </div>
 
-          <br><br>
+          <br>
           <div class="card-deck">
             <div class="card text-white " style="border-top: solid 6px #006400">
               <div class="card-body">
@@ -191,7 +191,7 @@
           </div>
 
       
-          <br><br>
+          <br>
           <div class="card-deck">
             <div class="card text-white " style="border-top: solid 6px #FF4500">
               <div class="card-body">

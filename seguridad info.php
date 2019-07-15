@@ -101,7 +101,7 @@
                 </p>
                 <p style="text-align: center; font-weight: bold; color: black">¡Canonical ha sido hackeada! </p>
                 <p style="text-align: justify; color: #97999b"> La cuenta del dueño de Ubuntu en Github ha sido hackeada, recien se informo que la cuenta de GitHub de Canonical Ltd., la compañía detrás de la distribución, fue hackeada durante este fin de semana.</p>
-                <a href="https://www.fayerwayer.com/2019/07/github-canonical-ubuntu-hackeada/" class="btn btn-info"><b>Conoce más</b></a>
+                <a href="canonical.php" class="btn btn-info"><b>Conoce más</b></a>
                 </p>
               </div>
             </div>
@@ -114,7 +114,7 @@
                 </p>
                 <p style="text-align: center; font-weight: bold; color: black"> Ciberseguridad en México y sus desafíos</p>
                 <p style="text-align: justify; color: #97999b"> Sin duda alguna, la sociedad moderna ha experimentado un crecimiento exponencial de las TIC como instrumentos de organización, control, gobierno y administración de la información.</p>
-                <a href="https://www.researchgate.net/profile/Adolfo_Arreola/publication/329253059_Ciberseguridad_Nacional_en_Mexico_y_sus_desafios/links/5bfee78d45851523d15319e2/Ciberseguridad-Nacional-en-Mexico-y-sus-desafios.pdf" class="btn btn-info"><b>Conoce más</b></a>
+                <a href="cibermexico.php" class="btn btn-info"><b>Conoce más</b></a>
                 </p>
               </div>
             </div>
@@ -127,7 +127,7 @@
                 </p>
                 <p style="text-align: center; font-weight: bold; color: black">Huawei asegura que su sistema operativo es más rápido y seguro que Android y iOS.</p>
                 <p style="text-align: justify; color: #97999b">Pese a que Estados Unidos levantara algunas medidas sobre la empresa china, esta sigue en la carrera de la independencia de sus equipos moviles y lograr competir en el mercado a la altura de sus ahora rivales comerciales.</p>
-                <a href="https://www.xataka.com/moviles/huawei-afirman-que-hongmeng-os-sera-rapido-que-android" class="btn btn-info"><b>Conoce más</b></a>
+                <a href="huawei.php" class="btn btn-info"><b>Conoce más</b></a>
                 </p>
               </div>
             </div>
@@ -143,7 +143,7 @@
                 </p>
                 <p style="text-align: center; color: black; font-weight: bold">Kaspersky alerta por malware que vacía cajeros automáticos</p>
                 <p style="text-align: justify; color: #97999b">Un nuevo malware ataca e infecta a cajeros automáticos en México y Colombia con el objetivo de vaciarlos, alertó la empresa de ciberseguridad kaspersky.</p>
-                <a href="https://www.eleconomista.com.mx/finanzaspersonales/Kaspersky-alerta-por-malware-que-vacia-cajeros-automaticos-20190703-0108.html" class="btn btn-dark"><b>Saber más</b></a>
+                <a href="Kaspersky.php" class="btn btn-dark"><b>Saber más</b></a>
                 </p>
               </div>
             </div>

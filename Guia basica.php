@@ -107,8 +107,17 @@
 						</html>
 
 						<br><br>
-						<h3 style="color: black; font-style: italic; font-size: 20px"><b>Líneas de acción</b></h3>
+						<h3 style="color: black; font-size: 17px"><b>Panorama del cibercrimen en México</b></h3>
+						<br>
+						<span>Impulsado por el hecho que la regulación actual y las instituciones tienen áreas de oportunidad para generar planes de reacción, hoy en día reportar un incidente no está relacionado con soluciones reales, también implica demostrar debilidad, por lo tanto se estima que el numero real de ataques sea mayor que el que las cifran han mostrado. En 2016, 39.1% de los usuarios de computadora fueron afectados por malware, los 10 países más seguros tienen un promedio de 16%. Los ciberataques en México no sólo se han vuelto más frecuentes, también se han vuelto más costosos.</span><br>
 
+						<br>
+						<div class="contenedor" align="center">
+							<img src="conphoto/ciber4.png"width="1000px">
+						</div><br>
+
+						<br>
+						<h3 style="color: black; font-style: italic; font-size: 20px"><b>Líneas de acción</b></h3>
 						<br>
 						<span>En los siguientes puntos se desarrolla un modelo básico que abona a la ciberseguridad del ecosistema tecnológico del sistema integral de seguridad, mediante el planteamiento de líneas de acción específicas, a fin de que estas sirvan de guía y puedan ser implementadas en las instituciones, independientemente del tipo de infraestructura que éstas habiliten, pues su aplicabilidad es general.</span>
 
@@ -124,7 +133,7 @@
             					  <td style="color: white; font-weight: bolder; text-align: center" bgcolor="##000000">Resiliencia</td>
             					  <td style="color: white; font-weight: bolder; text-align: center" bgcolor="##000000">Preservación de evidencias</td>
            						</tr>
-          					<td style="color: black; text-align: center" bgcolor="#A9A9A9">Es esencial para determinar y poder enumerar las principales amenazas, vulnerabilidades, factores de riesgo y los posibles escenarios de ataque que puedan afectar nuestros sistemas, dispositivos y redes.</td>
+          							  <td style="color: black; text-align: center" bgcolor="#A9A9A9">Es esencial para determinar y poder enumerar las principales amenazas, vulnerabilidades, factores de riesgo y los posibles escenarios de ataque que puedan afectar nuestros sistemas, dispositivos y redes.</td>
 						              <td style="color: black; text-align: center" bgcolor="#A9A9A9">Lo primero es entender y tratar los procesos para cubrir necesidades de seguridad de la organización, posteriormente las personas, involucrarlas en las soluciones de la seguridad física, esto permitirá una rápida aceptación de nuevos procesos, apoyará la mejora continua y el sostenimiento de ellos, además de generar confianza entre el personal, de esta forma la parte tecnológica habilitada para los fines que se requiera</td>
 						              <td style="color: black; text-align: center" bgcolor="#A9A9A9">Es minimizar las amenazas, vulnerabilidades y mitigar los riesgos que pueden afectar al entorno del IoT (Internet de las Cosas) y los sistemas electrónicos de seguridad.</td>
 						              <td style="color: black; text-align: center" bgcolor="#A9A9A9">Es la capacidad de recuperarse ante una situación adversa; tecnológicamente se refiere a reponerse frente a un ataque.</td>
@@ -136,118 +145,52 @@
 						    </body>
 						</html>
 
-
-						<br><br>
-						<div class="contenedor" align="center">
-							<img src="conphoto/que es07.jpg"width="700px">
-						</div>
-
-						<br>
-						<h3 style="color: black; font-style: italic; font-size: 20px"><b>1° La integridad</b></h3>
-						<span>Los datos quedarán almacenados tal y como el usuario espera de forma que no sean alterados sin su consentimiento. A esto le llamaremos integridad de la información.</span><br><br>
-
-						<br>
-						<h3 style="color: black; font-style: italic; font-size: 20px"><b>2° La confidencialidad</b></h3>
-						<span>La información sólo deberá ser utilzada por personas o sistemas informáticos que se encuentren autorizados para ello.</span><br><br>
-
-						<br>
-						<h3 style="color: black; font-style: italic; font-size: 20px"><b>3° La disponibilidad</b></h3>
-						<span>Una definición correcta podría ser que cualquier tipo de servicio, hardware u otros sean accesibles sin nigún tipo de problemas e impedimentos.</span><br><br>
 						
-
-						<br><br>
-						<h3 style="color: black; font-style: italic; font-size: 20px"><b>¿Cuáles son los principales puntos débiles de cualquier sistema informático?</b></h3>
-						<h3 style="color: black; font-size: 17px"><b>El triángulo de debilidades esta conformado por Hardware, Software y Datos:</b></h3>
-
-						<br><br>
-          <div class="card-deck">
-            <div class="card text-white " style="border-top: solid 6px #9400D3">
-              <div class="card-body">
-                
-                <p style="color: #696969"> </p>
-                <p style="text-align: center; font-weight: bold; color: black">Hardware</p>
-                <p style="text-align: justify; color: black">Errores intermitentes, conexión suelta, desconexión de tarjetas, etc.</p>
-                <p style="text-align: center"> <img src="conphoto/que es02.gif" alt="..." width="200"></p>
-                </p>
-              </div>
-            </div>
-
-            <div class="card text-white " style="border-top: solid 6px #9400D3">
-              <div class="card-body">
-                <p style="color: #696969">
-                </p>
-                <p style="text-align: center; font-weight: bold; color: black">Software</p>
-                <p style="text-align: justify; color: black">Sustracción de programas, modificación, ejecución errónea, defectos en llamadas al sistema, etc.</p>
-                <p style="text-align: center"> <img src="conphoto/que es3.gif" alt="..." width="300"></p>
-                </p>
-              </div>
-            </div>
-
-            <div class="card text-white " style="border-top: solid 6px #9400D3">
-              <div class="card-body">
-                <p style="color: #696969">
-                </p>
-                <p style="text-align: center; font-weight: bold; color: black">Datos</p>
-                <p style="text-align: justify; color: black">Alteración de contenidos, introducción de datos falsos, manipulación fraudulenta de datos, etc.</p>
-                <p style="text-align: center"> <img src="conphoto/que es04.gif" alt="..." width="300"></p>
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <br><br>
-		  <h3 style="color: black; font-size: 17px"><b>Pese a que no se encuentran en el punto anterior, también se consideran puntos débiles dentro del sistema. </b></h3>
-
-          <br><br>
-          <div class="card-deck">
-            <div class="card text-white " style="border-top: solid 6px #800080">
-              <div class="card-body">
-                <p style="color: #696969">
-                </p>
-                <p style="text-align: center; color: black; font-weight: bold">Memorias (USB, Discos extraibles, etc.) </p>
-                <p style="text-align: justify; color: black">Introducción de virus, mal uso de la gestión de memoria, bloqueo del sistema, etc.</p>
-                <p style="text-align: center"> <img src="conphoto/que es05.gif" alt="..." width="200"></p>
-                </p>
-              </div>
-            </div>
-
-            <div class="card text-white " style="border-top: solid 6px #800080">
-              <div class="card-body">
-                </p>
-                <p style="text-align: center; color: black; font-weight: bold">Usuarios</p>
-                <p style="text-align: justify; color: black">Suplantación de identidad, acceso no autorizado, visualización de datos confidenciales, etc.</p>
-                <p style="text-align: center"> <img src="conphoto/que es06.gif" alt="..." width="300"></p>
-                </p>
-                </p>
-              </div>
-            </div>
-          </div>
-
-          				<br><br>
-						<h3 style="color: black; font-style: italic; font-size: 20px"><b>Debilidades de los sistemas, ¿qué gravedad presentan?</b></h3>
 						<br>
-						<span>Además de los tipos de vulnerabilidades que podemos encontrarnos en los sistemas informáticos o en las aplicaciones, los expertos catalogan las debilidades teniendo en cuenta la gravedad de las mismas, puesto que no todas van a tener el mismo impacto negativo dentro del sistema que tenemos implantado. Si nos centramos en las vulnerabilidades según la gravedad, podemos hablar de 4 categorías diferentes:</span>
+						<h3 style="color: black; font-style: italic; font-size: 20px"><b>Educación y diálogo para los menores</b></h3>
+						<br>
+						<span>La seguridad en Internet para niños es una de las mayores preocupaciones hoy en día no sólo para madres y padres, sino para toda la sociedad en su conjunto. A los niños se les educa para saber enfrentarse a los retos, dificultades y riesgos de la vida de la mejor manera posible. Y lo mismo se debe hacer con Internet.</span><br>
 
 						<br><br>
-						<html>
-						<body>
-							<table border="1"  cellpadding="1" cellspacing="1" style="margin: 0 auto">
-								<tr>
-       						    <tr>
-           						  <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#1E90FF">Gravedad Baja</td>
-            					  <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#008000">Gravedad Media</td>
-            					  <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#FF4500">Gravedad de Gran Importancia</td>
-            					  <td style="color: black; font-weight: bolder; text-align: center" bgcolor="#FF0000">Gravedad Crítica</td>
-          						</tr>
+						<h3 style="color: black; font-size: 18px"><b>Claves de la seguridad en Internet para menores</b></h3>
 
-          					<td style="color: black; text-align: center" bgcolor="#87CEFA">Se trata de la vulnerabilidad más débil que hy, puesto que es la que menos afecta a nustro sistema informático o aplicación, y por tanto la que tendrá un impacto menor en el mismo.</td>
-						              <td style="color: black; text-align: center" bgcolor="#90EE90">También es una vulnerabilidad fácil de atajar, aunque en este caso tendrá un mayor impacto que la anterior. Las consecuencias negativas de esta debilidad se pueden reducir de una form sencilla y para ello, se hace uso de herramientas como auditorías que ya se han establecido de forma previa.</td>
-						              <td style="color: black; text-align: center" bgcolor="#F0E68C">Aquí se comienza a hacer frente a vulnerabilidades más peligrosas, puesto que estas se aprovechan para atacar rápidamente el sistema informático o la aplicación correspondiente. El mayor impacto negativo se encuentra en la pérdida de confidencialidad de los datos o recursos establecidos, al igual que tambien se ve afectada la integridad de los mismos.</td>
-						              <td style="color: black; text-align: center" bgcolor="#FF6347"> Se trata de la peor vulnerabilidad que existe y la que puede traernos mayores consecuencias negativas a nuestro sistema. Es un tipo de debilidad que propicia fácilmente que se desarrolle y se expanda un gusano por la red y esta acción se lleva de forma autónoma, por lo que no hace falta que el usuario realice ningun movimiento dentro del sistema para qe se produzca un ataque.</td>
-						          </tr>
-						        </table>
-						    </body>
-						</html>
+						<br>
+						<span> 1° Como padre, debes aprender la misma tecnología que utilizan ellos.  Si no conoces las herramientas, aplicaciones y programas que utilizan tus hijos, es imposible que los puedas proteger. Esa diferencia de conocimientos provoca una distancia que genera una falta de autoridad.</span><br>
+	
+						<br>
+						<span>2° No sólo debes aprender la misma tecnología, debes estar al día de los peligros que existen en Internet para tus hijos. Sexting, grooming, ciberacoso, robo de información, hackeos, falta de privacidad en Internet, debes conocer todos los riesgos a los que están expuestos tus hijos para poder aconsejarles y educarles en su propia protección.</<span><br>
+
+						<br>
+						<span>3° Utiliza contraseñas robustas. Tanto las cuentas que tu crees como las que se creen ellos tienen que ser robustas, es decir, que contengan mayúsculas, minúsculas, signos de puntuación y números. Además, deben ser diferentes en cada red social o programa y si es posible, modificarlas con frecuencia.</span><br>
+						
+						<br>
+						<span>4° Hacer hincapié en no aceptar a extraños. Es importante que, al igual que en la vida real les dices que no hablen ni se vayan con extraños, hagas lo mismo en el ámbito digital. Deben comprender que se exponen al mismo riesgo que en la calle.</span><br>
+
+						<br>
+						<span>5° Tener las webcams tapadas. Si alguien consigue hackear cualquiera de tus dispositivos puede tener acceso remoto a la cámara y grabar todo lo que ocurra delante de ella. Debes evitar tener esos dispositivos en cuartos de niños, así como tener siempre tapadas las webcams cuando no se estén utilizando.</span><br>
+
+						<br>
+						<span>6° No utilices WIFI público.  Las redes WIFI públicas no te garantizan ninguna seguridad. Evita conectar los dispositivos a estas conexiones ya que una vez que un virus o hacker se instala en él, puede ocasionar graves problemas a toda tu familia.</<span><br>
+
+						<br>
+						<span>7° Configura la privacidad en las redes sociales de tus hijos. Si tus hijos tienen redes sociales, es importante que configures la privacidad con ellos. De esta forma te aseguraras de que sus datos no sean públicos, que desconocidos les puedan enviar mensajes. Debes conocer las posibilidades y limitaciones que tiene cada red social para explicárselas a tus hijos y concienciarles de los peligros.</<span><br>
+
+						<br>
+						<span>8° Deja claro los peligros de compartir determinado contenido. En Internet existen multitud de maneras de compartir contenido: redes sociales, email, chats, espacios en la nube, juegos online. Una vez que algo se comparte en Internet es imposible controlar qué harán con él y a quien llegará. Tus hijos deben tener claro este punto.</span><br>
+
+						<br>
+						<span>9° Utiliza contraseñas robustas. Tanto las cuentas que tu crees como las que se creen ellos tienen que ser robustas, es decir, que contengan mayúsculas, minúsculas, signos de puntuación y números. Además, deben ser diferentes en cada red social o programa y si es posible, modificarlas con frecuencia.</span><br>
+
+						<br>
+						<div class="contenedor" align="center">
+							<img src="conphoto/ciber5.png"width="700px">
+						</div><br>
+
+						<br><br>
+						<h3 style="color: black; font-size: 17px"><b>Conclusión</b></h3>
+						<br>
+						<span>Todo ecosistema tiende a evolucionar, el tecnológico para la seguridad no será la excepción, conforme se presenten avances en materia de inteligencia artificial y mayores posibilidades de interconexión entre dispositivos, más grandes serán los retos de ciberseguridad, por tal motivo la invitación a generar una cultura de seguridad siempre será el mejor instrumento para asegurar los sistemas encargados de velar por nuestra seguridad.</span><br>
+
 					</div>
 				</div>
 			</div>
