@@ -156,7 +156,7 @@
                 </p>
                 <p style="text-align: center; color: black; font-weight: bold">SAT alerta a contribuyentes de correos apócrifos</p>
                 <p style="text-align: justify; color: #97999b">Al 28 de junio del 2019, el Servicio de Administración Tributaria (SAT) ha identificado 2,262 cuentas de correo apócrifas, mediante las cuales se intenta engañar a los contribuyentes en nombre del SAT. </p>
-                <a href="https://www.eleconomista.com.mx/finanzaspersonales/SAT-alerta-a-contribuyentes-de-correos-apocrifos-20190708-0090.html" class="btn btn-dark"><b>Saber más</b></a>
+                <a href="sat.php" class="btn btn-dark"><b>Saber más</b></a>
                 </p>
                 </p>
               </div>
